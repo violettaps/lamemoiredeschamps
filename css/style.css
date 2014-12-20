@@ -1,0 +1,19 @@
+*s {
+        border: 1px solid red;
+}
+
+ul {         
+	padding:0 0 0 0;
+    margin:0 0 0 0;
+}
+
+ul li {     
+    list-style:none;
+    padding:0 0 0 0;
+    margin:20px 0 0 0;       
+}
+
+ul li img {
+    cursor: pointer;
+}
+

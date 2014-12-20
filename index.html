@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="fr" ng-app="paintingsApp">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    	<meta name="viewport" content="width=device-width, initial-scale=1">
+    	<title>La mémoire des champs</title>	
+
+    	<link href="css/bootstrap.css" rel="stylesheet">
+    	<link href="css/style.css" rel="stylesheet">
+        <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.4/angular.min.js"></script>
+        <script src="js/controller.js"></script>
+    </head>
+
+    <body ng-controller="PaintingListCtrl">
+    <div class="container">
+    	<div class="row bg-primary">
+            <div class="col-md-6 text-left">
+    		  <h3>La mémoire des champs</h3>
+            </div>
+            <div class="col-md-6 text-right">
+    		  <h3>Lucien Pouëdras</h3>
+            </div>
+    	</div>
+        <ul class="row" ng-repeat="paintingtmp in paintings" >
+            <div ng-repeat="painting in paintingtmp">
+                <li class="col-md-2">
+                <div class="thumbnail">
+                    <img ng-src="images/{{painting.imageFile}}" 
+                        alt="{{painting.title}}">
+                    <div class="caption">
+                        <h6>{{painting.number}} {{painting.title}}</h6>        
+                    </div>
+                </div>
+                </li>
+            </div>
+        </ul>
+    </div>
+</body>
+</html>
