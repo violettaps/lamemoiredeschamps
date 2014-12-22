@@ -26,8 +26,10 @@
             <div ng-repeat="painting in paintingtmp">
                 <li class="col-md-2">
                 <div class="thumbnail">
-                    <img ng-src="images/{{painting.imageFile}}" 
+                    <a href="#">
+                        <img ng-src="images/{{painting.imageFile}}" 
                         alt="{{painting.title}}">
+                    </a>
                     <div class="caption">
                         <h6>{{painting.number}} {{painting.title}}</h6>        
                     </div>
@@ -35,6 +37,7 @@
                 </li>
             </div>
         </ul>
+
     </div>
 </body>
 </html>
