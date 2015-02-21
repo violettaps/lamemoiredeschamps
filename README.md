@@ -1,0 +1,1 @@
+Custom gallery with texts
