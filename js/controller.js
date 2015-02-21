@@ -2,6 +2,12 @@ var paintingsApp = angular.module('paintingsApp', []);
 
 paintingsApp.controller('PaintingListCtrl', function ($scope) {
 
+	$scope.current = {
+		'number': 1,
+		'title': '',
+		'imageFile': '',
+	};
+
   $scope.paintings = [
 {'number': 1,
 'title': 'Le Forgeron',
