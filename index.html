@@ -28,7 +28,7 @@
       <div class="modal-body">
         <div class="row">
 
-         <img class="col-md-8" ng-src="images/{{current.imageFile}}" 
+         <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}" 
                         alt="{{current.title}}">
         <div class="col-md-4">
             <p class="text-justify">
@@ -84,7 +84,7 @@ Dictées, calcul, et leçons seront de retour.
     	</div>
         <ul class="row" ng-repeat="paintingtmp in paintings" >
             <div ng-repeat="painting in paintingtmp">
-                <li class="col-md-2">
+                <li class="col-md-2 col-sm-2 col-lg-2">
                 <div class="thumbnail">
                     <a href="#" data-toggle="modal" data-target="#myModal" ng-click="current.number = painting.number;current.title=painting.title;current.imageFile=painting.imageFile">
                         <img ng-src="images/{{painting.imageFile}}" 
