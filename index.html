@@ -31,40 +31,10 @@
          <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}"
                         alt="{{current.title}}">
         <div class="col-md-4">
-            <p class="text-justify">
-            Depuis quelques jours, les gelées se succèdent, le sol est dur, c’est l’hiver.
-Dans la nuit, sans bruit, la neige s’est posée sur le village.
-Le matin, la surprise est totale !
-Pas question de rester au lit pour autant !
-Sans attendre, les enfants vont prendre le chemin de l’école.
-La journée sera belle, une fête, si rare.
-Les sabots de bois feront parfaitement l’affaire.
-En classe, comme en récré, la neige sera le sujet principal : pas de dictées, pas de calcul, des histoires tout au plus.
-Si par chance quelques nouveaux flocons se mettaient à tomber chacun posera son crayon pour mieux les regarder tourbillonner.
-Les plus grands feront marcher le poil au point de le faire rougir !
-Dans la toile, l’école est à deux pas.
-Le retard est toléré, aussi, naturellement les garçons prendront le temps d’organiser des glissades.
-Les filles plus sages s’occuperont des plus petits.
-Toute la journée chacun profitera de ce cadeau si rare.
-Demain la neige aura disparu !
-Dictées, calcul, et leçons seront de retour.
-            Depuis quelques jours, les gelées se succèdent, le sol est dur, c’est l’hiver.
-Dans la nuit, sans bruit, la neige s’est posée sur le village.
-Le matin, la surprise est totale !
-Pas question de rester au lit pour autant !
-Sans attendre, les enfants vont prendre le chemin de l’école.
-La journée sera belle, une fête, si rare.
-Les sabots de bois feront parfaitement l’affaire.
-En classe, comme en récré, la neige sera le sujet principal : pas de dictées, pas de calcul, des histoires tout au plus.
-Si par chance quelques nouveaux flocons se mettaient à tomber chacun posera son crayon pour mieux les regarder tourbillonner.
-Les plus grands feront marcher le poil au point de le faire rougir !
-Dans la toile, l’école est à deux pas.
-Le retard est toléré, aussi, naturellement les garçons prendront le temps d’organiser des glissades.
-Les filles plus sages s’occuperont des plus petits.
-Toute la journée chacun profitera de ce cadeau si rare.
-Demain la neige aura disparu !
-Dictées, calcul, et leçons seront de retour.
-</p>
+
+          <p class="text-justify">
+            {{current.text}}
+          </p>
         </div>
     </div>
       </div>
@@ -86,7 +56,8 @@ Dictées, calcul, et leçons seront de retour.
             <div ng-repeat="painting in paintingtmp">
                 <li class="col-md-2 col-sm-2 col-lg-2">
                 <div class="thumbnail">
-                    <a href="#" data-toggle="modal" data-target="#myModal" ng-click="current.number = painting.number;current.title=painting.title;current.imageFile=painting.imageFile">
+                    <a href="#" data-toggle="modal" data-target="#myModal"
+                          ng-click="current.number = painting.number;current.title=painting.title;current.imageFile=painting.imageFile;current.text=painting.text">
                         <img ng-src="images/thumbnails/{{painting.imageFile}}"
                         alt="{{painting.title}}">
                     </a>
