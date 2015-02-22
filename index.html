@@ -4,13 +4,13 @@
 		<meta charset="utf-8">
 		<meta http-equiv="X-UA-Compatible" content="IE=edge">
     	<meta name="viewport" content="width=device-width, initial-scale=1">
-    	<title>La mémoire des champs</title>	
+    	<title>La mémoire des champs</title>
 
 
         <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/css/bootstrap.min.css" rel="stylesheet">
 
         <link href="css/style.css" rel="stylesheet">
-        
+
     </head>
 
 
@@ -28,7 +28,7 @@
       <div class="modal-body">
         <div class="row">
 
-         <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}" 
+         <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}"
                         alt="{{current.title}}">
         <div class="col-md-4">
             <p class="text-justify">
@@ -87,11 +87,11 @@ Dictées, calcul, et leçons seront de retour.
                 <li class="col-md-2 col-sm-2 col-lg-2">
                 <div class="thumbnail">
                     <a href="#" data-toggle="modal" data-target="#myModal" ng-click="current.number = painting.number;current.title=painting.title;current.imageFile=painting.imageFile">
-                        <img ng-src="images/{{painting.imageFile}}" 
+                        <img ng-src="images/thumbnails/{{painting.imageFile}}"
                         alt="{{painting.title}}">
                     </a>
                     <div class="caption">
-                        <h6>{{painting.number}} {{painting.title}}</h6>        
+                        <h6>{{painting.number}} {{painting.title}}</h6>
                     </div>
                 </div>
                 </li>
@@ -103,6 +103,6 @@ Dictées, calcul, et leçons seront de retour.
 </html>
 
 <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.3.0-rc.4/angular.min.js"></script>
-<script src="https://code.jquery.com/jquery.js"></script>        
+<script src="https://code.jquery.com/jquery.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
 <script src="js/controller.js"></script>
