@@ -7,16 +7,13 @@ paintingsApp.controller('PaintingListCtrl', function ($scope, $http) {
 $http.get('data/data.json').success(function(data) {
   $scope.paintings = data;
 	$scope.paintings = partition($scope.paintings, 6);
+	$scope.current = $scope.paintings[3];
 	}).error(function(data, status) {
 		console.log(status);
 	});
 
-	$scope.current = {
-		'number': 1,
-		'title': '',
-		'isPrivate': false,
-		'text': '',
-		'imageFile': '001.jpg'
+	$scope.open = function(painting) {
+	  $scope.current = painting;
 	};
 
 });
