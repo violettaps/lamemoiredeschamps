@@ -1,6 +1,6 @@
 var paintingsApp = angular.module('paintingsApp', []);
 
-paintingsApp.controller('PaintingListCtrl', function ($scope, $http) {
+paintingsApp.controller('PaintingListCtrl', function ($scope, $http, $sce) {
 
  $scope.paintings = [];
 
@@ -14,6 +14,7 @@ $http.get('data/data.json').success(function(data) {
 
 	$scope.open = function(painting) {
 	  $scope.current = painting;
+	  $scope.trustedHtmlText = $sce.trustAsHtml($scope.current.text);
 	};
 
 });
