@@ -2395,5 +2395,41 @@
     "isPrivate": false,
     "text": "Un métier à la fois dur et exigeant. Il faut impérativement vivre sur place, de nuit comme de jour tous les jours de la semaine. En cas d’échec, que la meule s’enflamme et c’est le salaire qui partira en fumée ! La conduite de la cuisson exige une grande expérience. Il faut d’abord choisir le bon endroit, non loin de l’eau, à l’abri des vents et que l’approche des rondins profite d’une pente douce. La construction de la meule commence par la cheminée centrale qui laissera échapper la fumée. Elle sera recouverte de mottes de terre devant assurer une bonne étanchéité. L’allumage avec de la braise se fera par le sommet de la cheminée. La cuisson à l’étouffée sera régulée en agissant sur les trous percés à cet effet dans la paroi. La fumée tant par son odeur que par sa couleur indiquera le bon déroulement de la cuisson. Elle durera 4 à 5 journées.",
     "imageFile": "356.jpg"
+  },
+  {
+    "number": 357,
+    "title": "La Lande sous la neige",
+    "isPrivate": false,
+    "text": "Dans la nuit, une fine couche de neige s’est posée en douceur sur la Lande. Autour de la chapelle silencieuse, engourdie chaque chose est à sa place. Sous ce léger manteau blanc, personne ne viendra travailler, personne ne passera…et pourtant cette lande est bien vivante. Cette neige est si fine qu’il est aisé de reconnaître l’ajonc, la bruyère, les talus, les cheminements, chênes, saules etc. De même, il est aisé de deviner celui qui a fait les fagots, celui qui a coupé la litière, celle qui est venue laver à la fontaine. La chapelle, immobile, attendra ainsi quelques jours et bientôt retrouvera ses fidèles.",
+    "imageFile": "357.jpg",
+    "format": 1
+  },
+  {
+    "number": 358,
+    "title": "Les traversées de la Lande (L’homme au renard)",
+    "isPrivate": false,
+    "text": "L’été se retire. Les bouleaux voient leur feuillage léger jaunir. La bruyère brunie par la chaleur de l’été enveloppe ici ou là les touffes d’ajonc en fleurs. La haute saison du coupeur d’ajonc commence : la fraicheur de la rosée du matin donnera à l’ajonc la souplesse nécessaire au façonnage des mottes de litières. Durant tout l’hiver les étables réclameront cette litière pour mieux produire le fumier nécessaire au printemps prochain. L’homme au Renard est de passage, son panier sera généreusement garni, les poules ayant profité du grain laissé dans l’aire à battre après la moisson. Chacun peut imaginer la conversation entre ces deux indigents!.",
+    "imageFile": "358.jpg"
+  },
+  {
+    "number": 359,
+    "title": "Les traversées de la Lande (Le couvreur de chaume)",
+    "isPrivate": false,
+    "text": "Nous sommes début octobre. Le blé noir debout est sur le point de rejoindre l’aire à battre où les fléaux attendent. Le coupeur est là c’est la pleine saison des mottes de litière. Le couvreur de chaume aussi est très actif : la moisson du seigle lui a fourni une paille souple que les toits de chaume attendent avant les tempêtes de novembre et décembre. Dans son sac, une spatule en bois et 2 faucilles bien affutées pour la finition. Dans leur conversation il sera beaucoup question du temps qu’il va faire et bien sur de la santé des gens des villages voisons.",
+    "imageFile": "359.jpg"
+  },
+  {
+    "number": 360,
+    "title": "Les traversées de la Lande (« Le vétérinaire »)",
+    "isPrivate": false,
+    "text": "Le printemps s’est posé sur cette lande commune à trois villages. Le coupeur est arrivé très tôt pour mieux profiter de la rosée du matin. C’est l’heure de sa pause « casse-croûte ». De passage, le pseudo vétérinaire s’arrête le temps d’un échange, et d’annoncer sa destination. Pas tout à fait indigent, ce personnage est reconnu pour son savoir faire « autour » des chevaux. Aujourd’hui c’est un jeune poulain qui l’attend, il doit lui couper la queue, afin qu’elle cesse de s’allonger. Pour cela il dispose d’un couteau, des ciseaux et d’un fer qui une fois rougi dans la braise lui permettra de cautériser la plaie avant la pause d’un pansement. Au passage il s’intéressera à la jument s’assurant qu’elle se porte bien.",
+    "imageFile": "360.jpg"
+  },
+  {
+    "number": 361,
+    "title": "Les traversées de la Lande (Le retour du taureau)",
+    "isPrivate": false,
+    "text": "La nuit tombe sur la lande. La vache en chaleur a été présentée au taureau du village voisin. La traversée de la lande s’impose donc pour rejoindre le village en question. Pour le retour, aucune difficulté, la vache est pressée de rejoindre son étable ou son veau l’attend. Inutile de la tenir par la corde, elle connaît sa route il suffit de la suivre. Le « bugul » devra courir de temps en temps pour ne pas être distancé. Le coupeur de lande n’est pas présent. C’est normal car après sa journée il lui faut rejoindre sa hutte à plus d’une heure de marche. Demain, tôt, pour profiter de la rosée il sera de retour pour celui qui aura l’occasion de traverser la lande : le chasseur de taupes, ou le réparateur de parapluie par exemple !",
+    "imageFile": "361.jpg"
   }
 ]
