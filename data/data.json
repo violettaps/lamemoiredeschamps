@@ -1641,7 +1641,7 @@
   {
     "number": 248,
     "title": "Début juillet",
-    "isPrivate": true,
+    "isPrivate": false,
     "text": "Voici un lieu typique d\u0027avant le remembrement.\u003c/BR\u003eUn lieu où se rejoignent, une prairie, un champ cultivé et le début des friches et landes.\u003c/BR\u003eDans la lande, une parcelle de blé noir dans une terre fraîchement défrichée. C\u0027est la pleine fleuraison, les abeilles appréciaient.\u003c/BR\u003eLa bruyère est également en pleine floraison.\u003c/BR\u003eLa prairie a cédé son foin ; elle reverdit.\u003c/BR\u003eDans la parcelle cultivée, le seigle est prêt pour recevoir la faucille.\u003c/BR\u003e",
     "imageFile": "248.jpg"
   },
@@ -2613,5 +2613,34 @@
     "isPrivate": false,
     "text": "Le bocage morbihannais d’avant 1950 demeure dans nos mémoires. Il résultait d’une construction lente remontant à l’époque médiévale. Le chêne têtard était le cœur de ce bocage. C’est lui qui structurait le volume végétal des talus. Légué par nos ancêtres, il était un familier du quotidien du monde rural. Respecté pour sa force et sa générosité, - Il donnait, fagots, rondins, lierre, feuillés et glands. - Il abritait, geais, ramiers, hiboux, écureuils et abeilles. - Il protégeait les villages des vents. Le remembrement intensif des années 50 arasera les talus avec brutalité, repoussant nos braves chênes dans d’énormes tas de bois où renards, lapins et blaireaux trouveront un refuge. Dans cette toile, un petit village a souhaité prendre à son compte l’abattage de ses vieux chênes creux qui avaient traversé des siècles. Refusant la brutalité des Caterpillar (*) venus d’Amérique, il a fait le travail avec douceur et le respect de ses ancêtres. Ce chemin creux deviendra la route que prendra l’automobile pour apporter la modernité. </BR></BR>* Bulldozer américain",
     "imageFile": "387.jpg"
+  },
+  {
+    "number": 388,
+    "title": "Un dimanche de janvier",
+    "isPrivate": false,
+    "text": "Dans ce lieu, éloigné des villages, les versants occupés par des prairies et landes se rejoignent, gonflant ainsi le ruisseau qui coule vers le blavet. En novembre et décembre, les pluies ont été si fortes que notre ruisseau est sorti de son lit, obligeant le sentier à emprunter le haut du talus pour rejoindre la lande voisine. Les fortes gelées de janvier ont saisi cette zone inondée. Rien de tel pour organiser des glissades un dimanche après-midi, loin du regard des adultes. Le « chantier » des fagots étant en pause ce dimanche, les enfants ne vont pas manquer de se servir pour en faire des luges.",
+    "imageFile": "388.jpg"
+  },
+  {
+    "number": 389,
+    "title": "La pause du charbonnier",
+    "isPrivate": false,
+    "text": "Le matin dès son lever, le charbonnier doit avant toute chose s’assurer que la cuisson de sa meule se déroule bien, c’est-à-dire lentement. Aujourd’hui, sa surprise est totale ! Alors que le chantier ne connait que la couleur grise du charbon de bois, ce matin une petite neige vient de le recouvrir d’un léger manteau blanc ! Un moment rare pour ce charbonnier et son chien (*) Durant la nuit, la meule a continué sagement sa cuisson sous l’humidité de cette neige. Aujourd’hui sera donc une journée de repos. </BR></BR> • Le froid et l’humidité ne permettant pas de prendre la hache pour abattre les baliveaux de bouleaux. </BR></BR> • Ce matin le charbonnier aura donc tout son temps pour préparer une soupe au lard qu’il fera mijoter dans la hutte. </BR></BR> • Dans l’après-midi, avec son chien il visitera quelques terriers ramenant un ou deux lapins pris dans ses collets. </BR></BR> • La meule peut poursuivre sa cuisson lente. </BR></BR> * S’agissant d’un charbonnier seul, c’est le chien qui se charge, la nuit, d’avertir son maître d’une odeur annonçant un risque d’emballement de la cuisson.",
+    "imageFile": "389.jpg"
+  },
+  {
+    "number": 390,
+    "title": "Le printemps des pommiers",
+    "isPrivate": false,
+    "text": "Le mois de mai vient de débuter. Les pommiers, tous ensemble, ont brusquement sonné le réveil de ce petit territoire. Autour des villages, en bordure des parcelles, tous ont revêtu leur habit de fête. Le vert tendre des premières feuilles est mêlé aux bourgeons à fruits. Ceux-ci sont plus ou moins blanc rosé et rouge profond. Petit à petit, les pétales vont tomber à côté les pâquerettes qui, elles aussi, associent du rose et du blanc. Chaque arbre est fier d’afficher sa différence, selon qu’il est hâtif ou tardif et qu’il produit des fruits plus ou moins rouges, jaunes ou blancs. Le reste du bocage est lui aussi en fête : haies, buissons, chênes, aubépines, genêts, jacinthes, primevères, orchidées, céréales, trèfle incarnat et violet, navette, semis de printemps... C’était avant 1950. (*) </BR></BR> * Quand le paysage était façonné par l’imbrication des cultures, friches et élevages.",
+    "imageFile": "390.jpg",
+    "format": 1
+  },
+  {
+    "number": 391,
+    "title": "Le réveil du lavoir",
+    "isPrivate": true,
+    "text": "Durant l’hiver, ce lavoir non loin du village comme les prairies et les landes qui l’entourent a fait une longue pause. Le printemps est là, l’eau du ruisseau arrivant d’une source proche est désormais moins fraîche. Le moment est venu de sortir le linge mis de côté en attendant le mois de mai. La lessiveuse s’imposera pour faire bouillir les pièces les plus importantes. Contre le talus, au pied d’un petit chêne, l’emplacement du foyer est réactivé à son tour. Un petit troupeau est du voyage il profitera de l’herbe tendre du printemps. Deux enfants assureront sa surveillance alors que les deux femmes se chargent de la lessive. Le soleil est au rendez-vous et le linge pourra être placé sur les haies et clôtures de la prairie.",
+    "imageFile": "391.jpg"
   }
 ]
