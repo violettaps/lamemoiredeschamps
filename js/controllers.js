@@ -18,6 +18,9 @@ paintingsControllers.controller('AllPaintingsCtrl', function ($scope, $http, $sc
         return element.saison === $scope.saison
       })
     }
+    else {
+      $scope.paintings = $scope.dataPaintings
+    }
     if ($scope.activites !== '') {
       $scope.paintings = $scope.paintings.filter(function (element) {
         if (element.activites === null) {
