@@ -17,7 +17,7 @@ function loadData($scope, $http, $sce, $location, isPrivateHidden) {
     if (isPrivateHidden) {
       hidePrivatePaintings($scope);
     }
-  	$scope.paintings = partition($scope.paintings, 6);
+  	// $scope.paintings = partition($scope.paintings, 6);
   	}).error(function(data, status) {
   		console.log(status);
   	});
