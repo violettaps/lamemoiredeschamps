@@ -2,59 +2,87 @@
   <div class="modal-dialog modal-lg">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span
+            aria-hidden="true">&times;</span></button>
         <h4 class="modal-title" id="myModalLabel">
-           <span ng-if="!current.isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-           <span ng-if="current.format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+          <span ng-if="!current.isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+          <span ng-if="current.format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
           {{current.number}} {{current.title}}
         </h4>
       </div>
       <div class="modal-body">
         <div class="row">
 
-         <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}"
-                        alt="{{current.title}}">
-        <div class="col-md-4">
+          <img class="col-md-8 img-responsive" ng-src="images/{{current.imageFile}}" alt="{{current.title}}">
+          <div class="col-md-4">
 
-          <p class="text-justify" ng-bind-html="trustedHtmlText">
-            {{current.text}}
-          </p>
+            <p class="text-justify" ng-bind-html="trustedHtmlText">
+              {{current.text}}
+            </p>
+          </div>
         </div>
-    </div>
       </div>
     </div>
   </div>
 </div>
 
 
-    <div class="container">
-    	<div class="row bg-primary">
-            <div class="col-md-6 text-left">
-    		  <h3>La mémoire des champs</h3>
-            </div>
-            <div class="col-md-6 text-right">
-    		  <h3>Lucien Pouëdras</h3>
-            </div>
-    	</div>
-        <ul class="row" ng-repeat="paintingtmp in paintings" >
-            <div ng-repeat="painting in paintingtmp">
-                <li class="col-md-2 col-sm-2 col-lg-2">
-                <div class="thumbnail">
-                    <a href="#{{location}}" data-toggle="modal" data-target="#myModal"
-                          ng-click="open(painting)">
-                        <img ng-src="images/thumbnails/{{painting.imageFile}}"
-                        alt="{{painting.title}}">
-                    </a>
-                    <div class="caption">
-                      <h6>
-                        <span ng-if="!painting.isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-                        <span ng-if="painting.format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
-                        {{painting.number}} {{painting.title}}
-                      </h6>
-                    </div>
-                </div>
-                </li>
-            </div>
-        </ul>
-
+<div class="container">
+  <div class="row bg-primary">
+    <div class="col-md-6 text-left">
+      <h3>La mémoire des champs</h3>
     </div>
+    <div class="col-md-6 text-right">
+      <h3>Lucien Pouëdras</h3>
+    </div>
+  </div>
+  <div class="row">
+    <h3>Filtres</h3>
+  </div>
+  <div class="row">
+    <ul>
+      <li class="col-md-2 col-sm-2 col-lg-2">
+        <label>Saison :</label>
+      </li>
+      <li class="col-md-2 col-sm-2 col-lg-2">
+        <label>Printemps
+          <input type="checkbox" ng-model="isPrintemps">
+        </label>
+      </li>
+      <li class="col-md-2 col-sm-2 col-lg-2">
+        <label>Eté
+          <input type="checkbox" ng-model="checkboxModel.value1">
+        </label>
+      </li>
+      <li class="col-md-2 col-sm-2 col-lg-2">
+        <label>Automne
+          <input type="checkbox" ng-model="checkboxModel.value1">
+        </label>
+      </li>
+      <li class="col-md-2 col-sm-2 col-lg-2">
+        <label>Hiver
+          <input type="checkbox" ng-model="checkboxModel.value1">
+        </label>
+      </li>
+    </ul>
+  </div>
+  <div class="row">
+    <inpyt type="button" class="btn btn-default">Filtrer</button>
+  </div>
+  <ul>
+    <li ng-repeat="painting in paintings" class="col-md-2 col-sm-2 col-lg-2">
+      <div class="thumbnail">
+        <a href="#{{location}}" data-toggle="modal" data-target="#myModal" ng-click="open(painting)">
+          <img ng-src="images/thumbnails/{{painting.imageFile}}" alt="{{painting.title}}">
+        </a>
+        <div class="caption">
+          <h6>
+            <span ng-if="!painting.isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+            <span ng-if="painting.format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+            {{painting.number}} {{painting.title}}
+          </h6>
+        </div>
+      </div>
+    </li>
+  </ul>
+</div>
