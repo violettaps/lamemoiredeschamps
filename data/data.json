@@ -91,7 +91,8 @@
     "text": "Cela se passait à la mi-avril.\u003c/BR\u003eEn effet le colza coïncidait avec le printemps, c\u0027était une belle période- les vacances de pâques, les beaux jours et puis surtout les nids. Pour les enfants, tirer sur une brouette pilotée par un grand était un jeu car c\u0027était l\u0027occasion de s\u0027identifier au cheval (à défaut de tracteur). Ce jeu prenait encore plus d\u0027importance si c\u0027était une grand-mère qui tenait les bras car l\u0027enfant tirait véritablement. C\u0027était donc à la fois un jeu et un travail sérieux- si sérieux même que la grand-mère commandait son « cheval » dans les termes utilisés par les grands et du coup l\u0027enfant prenait le nom du cheval. Bien souvent, ce travail de l\u0027enfant était « payé » d\u0027avance, c\u0027est à dire qu\u0027à l\u0027aller il prenait place dans la brouette ce qui n\u0027était pas désagréable.\u003c/BR\u003e",
     "imageFile": "011.jpg",
     "saison": "printemps",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_cultivee"
   },
   {
     "number": 12,
@@ -182,7 +183,8 @@
     "text": "Cela se passait à la fin du mois de Septembre. \u003c/BR\u003eDès que le sarrasin était coupé à la faucille, il fallait le remettre debout en gerbes. Les dernières journées ensoleillées finiront de faire mûrir le grain. Le blé noir demandait une terre légère mais bien finement préparée. De plus, elle devait être « neuve », c\u0027est à dire succéder à une friche. La culture du navet lui succédait. Les coteaux de Quistinic s\u0027y prêtaient bien. Dans les terres plus riches, on risquait de faire de la paille mais pas de grain.\u003c/BR\u003e",
     "imageFile": "021.jpg",
     "saison": "automne",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_cultivee"
   },
   {
     "number": 22,
@@ -248,7 +250,8 @@
     "text": "Il s\u0027agit de choux à vaches.\u003c/BR\u003eCe travail s\u0027effectuait en parallèle avec les foins. Suivant le temps, on allait à la prairie ou au champ. Les vaches accompagnaient les gens afin de brouter l\u0027herbe avant de répandre le fumier puis de retourner fraîchement la terre.\u003c/BR\u003eLes plantes provenaient d\u0027un semis -les racines faisant l\u0027objet d\u0027une préparation minutieuse, souvent trempées dans une bouillie à base de bouses de vaches. Il était naturel qu\u0027un travail aussi délicat soit confié au  « pépé » qui s\u0027installait tranquillement à l\u0027ombre d\u0027un pommier. Nous les enfants, nous avions notre part dans cette corvée! Les pieds nus, nous faisions la navette entre le « pépé » et le piqueur. Ce n\u0027était pas un travail qui attirait beaucoup de monde, à l\u0027inverse du foin... \u003c/BR\u003e",
     "imageFile": "028.jpg",
     "saison": "printemps",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_cultivee"
   },
   {
     "number": 29,
@@ -266,7 +269,8 @@
     "text": "Une graine précieuse qu\u0027il faudra semer en septembre derrière la moisson.\u003c/BR\u003eIl s\u0027agit d\u0027un trèfle Incarnat dit rouge destiné principalement au cheval.\u003c/BR\u003eUn travail de l\u0027après-midi, au mois d\u0027août, à la chaleur afin que l\u0027épi se détache naturellement de la tige.\u003c/BR\u003eUn travail à la portée des enfants et des \"vieux\".\u003c/BR\u003eHélas un peu monotone, un avantage cependant les participants très groupés faisaient la conversation qui profitait beaucoup aux enfants rarement mêlés ainsi aux adultes.\u003c/BR\u003eL\u0027obligation de travailler sous le soleil de l\u0027après-midi présentait des risques aussi il était naturel de se mettre à l\u0027ombre des pommiers le temps de boire une goulée de cidre.\u003c/BR\u003e",
     "imageFile": "030.jpg",
     "saison": "ete",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_cultivee"
   },
   {
     "number": 31,
@@ -285,7 +289,8 @@
     "text": "Il était courant qu\u0027un champ de seigle abrite une nichée de lièvres.\u003c/BR\u003eLe bruit de la faucheuse, la présence des gens placés tout autour de la parcelle faisaient que la famille demeurait encerclée jusqu\u0027à l\u0027ultime coup de faucheuse.\u003c/BR\u003eA cet instant précis, chacun faisait son possible pour assommer le lièvre.\u003c/BR\u003eCe n\u0027était pas chose facile !\u003c/BR\u003eNos chiens à vaches n\u0027étaient pas toujours plus heureux.\u003c/BR\u003eEt pourtant, nous étions rapidement consolés puisque le travail venait de s\u0027achever.\u003c/BR\u003eLes enfants âgés de dix ans fournissaient un travail effectif.\u003c/BR\u003eEn effet, il y avait toujours un côté de la parcelle où la paille était moins haute, ce qui donnait des gerbes plus petites.\u003c/BR\u003e",
     "imageFile": "032.jpg",
     "saison": "ete",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_cultivee"
   },
   {
     "number": 33,
@@ -294,7 +299,8 @@
     "text": "Un bien joli mois ! \u003c/BR\u003eC\u0027est encore les vacances pour les enfants. Les chaumes sont comme les prairies en mai : envahis de pensées sauvages, ils tirent sur le bleu et le jaune.\u003c/BR\u003ePour les vaches, c\u0027est le dernier régal avant l\u0027hiver. Attachées certes, mais mieux vaut être tenues au bout d\u0027une corde et bien nourries qu\u0027en liberté dans un pré brûlé. Nous les enfants, nous n\u0027avons plus à les surveiller. Nous sommes alors libres au risque d\u0027être pris avec les grands pour ramasser les pommes de terre ou couper les fougères autour des champs. \u003c/BR\u003eLes pommiers commencent à plier sous leurs fruits ; bien souvent il faut les soutenir avec des branches de chêne, que l\u0027on saura récupérer l\u0027hiver venu. Les choux plantés en juillet vont céder leurs feuilles pour les vaches.\u003c/BR\u003eDans les bois et sur les talus, l\u0027automne annonce la couleur, qui passera du vert au jaune puis au marron.\u003c/BR\u003e",
     "imageFile": "033.jpg",
     "saison": "automne",
-    "activites": "elevage"
+    "activites": "elevage",
+    "espace": "zone_cultivee"
   },
   {
     "number": 34,
