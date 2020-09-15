@@ -7,7 +7,8 @@
     "imageFile": "001.jpg",
     "saison": "automne",
     "activites": "elevage",
-    "espace": "hors_cercle_quotidien"
+    "espace": "hors_cercle_quotidien",
+    "connexes": "artisans"
   },
   {
     "number": 2,
@@ -57,7 +58,8 @@
     "imageFile": "007.jpg",
     "saison": "automne",
     "activites": "manutention",
-    "espace": "zone_non_cultivée"
+    "espace": "zone_non_cultivée",
+    "connexes": "artisans"
   },
   {
     "number": 8,
@@ -144,7 +146,8 @@
     "text": "Ce métier a pratiquement disparu avec la corde synthétique. Les cordiers de Baud fournissaient le canton en petites cordes à bétail, guides pour chevaux et grosses cordes à gerber.\u003c/BR\u003eLe surplus pouvait aller vers la mer pour les cordages de pêche. \u003c/BR\u003eBien sûr, il s\u0027agissait de cordes en chanvre. Le poste de travail comportait une grande roue qui par une courroie actionnait une pièce en bois qui tressait le chanvre libéré du bout des doigts par l\u0027un des hommes. Par une autre pièce de bois, plusieurs fils étaient torsadés ensemble pour donner la corde brute. Cette corde serait ensuite frottée avec un cuir que les hommes tenaient dans les mains. On a dit qu\u0027au Moyen-Age, ce travail revenait aux lépreux qui se retiraient dans les vallées pour y travailler. \u003c/BR\u003eD\u0027autres raisons pouvaient les pousser à choisir les vallées:\u003c/BR\u003e- la proximité de l\u0027eau\u003c/BR\u003e- la nécessité d\u0027avoir un long couloir\u003c/BR\u003e- enfin le besoin de s\u0027installer dans un lieu tiède à l\u0027abri des vents.\u003c/BR\u003eLa vérité doit combiner toutes ces raisons à la fois.\u003c/BR\u003eLes cordiers de Baud occupaient un quartier appelé La Madeleine, \u003c/BR\u003ece qui voudrait dire qu\u0027effectivement des lépreux auraient installé là cette activité.\u003c/BR\u003e",
     "imageFile": "016.jpg",
     "activites": "manutention",
-    "espace": "village"
+    "espace": "village",
+    "connexes": "artisans"
   },
   {
     "number": 17,
@@ -154,7 +157,8 @@
     "imageFile": "017.jpg",
     "saison": "hiver",
     "activites": "manutention",
-    "espace": "zone_non_cultivée"
+    "espace": "zone_non_cultivée",
+    "connexes": "artisans"
   },
   {
     "number": 18,
@@ -183,7 +187,8 @@
     "imageFile": "020.jpg",
     "saison": "automne",
     "activites": "manutention",
-    "espace": "interieurs"
+    "espace": "interieurs",
+    "connexes": "artisans"
   },
   {
     "number": 21,
@@ -273,7 +278,8 @@
     "imageFile": "029.jpg",
     "saison": "hiver",
     "activites": "manutention",
-    "espace": "hors_cercle_quotidien"
+    "espace": "hors_cercle_quotidien",
+    "connexes": "artisans"
   },
   {
     "number": 30,

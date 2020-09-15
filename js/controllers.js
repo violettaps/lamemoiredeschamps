@@ -14,7 +14,8 @@ paintingsControllers.controller('AllPaintingsCtrl', function ($scope, $http, $sc
         var conditionSaison = evaluerConditionFiltre($scope.saison, element.saison)
         var conditionActivites = evaluerConditionFiltre($scope.activites, element.activites)
         var conditionEspace = evaluerConditionFiltre($scope.espace, element.espace)
-        return conditionSaison && conditionActivites && conditionEspace
+        var conditionConnexes = evaluerConditionFiltre($scope.connexes, element.connexes)
+        return conditionSaison && conditionActivites && conditionEspace && conditionConnexes
       })
   }
 
