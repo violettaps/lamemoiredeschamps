@@ -37,7 +37,7 @@
     </div>
   </div>
   <div class="row">
-    <h3>Filtres</h3>
+    <h3>Filtres ({{paintings.length}} tableaux)</h3>
   </div>
   <div class="row">
     <ul>
@@ -51,23 +51,24 @@
       </li>
       <li class="col-md-2 col-sm-2 col-lg-2">
         <label>Eté
-          <input type="checkbox" ng-model="checkboxModel.value1">
+          <input type="checkbox" ng-model="isEte">
         </label>
       </li>
       <li class="col-md-2 col-sm-2 col-lg-2">
         <label>Automne
-          <input type="checkbox" ng-model="checkboxModel.value1">
+          <input type="checkbox" ng-model="isAutomne">
         </label>
       </li>
       <li class="col-md-2 col-sm-2 col-lg-2">
         <label>Hiver
-          <input type="checkbox" ng-model="checkboxModel.value1">
+          <input type="checkbox" ng-model="isHiver">
         </label>
       </li>
     </ul>
   </div>
   <div class="row">
-    <inpyt type="button" class="btn btn-default">Filtrer</button>
+    <input type="button" ng-click="filtrer()" class="btn btn-default" value="Filtrer"/>
+    <input type="button" ng-click="supprimerFiltres()" class="btn btn-default" value="Supprimer tous les filtres"/>
   </div>
   <hr>
   <div class="row" ng-repeat="painting in paintings track by $index" ng-if="$index % 6 == 0">
