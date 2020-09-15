@@ -5,7 +5,8 @@
     "isPrivate": false,
     "text": "Notre forgeron de campagne était plus proche du cheval qu\u0027il servait que du métal qu\u0027il travaillait.\u003c/BR\u003eIl connaissait ainsi par leur petit nom plus d\u0027une centaine de chevaux. Leurs sabots qu\u0027il voyait régulièrement n\u0027avaient pour lui aucun secret.\u003c/BR\u003eIl intervenait également sur tout ce qui pouvait être tiré par un cheval : charrettes, charrues, herses… etc.\u003c/BR\u003eSa forge était généralement collée à un bistrot. A ce propos mon père ajoutait qu\u0027un forgeron qui travaille au feu et dans la poussière de charbon se devait d\u0027être proche d\u0027un comptoir!\u003c/BR\u003eDans le hameau de Kergonan, le café en question servait la soupe à midi aux enfants de l\u0027école. De midi à 14 heures notre contact avec l\u0027activité de cette forge valait bien une leçon de choses!\u003c/BR\u003eEn breton, forgeron se dit gov et la taupe goz.\u003c/BR\u003eCertains affirment qu\u0027il s\u0027agit du même mot :\u003c/BR\u003e- Comme la taupe, le forgeron est noirci au contact du charbon.\u003c/BR\u003e- Comme la taupe il n\u0027a pas besoin de lumière pour faire son métier : le fer incandescent doit être battu dans l\u0027obscurité.\u003c/BR\u003e",
     "imageFile": "001.jpg",
-    "saison": "automne"
+    "saison": "automne",
+    "activites": "elevage"
   },
   {
     "number": 2,
@@ -69,7 +70,8 @@
     "isPrivate": true,
     "text": "En Morbihan, dans le village, chaque exploitation avait son point d\u0027eau. Un puits le plus souvent.\u003c/BR\u003eLe bon puits devait savoir retenir l\u0027eau en été et si possible avoir une profondeur raisonnable soit 5 à 8 mètres.\u003c/BR\u003eLa responsabilité d\u0027un bon sourcier consistait justement à donner l\u0027indication permettant de réunir ces deux facteurs.\u003c/BR\u003eLa recherche se pratiquait donc en septembre / octobre ceci pour mieux tenir compte du niveau le plus bas.\u003c/BR\u003eNotre voisin, Job Perron avait bonne réputation et c\u0027est lui qui le dimanche à bicyclette se rendait là ou la mission d\u0027expert était demandée.\u003c/BR\u003eL\u0027obligation de résultat s\u0027imposait compte tenu de la réputation qui pouvait se faire ou se défaire.\u003c/BR\u003eA plusieurs reprises il nous faisait la démonstration avec sa fourche de bois et son pendule.\u003c/BR\u003eQui sait pourquoi mais nous n\u0027arrivions pas à obtenir une réelle influence sur la fourche que nous tenions fermement des deux mains.\u003c/BR\u003e",
     "imageFile": "010.jpg",
-    "saison": "printemps"
+    "saison": "printemps",
+    "activites": "elevage"
   },
   {
     "number": 11,
@@ -84,7 +86,8 @@
     "title": "Le vieux et la jument",
     "isPrivate": true,
     "text": "À l\u0027inverse de notre époque, chaque vieux était utile -il se sentait comme tel.\u003c/BR\u003eDans le cas présent, il s\u0027occupe du feu, çà lui donne de la chaleur. Il pourra se cuire une petite pomme mais son expérience sera surtout appréciée pour surveiller le feu. Ce n\u0027est pas une tâche qui serait confiée à un enfant quand on pense au foin qu\u0027il y a sous le toit de chaume. Le cheval aussi est heureux de cette compagnie. \u003c/BR\u003eLe vieux ne manquera pas de lui adresser la parole. \u003c/BR\u003e",
-    "imageFile": "012.jpg"
+    "imageFile": "012.jpg",
+    "activites": "elevage"
   },
   {
     "number": 13,
@@ -107,7 +110,8 @@
     "title": "La truie et sa portée (la veillée à l'étable)",
     "isPrivate": true,
     "text": "La mise bas de la truie état un évènement important. \u003c/BR\u003eLes porcelets étaient placés dans une moitié de tonneau en guise de berceau. Toutes les 2/3 heures pour la tétée, ils étaient pris en douceur et mis sur la mère le temps que chacun s\u0027habitue à une tétine. La première nuit, il était donc normal de la passer sur la paille en compagnie de la truie. \u003c/BR\u003eDès que la mise bas était terminée, la truie recevait une tartine de pain de seigle au lard. C\u0027était plus un test de bonne santé qu\u0027une récompense véritable.\u003c/BR\u003e",
-    "imageFile": "015.jpg"
+    "imageFile": "015.jpg",
+    "activites": "elevage"
   },
   {
     "number": 16,
@@ -249,7 +253,8 @@
     "isPrivate": false,
     "text": "Un bien joli mois ! \u003c/BR\u003eC\u0027est encore les vacances pour les enfants. Les chaumes sont comme les prairies en mai : envahis de pensées sauvages, ils tirent sur le bleu et le jaune.\u003c/BR\u003ePour les vaches, c\u0027est le dernier régal avant l\u0027hiver. Attachées certes, mais mieux vaut être tenues au bout d\u0027une corde et bien nourries qu\u0027en liberté dans un pré brûlé. Nous les enfants, nous n\u0027avons plus à les surveiller. Nous sommes alors libres au risque d\u0027être pris avec les grands pour ramasser les pommes de terre ou couper les fougères autour des champs. \u003c/BR\u003eLes pommiers commencent à plier sous leurs fruits ; bien souvent il faut les soutenir avec des branches de chêne, que l\u0027on saura récupérer l\u0027hiver venu. Les choux plantés en juillet vont céder leurs feuilles pour les vaches.\u003c/BR\u003eDans les bois et sur les talus, l\u0027automne annonce la couleur, qui passera du vert au jaune puis au marron.\u003c/BR\u003e",
     "imageFile": "033.jpg",
-    "saison": "automne"
+    "saison": "automne",
+    "activites": "elevage"
   },
   {
     "number": 34,

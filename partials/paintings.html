@@ -26,7 +26,6 @@
   </div>
 </div>
 
-
 <div class="container">
   <div class="row bg-primary">
     <div class="col-md-6 text-left">
@@ -39,6 +38,7 @@
   <div class="row">
     <h3>Filtres ({{paintings.length}} tableaux)</h3>
   </div>
+  <!-- Saisons -->
   <div class="row">
     <ul>
       <li class="col-md-2 col-sm-2 col-lg-2">
@@ -66,17 +66,50 @@
       </li>
     </ul>
   </div>
+  </br>
+  <!-- Activites -->
+  <div class=row>
+    <span class="col-md-4 col-sm-4 col-lg-4">
+      <label for="activites"> Activités: </label>
+      <select name="activites" ng-model="activites">
+        <option value="travaux">Travaux / terre</option>
+        <option value="elevage">Elevage</option>
+        <option value="cueillete">Ceuillette / non cultivé</option>
+        <option value="manutention">Manutention - transports / artisanat</option>
+        <option value="repos">Repos - festivité - religiton - école</option>
+      </select>
+    </span>
+    <span class="col-md-4 col-sm-4 col-lg-4">
+      <label for="espace"> Espace: </label>
+      <select name="espace" ng-model="espace">
+        <option value="interieurs">Intérieurs</option>
+        <option value="village">Village</option>
+        <option value="zone_cultivee">Zone cultivée</option>
+        <option value="zone_non_cultivée">Zone non cultivée</option>
+        <option value="hors_cercle_quotidien">Hors cercle quotidien</option>
+      </select>
+    </span>
+    <span class="col-md-4 col-sm-4 col-lg-4">
+      <label for="connexes"> Connexes: </label>
+      <select name="connexes" ng-model="connexes">
+        <option value="artisans">Artisans / commerçants</option>
+        <option value="indigents">Indigents</option>
+        <option value="loisirs">Loisirs - école</option>
+      </select>
+    </span>
+  </div>
+  </br>
   <div class="row">
-    <input type="button" ng-click="filtrer()" class="btn btn-default" value="Filtrer"/>
-    <input type="button" ng-click="supprimerFiltres()" class="btn btn-default" value="Supprimer tous les filtres"/>
+    <input type="button" ng-click="filtrer()" class="btn btn-default" value="Filtrer" />
+    <input type="button" ng-click="supprimerFiltres()" class="btn btn-default" value="Supprimer tous les filtres" />
   </div>
   <hr>
   <div class="row" ng-repeat="painting in paintings track by $index" ng-if="$index % 6 == 0">
-    <div class="col-md-2 col-sm-2 col-lg-2" 
-         ng-repeat="i in [$index, $index + 1, $index + 2, $index + 3, $index + 4, $index + 5]" 
-         ng-if="paintings[i] != null">
-         <div>
-         <div class="thumbnail">
+    <div class="col-md-2 col-sm-2 col-lg-2"
+      ng-repeat="i in [$index, $index + 1, $index + 2, $index + 3, $index + 4, $index + 5]"
+      ng-if="paintings[i] != null">
+      <div>
+        <div class="thumbnail">
           <a href="#{{location}}" data-toggle="modal" data-target="#myModal" ng-click="open(paintings[i])">
             <img ng-src="images/thumbnails/{{paintings[i].imageFile}}" alt="{{paintings[i].title}}">
           </a>
