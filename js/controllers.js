@@ -10,25 +10,26 @@ paintingsControllers.controller('AllPaintingsCtrl', function ($scope, $http, $sc
   $scope.espace = ''
   $scope.connexes = ''
   $scope.filtrer = function () {
-    if ($scope.saison !== '') {
       $scope.paintings = $scope.dataPaintings.filter(function (element) {
-        if (element.saison === null) {
-          return false
-        }
-        return element.saison === $scope.saison
+        var conditionSaison = evaluerConditionFiltre($scope.saison, element.saison)
+        var conditionActivites = evaluerConditionFiltre($scope.activites, element.activites)
+        return conditionSaison && conditionActivites
       })
+  }
+
+  function evaluerConditionFiltre(saisieUtilisateur, proprieteTableau) {
+    var conditionSaison = true
+    if (saisieUtilisateur !== '') {
+      if (proprieteTableau === null) {
+        conditionSaison = false
+      }
+      else {
+        conditionSaison = proprieteTableau === saisieUtilisateur
+      }  
     }
-    else {
-      $scope.paintings = $scope.dataPaintings
-    }
-    if ($scope.activites !== '') {
-      $scope.paintings = $scope.paintings.filter(function (element) {
-        if (element.activites === null) {
-          return false
-        }
-        return element.activites === $scope.activites
-      })
-    }
+
+    return conditionSaison
+
   }
 
   $scope.supprimerFiltres = function () {
