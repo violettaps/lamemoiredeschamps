@@ -15,7 +15,8 @@
     "text": "Le four est mis en route. Il restera chaud toute la semaine - rôtis de veau et gâteaux y seront cuits, en particuliers. \u003c/BR\u003eDans la remise, les tables sont levées à l\u0027abri, car en cette période de l\u0027année le temps n\u0027est pas assuré. C\u0027est la période de Pâques, les pâquerettes sont en fleurs et la pie a bien avancé son nid.\u003c/BR\u003eLes chaudières « Rozières » sont montées en plein air. On y cuira le ragoût et la soupe. Un premier porc est abattu dehors, tandis que les veaux sont découpés dans une grange. Les légumes se préparent en plein air. \u003c/BR\u003eUne première barrique de cidre est percée, plus pour les personnes en charge des préparatifs du lundi que pour les repas de la noce à venir.\u003c/BR\u003eCe chantier, ouvert le lundi, se poursuivra jusqu\u0027au jeudi, le temps de restituer les tables, bancs et vaisselles, empruntés aux voisins, soit quatre jours de fête pour deux noces (mardi et mercredi).\u003c/BR\u003e",
     "imageFile": "002.jpg",
     "saison": "printemps",
-    "activites": "repos"
+    "activites": "repos",
+    "espace": "village"
   },
   {
     "number": 3,
@@ -33,7 +34,8 @@
     "text": "C\u0027était l\u0027époque où le renard s\u0027attaquait à la basse-cour.\u003c/BR\u003eUne poule volée! un manque à gagner non négligeable.\u003c/BR\u003eQuand le renard était pris, il était convenu que l\u0027heureux chasseur passait lui-même apporter la preuve de son exploit et surtout « empocher » la récompense, c\u0027est à dire quelques oeufs!\u003c/BR\u003eIl était généralement convenu que « la patronne » reconnaisse son renard, celui même qu\u0027elle avait déjà surpris à roder...\u003c/BR\u003eCette vérification était bien utile car il arrivait aussi que le renard, une fois la récolte achevée, était cédé à un « collègue » qui s\u0027en servait à son tour sur un autre secteur!!!\u003c/BR\u003eNotre personnage  voudrait être celui dit le « boucher de Kerdanué ».\u003c/BR\u003e",
     "imageFile": "004.jpg",
     "saison": "printemps",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "village"
   },
   {
     "number": 5,
@@ -69,7 +71,8 @@
     "text": "Il était naturel que chaque village soit repérable par son sapin de croix - un peu comme le bourg autour de son clocher.\u003c/BR\u003eLa végétation était alors si serrée que le voyageur était bien souvent heureux de s\u0027orienter ainsi. Son tronc était si long que sa chute ne pouvait se faire naturellement sans dégâts. Une longue corde permettait de la diriger. L\u0027un des scieurs conduit la manœuvre délicate à la corde. \u003c/BR\u003eLes autres placés dans l\u0027ordre du plus fort, capables de réagir avec l\u0027arbre, au plus lourd, servant de contrepoids, terminent le travail. \u003c/BR\u003eAu pignon de la ferme, les vieux assistent un peu triste à la chute de leur clocher.\u003c/BR\u003eUne fois tombé, son tronc pourra servir à faire une belle échelle- celle servant habituellement à traiter les toits de chaume.\u003c/BR\u003e",
     "imageFile": "009.jpg",
     "saison": "automne",
-    "activites": "cueillete"
+    "activites": "cueillete",
+    "espace": "village"
   },
   {
     "number": 10,
@@ -78,7 +81,8 @@
     "text": "En Morbihan, dans le village, chaque exploitation avait son point d\u0027eau. Un puits le plus souvent.\u003c/BR\u003eLe bon puits devait savoir retenir l\u0027eau en été et si possible avoir une profondeur raisonnable soit 5 à 8 mètres.\u003c/BR\u003eLa responsabilité d\u0027un bon sourcier consistait justement à donner l\u0027indication permettant de réunir ces deux facteurs.\u003c/BR\u003eLa recherche se pratiquait donc en septembre / octobre ceci pour mieux tenir compte du niveau le plus bas.\u003c/BR\u003eNotre voisin, Job Perron avait bonne réputation et c\u0027est lui qui le dimanche à bicyclette se rendait là ou la mission d\u0027expert était demandée.\u003c/BR\u003eL\u0027obligation de résultat s\u0027imposait compte tenu de la réputation qui pouvait se faire ou se défaire.\u003c/BR\u003eA plusieurs reprises il nous faisait la démonstration avec sa fourche de bois et son pendule.\u003c/BR\u003eQui sait pourquoi mais nous n\u0027arrivions pas à obtenir une réelle influence sur la fourche que nous tenions fermement des deux mains.\u003c/BR\u003e",
     "imageFile": "010.jpg",
     "saison": "printemps",
-    "activites": "elevage"
+    "activites": "elevage",
+    "espace": "village"
   },
   {
     "number": 11,
@@ -95,7 +99,8 @@
     "isPrivate": true,
     "text": "À l\u0027inverse de notre époque, chaque vieux était utile -il se sentait comme tel.\u003c/BR\u003eDans le cas présent, il s\u0027occupe du feu, çà lui donne de la chaleur. Il pourra se cuire une petite pomme mais son expérience sera surtout appréciée pour surveiller le feu. Ce n\u0027est pas une tâche qui serait confiée à un enfant quand on pense au foin qu\u0027il y a sous le toit de chaume. Le cheval aussi est heureux de cette compagnie. \u003c/BR\u003eLe vieux ne manquera pas de lui adresser la parole. \u003c/BR\u003e",
     "imageFile": "012.jpg",
-    "activites": "elevage"
+    "activites": "elevage",
+    "espace": "interieurs"
   },
   {
     "number": 13,
@@ -121,7 +126,8 @@
     "isPrivate": true,
     "text": "La mise bas de la truie état un évènement important. \u003c/BR\u003eLes porcelets étaient placés dans une moitié de tonneau en guise de berceau. Toutes les 2/3 heures pour la tétée, ils étaient pris en douceur et mis sur la mère le temps que chacun s\u0027habitue à une tétine. La première nuit, il était donc normal de la passer sur la paille en compagnie de la truie. \u003c/BR\u003eDès que la mise bas était terminée, la truie recevait une tartine de pain de seigle au lard. C\u0027était plus un test de bonne santé qu\u0027une récompense véritable.\u003c/BR\u003e",
     "imageFile": "015.jpg",
-    "activites": "elevage"
+    "activites": "elevage",
+    "espace": "interieurs"
   },
   {
     "number": 16,
@@ -129,7 +135,8 @@
     "isPrivate": false,
     "text": "Ce métier a pratiquement disparu avec la corde synthétique. Les cordiers de Baud fournissaient le canton en petites cordes à bétail, guides pour chevaux et grosses cordes à gerber.\u003c/BR\u003eLe surplus pouvait aller vers la mer pour les cordages de pêche. \u003c/BR\u003eBien sûr, il s\u0027agissait de cordes en chanvre. Le poste de travail comportait une grande roue qui par une courroie actionnait une pièce en bois qui tressait le chanvre libéré du bout des doigts par l\u0027un des hommes. Par une autre pièce de bois, plusieurs fils étaient torsadés ensemble pour donner la corde brute. Cette corde serait ensuite frottée avec un cuir que les hommes tenaient dans les mains. On a dit qu\u0027au Moyen-Age, ce travail revenait aux lépreux qui se retiraient dans les vallées pour y travailler. \u003c/BR\u003eD\u0027autres raisons pouvaient les pousser à choisir les vallées:\u003c/BR\u003e- la proximité de l\u0027eau\u003c/BR\u003e- la nécessité d\u0027avoir un long couloir\u003c/BR\u003e- enfin le besoin de s\u0027installer dans un lieu tiède à l\u0027abri des vents.\u003c/BR\u003eLa vérité doit combiner toutes ces raisons à la fois.\u003c/BR\u003eLes cordiers de Baud occupaient un quartier appelé La Madeleine, \u003c/BR\u003ece qui voudrait dire qu\u0027effectivement des lépreux auraient installé là cette activité.\u003c/BR\u003e",
     "imageFile": "016.jpg",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "village"
   },
   {
     "number": 17,
@@ -146,7 +153,8 @@
     "isPrivate": false,
     "text": "Cette toile a voulu opposer l\u0027évolution irréversible qui va briser brutalement le passage d\u0027une génération à la suivante.\u003c/BR\u003e- La nouvelle génération est dans l\u0027obligation d\u0027adopter la mécanisation pour survivre.\u003c/BR\u003e- l\u0027ancienne est à la fois fière de voir son fils maîtriser ces techniques modernes et triste de voir son propre système abandonné, disqualifié, broyé par ce mouvement. Les choses vont aller si vite que le compromis n\u0027aura pas le temps de s\u0027organiser. \u003c/BR\u003eQuel dommage pour tous!\u003c/BR\u003e",
     "imageFile": "018.jpg",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "village"
   },
   {
     "number": 19,
@@ -164,7 +172,8 @@
     "text": "Sur la commune de Languidic, Les toitures en chaume étaient nombreuses encore jusqu\u0027en 1950. L\u0027ardoise est apparue en priorité sur les maisons d\u0027habitation. \u003c/BR\u003eLe métier de couvreur de chaume était donc indispensable. Chaque exploitation se devait de mettre de côté la paille de seigle nécessaire. Le couvreur « demandé » arrivait avec son tablier de cuir, sa spatule et sa serpe. Sur place, il trouvera la grande échelle, la fourche, \u003c/BR\u003ele « pen mar », la paille, le repas, la boisson et de quoi dormir éventuellement. \u003c/BR\u003ePour les travaux importants, les voisins viendront donner le coup de main pour couper les galettes d\u0027argile. Un travail soigné s\u0027imposait. Pour cela, la patronne devait faire un effort pour le repas. Le couvreur de chaume était seul sur le toit mais les petites occasions ne manquaient pas pour descendre de l\u0027échelle. \u003c/BR\u003eNotre couvreur venait de Lann-Menhir, il s\u0027appelait Ernest « Toher », il était très gros et mon père y voyait un avantage quand il s\u0027agissait de mettre la grande échelle debout.\u003c/BR\u003e",
     "imageFile": "020.jpg",
     "saison": "automne",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "interieurs"
   },
   {
     "number": 21,
@@ -182,7 +191,8 @@
     "text": "Un potager situé plein sud, laissant un large passage devant la maison d\u0027habitation, constituait une disposition intéressante mais toujours possible.\u003c/BR\u003eL\u0027ensoleillement favorisait les premiers légumes de printemps. En été, les fleurs soulignaient et mettaient en valeur le domaine de la maîtresse de maison. Face à cette maison, la surveillance était aisée car les poules, en liberté, ne rataient pas une occasion de visiter le jardin... Contre le four à pain, un coin encore mieux abrité était réservé aux ruches et choux fourragers, transplantés après l\u0027hiver en vue de reproduire des graines pour l\u0027année suivante. Cet endroit privilégié appartenait aussi aux primevères ainsi qu\u0027au rouge-gorge. \u003c/BR\u003eUn peu de grillage en façade, une haie et bien souvent des fagots de bois mis serrés côte à côte, le temps de sécher, servaient de clôture. L\u0027année suivante, la nouvelle récolte les remplacera.\u003c/BR\u003e",
     "imageFile": "022.jpg",
     "saison": "printemps",
-    "activites": "repos"
+    "activites": "repos",
+    "espace": "village"
   },
   {
     "number": 23,
@@ -218,7 +228,8 @@
     "text": "Cette petite église est au cœur d\u0027un village composé de six fermes.\u003c/BR\u003eLa messe y était célébrée une fois l\u0027an, le 15 août précisément, c\u0027est à dire au milieu (Kreiz) entre moisson blanche et moisson noire à venir en octobre.\u003c/BR\u003eLe battage a donc eu lieu si le temps a été conforme à l\u0027attente. La longueur des meules (Golveg) de paille donnait une bonne indication du volume des récoltes de seigle, blé et avoine.\u003c/BR\u003eLes hommes disponibles après ces grands travaux de juillet août venaient nombreux à cette messe qui leur donnait l\u0027occasion d\u0027évoquer justement les résultats de la récolte.\u003c/BR\u003eIls venaient des autres villages voisins. La chapelle modeste en taille ne permettait pas de loger la totalité. Ce qui n\u0027était pas forcément un inconvénient. Ce qui comptait le plus c\u0027était de participer aux cantiques.\u003c/BR\u003eLa messe terminée, il était naturel de faire une visite aux amis le temps de prendre le café et de goûter le fars fait la veille dans le four à pain du village.\u003c/BR\u003eLe mendiant à gauche vient prendre livraison des prières qu\u0027il ira porter à Saint Anne.\u003c/BR\u003eSon sac lui permettait de \"ramasser\" la récompense.\u003c/BR\u003e",
     "imageFile": "026.jpg",
     "saison": "ete",
-    "activites": "repos"
+    "activites": "repos",
+    "espace": "village"
   },
   {
     "number": 27,
@@ -227,7 +238,8 @@
     "text": "Le choix du moment était déterminant. \u003c/BR\u003eLa sève est réveillée mais sa montée est tout juste amorcée. La journée est calme plutôt humide- et la lune favorable pour les jours à venir- bien entendu. Les greffons ont été retardés afin de mieux « tirer » sur le tronc nourricier. Pour cela, ils auront tété prélevés en hiver et enfoncé dans une terre exposée au Nord...\u003c/BR\u003eAvant l\u0027utilisation du mastic synthétique, le greffeur utilisait un mortier à base de terre argileuse laquelle était appliquée sur la tête fendue; le tout soigneusement serré dans du tissu ressemblait à un petit bébé langé à l\u0027ancienne. Les échecs étaient peu nombreux.\u003c/BR\u003e",
     "imageFile": "027.jpg",
     "saison": "printemps",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "village"
   },
   {
     "number": 28,
@@ -263,7 +275,8 @@
     "text": "Un moment bien agréable à l\u0027occasion des foins!\u003c/BR\u003eLes journées sont longues en cette époque de l\u0027année et une pause sera la bienvenue!\u003c/BR\u003eTout à côté des bâtiments de ferme, il y avait toujours un ou deux cerisiers. Les enfants grimpaient les pieds nus, coupaient les branches les plus fournies et les jetaient vers les femmes qui  les attendaient le tablier ouvert. \u003c/BR\u003eIl restait à faire la distribution à toutes les personnes rassemblées là pour se reposer, bavarder ou battre la faux. Les voisins pouvaient participer à cette petite fête.\u003c/BR\u003e",
     "imageFile": "031.jpg",
     "saison": "ete",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "village"
   },
   {
     "number": 32,
