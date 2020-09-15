@@ -28,7 +28,8 @@
     "imageFile": "003.jpg",
     "saison": "hiver",
     "activites": "manutention",
-    "espace": "zone_non_cultivée"
+    "espace": "zone_non_cultivée",
+    "connexes": "indigents"
   },
   {
     "number": 4,
@@ -38,7 +39,8 @@
     "imageFile": "004.jpg",
     "saison": "printemps",
     "activites": "manutention",
-    "espace": "village"
+    "espace": "village",
+    "connexes": "indigents"
   },
   {
     "number": 5,
@@ -89,7 +91,8 @@
     "imageFile": "010.jpg",
     "saison": "printemps",
     "activites": "elevage",
-    "espace": "village"
+    "espace": "village",
+    "connexes": "indigents"
   },
   {
     "number": 11,
@@ -177,7 +180,8 @@
     "imageFile": "019.jpg",
     "saison": "hiver",
     "activites": "manutention",
-    "espace": "zone_non_cultivée"
+    "espace": "zone_non_cultivée",
+    "connexes": "indigents"
   },
   {
     "number": 20,
@@ -248,7 +252,8 @@
     "imageFile": "026.jpg",
     "saison": "ete",
     "activites": "repos",
-    "espace": "village"
+    "espace": "village",
+    "connexes": "loisirs"
   },
   {
     "number": 27,
