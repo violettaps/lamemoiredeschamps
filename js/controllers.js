@@ -5,38 +5,18 @@ paintingsControllers.controller('PaintingsCtrl', function ($scope, $http, $sce, 
 });
 
 paintingsControllers.controller('AllPaintingsCtrl', function ($scope, $http, $sce, $location) {
-  $scope.isPrintemps = false
-  $scope.isEte = false
-  $scope.isAutomne = false
-  $scope.isHiver = false
+  $scope.saison = ''
   $scope.filtrer = function() {
     $scope.paintings = $scope.dataPaintings.filter(function(element) {
-      if (element.saison) {
-          if ($scope.isPrintemps && !element.saison.includes("printemps")) {
-            return false
-          }
-          if ($scope.isEte && !element.saison.includes("ete")) {
-            return false
-          }
-          if ($scope.isAutomne && !element.saison.includes("automne")) {
-            return false
-          }
-          else if ($scope.isHiver && !element.saison.includes("hiver")) {
-            return false
-          }
-          return true
-
-      } else {
+      if (element.saison === null) {
         return false
       }
+      return element.saison === $scope.saison
     })
   }  
 
   $scope.supprimerFiltres = function() {
-    $scope.isPrintemps = false
-    $scope.isEte = false
-    $scope.isAutomne = false
-    $scope.isHiver = false
+    $scope.saison = ''
     $scope.paintings = $scope.dataPaintings
   }
 
