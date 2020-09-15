@@ -69,20 +69,25 @@
   <div class="row">
     <inpyt type="button" class="btn btn-default">Filtrer</button>
   </div>
-  <ul>
-    <li ng-repeat="painting in paintings" class="col-md-2 col-sm-2 col-lg-2">
-      <div class="thumbnail">
-        <a href="#{{location}}" data-toggle="modal" data-target="#myModal" ng-click="open(painting)">
-          <img ng-src="images/thumbnails/{{painting.imageFile}}" alt="{{painting.title}}">
-        </a>
-        <div class="caption">
-          <h6>
-            <span ng-if="!painting.isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
-            <span ng-if="painting.format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
-            {{painting.number}} {{painting.title}}
-          </h6>
+  <hr>
+  <div class="row" ng-repeat="painting in paintings track by $index" ng-if="$index % 6 == 0">
+    <div class="col-md-2 col-sm-2 col-lg-2" 
+         ng-repeat="i in [$index, $index + 1, $index + 2, $index + 3, $index + 4, $index + 5]" 
+         ng-if="paintings[i] != null">
+         <div>
+         <div class="thumbnail">
+          <a href="#{{location}}" data-toggle="modal" data-target="#myModal" ng-click="open(paintings[i])">
+            <img ng-src="images/thumbnails/{{paintings[i].imageFile}}" alt="{{paintings[i].title}}">
+          </a>
+          <div class="caption">
+            <h6>
+              <span ng-if="!paintings[i].isPrivate" class="glyphicon glyphicon-ok" aria-hidden="true"></span>
+              <span ng-if="paintings[i].format" class="glyphicon glyphicon-asterisk" aria-hidden="true"></span>
+              {{paintings[i].number}} {{paintings[i].title}}
+            </h6>
+          </div>
         </div>
       </div>
-    </li>
-  </ul>
+    </div>
+  </div>
 </div>
