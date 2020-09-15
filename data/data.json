@@ -25,7 +25,8 @@
     "text": "Pas un métier véritable. Une spécialité cependant. Un travail généralement réservé aux sans domicile fixe. Le travail leur apportait le repas, une place au grenier et une petite somme. Quelques avantages exceptionnels : \u003c/BR\u003e\t- celui de dormir à la place du cochon qui venait d\u0027être tué\u003c/BR\u003e\t- celui de récupérer les vêtements du mort éventuel.\u003c/BR\u003e J\u0027ai gardé le souvenir précis de celui qui venait à notre ferme - on l\u0027appelait \"Misère\", il nous menaçait toujours de se noyer dans le Blavet s\u0027il n\u0027y avait pas de travail pour lui !\u003c/BR\u003eNous étions fiers de lui porter son repas à la lande. Il fallait pour cela deux enfants car deux bouteilles de cidre étaient indispensables. \u003c/BR\u003eIl nous réservait des surprises, des nids de rossignols, des vipères ou couleuvres...\u003c/BR\u003e",
     "imageFile": "003.jpg",
     "saison": "hiver",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 4,
@@ -44,7 +45,8 @@
     "text": "Les prairies dites naturelles sont placées de part et d\u0027autre du ruisseau commun et ce n\u0027est pas par hasard que, plusieurs villages se trouvent ainsi tôt le matin représentés par des hommes arrivant pour la première coupe de foin.\u003c/BR\u003eLa veille déjà, les marteaux chantant sous la lame de la faux faisaient courir le bruit que le temps s\u0027était mis au beau. Ces prairies plutôt éloignées des villages étaient demeurées muettes depuis l\u0027automne dernier et brutalement, tout le village va se transporter là, le temps de la fenaison. Les parcelles étaient si petites que les gens s\u0027interpellaient le temps de passer la pierre sur la faux avant de faire un nouveau rang. \u003c/BR\u003eUn peu plus tard, les épouses rejoindront les hommes. Entre temps, elles auront assuré les travaux de la ferme. Elles seront les bienvenues vers 9 heures car chacun sait qu\u0027elles arriveront avec les fourches mais surtout avec une omelette et du cidre bouché. Cette omelette est d\u0027autant précieuse qu\u0027il s\u0027agit des premiers oeufs pondus avec le retour des beaux jours. Dès que le soleil passera au-dessus des arbres, que la rosée sera insuffisante, les faux s\u0027arrêteront  pour reprendre demain matin à l\u0027aube.\u003c/BR\u003e",
     "imageFile": "005.jpg",
     "saison": "ete",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 7,
@@ -53,7 +55,8 @@
     "text": "Le métier de charretier a disparu avec les tracteurs et engins forestiers.\u003c/BR\u003eTout de suite à la libération de 1945, le camion G.M.C. « tout terrain » laissé par les américains a été adopté puis généralisé.\u003c/BR\u003eLe charretier pouvait travailler pour le compte d\u0027une scierie (pont de Baud, Languidic) mais aussi au coup par coup pour les sabotiers. Mon père me disait qu\u0027un charretier ne vivait pas vieux, son cheval non plus, tellement l\u0027effort fourni pouvait être violent. Ce qui m\u0027impressionnait le plus, c\u0027était le « diable » avec ses grandes roues, sa flèche et ses grosses chaînes. Les chevaux qui devaient traîner des troncs lourds savaient travailler en utilisant au mieux le terrain. Ils n\u0027avaient guère besoin d\u0027être dirigés. Certains rugissant dans l\u0027effort et c\u0027était un grand spectacle. En fin de journée, les hommes à leur tour produisaient un grand effort avec bien des risques. Il fallait en effet charger des billes sur la charrette; ceux du tableau venaient du pont de Baud, un certain Tréhin, entre autres, je crois.\u003c/BR\u003e",
     "imageFile": "007.jpg",
     "saison": "automne",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 8,
@@ -62,7 +65,8 @@
     "text": "Autrefois, l\u0027exploitation reposait sur trois éléments principaux : le mari, son épouse, le cheval. Le cheval assurait les transports, les labours et occasionnellement les petits voyages. \u003c/BR\u003eEn réalité, le cheval constituait un capital allant bien au-delà des services qu\u0027il rendait. \u003c/BR\u003eIl était associé à la famille, aux adultes, aux enfants. Il avait un nom, un \"habit\" pour les grandes sorties. Il recevait des soins particuliers de quoi rendre jalouses bien des vaches...\u003c/BR\u003eCe qui comptait aussi, c\u0027était son attachement au terrain. S\u0027il reconnaissait les siens, \u003c/BR\u003eil reconnaissait aussi ses terres, ses champs, ses chemins, les montées, les descentes...\u003c/BR\u003eIl était un véritable capital. Aussi, sa perte était une catastrophe. En dehors de la maladie, ce qu\u0027il fallait redouter le plus c\u0027était l\u0027accident. Une charrette retournée pouvait entraîner des fractures aux jambes et seul le boucher pourrait alors tirer quelque chose de la bête. \u003c/BR\u003eIl pouvait y laisser aussi sa confiance. Il serait alors un cheval \"sali\" car peureux. \u003c/BR\u003eDans le tableau, le mari rassure son cheval en attendant les secours et bientôt il sera à nouveau sur ses jambes.\u003c/BR\u003e",
     "imageFile": "008.jpg",
     "saison": "automne",
-    "activites": "cueillete"
+    "activites": "cueillete",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 9,
@@ -119,7 +123,8 @@
     "text": "Il s\u0027agit d\u0027un corbeau local, un habitué, fidèle, intelligent, utile par les avertissements qu\u0027il lâche. il ne faut surtout pas le confondre avec les migrateurs arrivant par bandes de Russie pour s\u0027abattre sur les champs fraîchement ensemencés. \u003c/BR\u003eContrairement à la pie toujours proche des habitations, lui ne quitte guère les chênes des talus séparant les prairies humides des bois. Son nid placé sur une branche horizontale au dessus du vide découragera les prédateurs les plus habiles. La couvaison a lieu en Mai, au moment où les prairies prennent la couleur des jacinthes*. \u003c/BR\u003eSous l\u0027arbre, par une belle journée, la femme lave son linge ce qui ne dérangera nullement ce corbeau. A chacun son travail.\u003c/BR\u003e* Dans la langue bretonne, la jacinthe s\u0027appelait la fleur du corbeau. Elle en avait la couleur et coïncidait avec la ponte. Dans les mêmes conditions, l\u0027orchidée du mois de Mai \tétait appelée « fleur de coucou » comme la cressonnette était attribuée à la tourterelle à la fin Juin.\u003c/BR\u003e",
     "imageFile": "014.jpg",
     "saison": "printemps",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 15,
@@ -146,7 +151,8 @@
     "text": "Deux groupes de sabotiers, venus de Camors, s\u0027étaient installés sur notre exploitation, le temps de débiter un marché de hêtres. \u003c/BR\u003eCela a dû se passer dans les années 1945/1946. Les huttes avaient été montées sur place par les sabotiers eux-mêmes. La mousse qui constituait le toit et les parois avait été cueillie en forêt de Camors. Cet atelier de plein air comportait deux huttes et cinq hommes. Une belle organisation qui répartissait bien les tâches. Le plus jeune en apprentissage était chargé des courses et des repas. Le plus ancien dégrossissait le sabot à la hache pour finir la taille avec cette longue lame fixée à une pièce de bois servant d\u0027établi. Creuser le sabot revenait à une personne expérimentée et qualifiée. Durant les vacances, nous pouvions rester regarder les sabotiers au travail. Et puis, nous pouvions aussi saisir des conversations et des histoires dans un « breton » un peu différent de celui de Languidic.\u003c/BR\u003e",
     "imageFile": "017.jpg",
     "saison": "hiver",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 18,
@@ -164,7 +170,8 @@
     "text": "Il ne figure dans aucun bottin!\u003c/BR\u003eC\u0027était un de ces petits métiers qui revenaient à ceux qui n\u0027avaient pas un foyer fixe. Son utilité justifiait largement le repas et le sommeil au grenier. Il avait peu d\u0027outils, une pince, du fil, des aiguilles, un couteau et beaucoup de vieux parapluies sur lesquels il pouvait prélever les éléments nécessaires. Il avait en mémoire tous les parapluies de la circonscription qu\u0027il sillonnait: Quelques centaines! Avec son activité de réparateur, bien entendu, il portait les nouvelles de village en village.\u003c/BR\u003e",
     "imageFile": "019.jpg",
     "saison": "hiver",
-    "activites": "manutention"
+    "activites": "manutention",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 20,
@@ -203,7 +210,8 @@
     "text": "Cela se passait en février-mars, juste avant le réveil du printemps.\u003c/BR\u003eLa coupe du bois est juste achevée avant la montée de la sève, mais les greniers sont vides et l\u0027herbe du printemps se fait attendre. Alors, il reste une dernière extrémité, c\u0027est d\u0027aller sur les arbres prendre le houx, le lierre et les ajoncs à la lande.\u003c/BR\u003eCe n\u0027est pas un honneur d\u0027en arriver là car cela signifie que l\u0027on a mal récolté foin et paille ou que l\u0027on est locataire avec des prairies modestes. À cette période de l\u0027année, la lune est toujours bien claire et les paysans y voyaient un homme marchant dans la lande avec sur son dos le \"beh-lan\" c\u0027est-à-dire le paquet d\u0027ajoncs qu\u0027il venait de récolter. Si les chevaux aimaient l\u0027ajonc, pour les vaches, il était nécessaire d\u0027en faire un mélange avec le houx et le lierre. \u003c/BR\u003eLes boeufs qui tiraient charrette et charrue avaient un régime de faveur, des ajoncs finement pilés dans une auge de pierre.\u003c/BR\u003e",
     "imageFile": "023.jpg",
     "saison": "hiver",
-    "activites": "cueillete"
+    "activites": "cueillete",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 24,
@@ -212,7 +220,8 @@
     "text": "Cela se passait à la fin de l\u0027hiver.\u003c/BR\u003eLe travail: D\u0027abord balayer la prairie, du centre vers les talus. Les talus eux-mêmes étaient peignés et le tout rassemblé dans de gros tas de feuilles mortes. elles serviront de litière et parfois pour enrichir les pépinières.\u003c/BR\u003eAu passage les haies sont taillées et arrangées. ensuite la prairies était peignée par le passage d\u0027un paquet d\u0027aubépines par un cheval. Cela émiettait le fumier tout en rafraîchissant la croûte du sol. Enfin, les ruisseaux était retaillés à l\u0027aide du grand couteau ordinairement réservé à la découpe de la motte dans le pressoir. Éventuellement, les clôtures étaient « révisées ». Désormais, seul le printemps aura le droit d\u0027entrer dans la prairie. Et ceci jusqu\u0027à la récolte de foin qu\u0027il faudra faire vers la Saint Jean.\u003c/BR\u003e",
     "imageFile": "024.jpg",
     "saison": "hiver",
-    "activites": "cueillete"
+    "activites": "cueillete",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 25,
@@ -221,7 +230,8 @@
     "text": "La production organisée de plants de pommier va s\u0027étendre vers 1948. Avant la dernière guerre un véritable marché existait et souvent la vente était d\u0027un bon rapport.\u003c/BR\u003eLes terres des vallées du Blavet et de l\u0027Ével se prêtaient fort bien à cette production. \u003c/BR\u003eLa pépinière était bien protégée du bétail et souvent éloignée des champs labourés.\u003c/BR\u003eUne atmosphère particulière régnait dans ces endroits cachés loin des habitants - où l\u0027on venait deux fois l\u0027an, en hiver, pour la taille ou pour l\u0027arrachage des plants bons pour la vente.\u003c/BR\u003eLa pépinière était si isolée qu\u0027il était conseillé de siffler quand on travaillait, une façon d\u0027annoncer sa présence par ailleurs si discrète.\u003c/BR\u003eLe sol était recouvert d\u0027un épais matelas de feuilles mortes ramassées dans les taillis voisins.\u003c/BR\u003eDeus outils indispensables -le couteau pour la taille, un « Pradel » généralement et une énorme pelle qui servait de levier pour arracher le jeune sans briser ses racines.\u003c/BR\u003e",
     "imageFile": "025.jpg",
     "saison": "automne",
-    "activites": "travaux"
+    "activites": "travaux",
+    "espace": "zone_non_cultivée"
   },
   {
     "number": 26,
