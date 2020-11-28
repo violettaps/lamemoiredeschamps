@@ -2,6 +2,7 @@
   {
     "number": 1,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "001.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -11,6 +12,7 @@
   {
     "number": 2,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "002.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -20,6 +22,7 @@
   {
     "number": 3,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "003.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -29,6 +32,7 @@
   {
     "number": 4,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "004.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -38,6 +42,7 @@
   {
     "number": 5,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "005.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -47,6 +52,7 @@
   {
     "number": 7,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "007.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -56,6 +62,7 @@
   {
     "number": 8,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "008.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -65,6 +72,7 @@
   {
     "number": 9,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "009.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -74,6 +82,7 @@
   {
     "number": 10,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "010.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -83,6 +92,7 @@
   {
     "number": 11,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "011.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -91,6 +101,7 @@
   },
   {
     "number": 12,
+    "espace": "interieurs",
     "imageFile": "012.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -100,6 +111,7 @@
   {
     "number": 13,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "013.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -109,6 +121,7 @@
   {
     "number": 14,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "014.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -117,6 +130,7 @@
   },
   {
     "number": 15,
+    "espace": "interieurs",
     "imageFile": "015.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -125,6 +139,7 @@
   },
   {
     "number": 16,
+    "espace": "village",
     "imageFile": "016.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -134,6 +149,7 @@
   {
     "number": 17,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "017.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -142,6 +158,7 @@
   },
   {
     "number": 18,
+    "espace": "village",
     "imageFile": "018.jpg",
     "isPrivate": false,
     "text": "Cette toile a voulu opposer l'évolution irréversible qui va briser brutalement le passage d'une génération à la suivante.<\/BR>- La nouvelle génération est dans l'obligation d'adopter la mécanisation pour survivre.<\/BR>- l'ancienne est à la fois fière de voir son fils maîtriser ces techniques modernes et triste de voir son propre système abandonné, disqualifié, broyé par ce mouvement. Les choses vont aller si vite que le compromis n'aura pas le temps de s'organiser. <\/BR>Quel dommage pour tous!<\/BR>",
@@ -150,6 +167,7 @@
   {
     "number": 19,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "019.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -159,6 +177,7 @@
   {
     "number": 20,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "020.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -168,6 +187,7 @@
   {
     "number": 21,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "021.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -177,6 +197,7 @@
   {
     "number": 22,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "022.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -186,6 +207,7 @@
   {
     "number": 23,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "023.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -195,6 +217,7 @@
   {
     "number": 24,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "024.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -204,6 +227,7 @@
   {
     "number": 25,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "025.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -213,6 +237,7 @@
   {
     "number": 26,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "026.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -222,6 +247,7 @@
   {
     "number": 27,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "027.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -231,6 +257,7 @@
   {
     "number": 28,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "028.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -240,6 +267,7 @@
   {
     "number": 29,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "029.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -249,6 +277,7 @@
   {
     "number": 30,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "030.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -258,6 +287,7 @@
   {
     "number": 31,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "031.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -267,6 +297,7 @@
   {
     "number": 32,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "032.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -276,6 +307,7 @@
   {
     "number": 33,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "033.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -285,6 +317,7 @@
   {
     "number": 34,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "034.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -294,6 +327,7 @@
   {
     "number": 35,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "035.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -303,6 +337,7 @@
   {
     "number": 36,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "036.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -312,6 +347,7 @@
   {
     "number": 37,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "037.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -321,6 +357,7 @@
   {
     "number": 38,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "038.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -330,6 +367,7 @@
   {
     "number": 39,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "039.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -338,6 +376,7 @@
   },
   {
     "number": 40,
+    "espace": "hors_quotidien",
     "imageFile": "040.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -347,6 +386,7 @@
   {
     "number": 41,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "041.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -355,6 +395,7 @@
   },
   {
     "number": 42,
+    "espace": "village",
     "imageFile": "042.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -364,6 +405,7 @@
   {
     "number": 43,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "043.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -373,6 +415,7 @@
   {
     "number": 44,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "044.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -382,6 +425,7 @@
   {
     "number": 46,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "046.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -391,6 +435,7 @@
   {
     "number": 47,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "047.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -399,6 +444,7 @@
   },
   {
     "number": 48,
+    "espace": "hors_quotidien",
     "imageFile": "048.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -408,6 +454,7 @@
   {
     "number": 49,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "049.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -416,6 +463,7 @@
   },
   {
     "number": 50,
+    "espace": "village",
     "imageFile": "050.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -425,6 +473,7 @@
   {
     "number": 51,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "051.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -434,6 +483,7 @@
   {
     "number": 52,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "052.jpg",
     "isPrivate": true,
     "text": "Nous sommes dans la dernière quinzaine d'Avril. Les cerisiers sont blancs, les pommiers à peine ouverts, les poiriers blancs, les pruniers blancs ou roses suivant les variétés. Les buissons sont également en fleurs. <\/BR>Les parcelles immédiatement après les bâtiments sont petites, l'aire à battre, le potager, les clos pour sortir les vaches le temps d'arranger l'étable par temps de pluie, les vergers... autant de petits champs noyés dans les fleurs. Ces haies et talus ainsi tressées, aujourd'hui disparus, constituaient un micro-climat. En particulier, les effets du vent d'ouest ou du nord étaient ainsi neutralisés. Il faisait bon vivre dehors. Les arbres fruitiers ne s'y trompaient pas.<\/BR>",
@@ -442,6 +492,7 @@
   {
     "number": 53,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "053.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -451,6 +502,7 @@
   {
     "number": 54,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "054.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -460,6 +512,7 @@
   {
     "number": 55,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "055.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -469,6 +522,7 @@
   {
     "number": 56,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "056.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -478,6 +532,7 @@
   {
     "number": 57,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "057.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -487,6 +542,7 @@
   {
     "number": 58,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "058.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -496,6 +552,7 @@
   {
     "number": 59,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "059.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -505,6 +562,7 @@
   {
     "number": 60,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "060.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -514,6 +572,7 @@
   {
     "number": 61,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "061.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -522,6 +581,7 @@
   },
   {
     "number": 62,
+    "espace": "village",
     "imageFile": "",
     "isPrivate": false,
     "text": "Cela se passait vers 1950, en Bretagne à Kerdaniel sur la commune de Languidic exactement.<\/BR>Le vendredi saint coïncide généralement avec le printemps. Bien sur les gelées matinales sont encore fréquentes mais la terre est bien réveillée. C'est donc le moment de préparer semis et plantations, il y a juste assez de fraicheur dans le sol et juste assez de chaleur en surface.<\/BR>La pomme de terre constituait la base de l'alimentation des familles et il était normal que toutes les personnes valides d'un foyer participent à la plantation.<\/BR>Une petite parcelle, contre les maisons, bien à l'abri d'un coup de froid en mai, voilà qui convient tout à fait à une première plantation, celle qui fera la soudure avec la récolte de plein champ fin septembre.<\/BR>Chaque jour, un panier sous le bras on viendra arracher juste ce qu'il faudra pour le prochain repas.<\/BR>Le vendredi saint était aussi la journée des nids ou plutôt des œufs. Dès le soleil levé, les enfants partaient à jeun, à la recherche des œufs de merle et de grives. Comme c'était également la journée des crêpes qu'elles belles fricassées en perspective.<\/BR>",
@@ -530,6 +590,7 @@
   {
     "number": 63,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "063.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -539,6 +600,7 @@
   {
     "number": 64,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "064.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -548,6 +610,7 @@
   {
     "number": 65,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "065.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -557,6 +620,7 @@
   {
     "number": 66,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "066.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -566,6 +630,7 @@
   {
     "number": 67,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "067.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -575,6 +640,7 @@
   {
     "number": 68,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "068.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -584,6 +650,7 @@
   {
     "number": 70,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "070.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -593,6 +660,7 @@
   {
     "number": 71,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "071.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -602,6 +670,7 @@
   {
     "number": 72,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "072.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -611,6 +680,7 @@
   {
     "number": 73,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "073.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -620,6 +690,7 @@
   {
     "number": 77,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "077.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -629,6 +700,7 @@
   {
     "number": 78,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "078.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -638,6 +710,7 @@
   {
     "number": 79,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "079.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -647,6 +720,7 @@
   {
     "number": 80,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "080.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -656,6 +730,7 @@
   {
     "number": 81,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "081.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -665,6 +740,7 @@
   {
     "number": 83,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "083.jpg",
     "isPrivate": true,
     "text": "La maison nous accueillait côté face. Portes, fenêtres, fleurs, puits autant de signes qui faisaient que le visage de la maison coïncidait avec sa seule façade. <\/BR>Si le dos n'avait pas de visage, il pouvait ne pas être délaissé et avoir aussi sa vie. C'était le cas des villages constitués de deux longères, l'une regardant le dos de l'autre. Dans ce cas, venir s'occuper d'une haie était surtout l'occasion de saluer son voisin. Il arrivait aussi que la longère prenait appui sur une colline (le cas du tableau) de telle sorte qu'il devenait commode d'organiser l'accès au grenier par le dos -quelques marches suffisaient. Dans ce cas, les allées et venues étaient si nombreuses que ces maisons avaient deux visages, l'un en façade, un second dans le dos.<\/BR>",
@@ -673,6 +749,7 @@
   {
     "number": 84,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "084.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -682,6 +759,7 @@
   {
     "number": 85,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "085.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -691,6 +769,7 @@
   {
     "number": 86,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "086.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -700,6 +779,7 @@
   {
     "number": 87,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "087.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -709,6 +789,7 @@
   {
     "number": 88,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "088.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -718,6 +799,7 @@
   {
     "number": 89,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "089.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -727,6 +809,7 @@
   {
     "number": 90,
     "saison": "ete",
+    "espace": "interieurs",
     "imageFile": "090.jpg",
     "isPrivate": true,
     "text": "A l'approche du Blavet, de nombreux ruisseaux roulent assez l'eau pour actionner les roues à Aubes. <\/BR>Côté rive gauche à hauteur de Pont-Augan, le ruisseau de Lambézégan faisait tourner trois roues dont l'une dédiée à l'activité du blé noir. J'y ai bien souvent accompagné mon père. Sur place, il fallait s'occuper le temps que le moulin fasse tranquillement son travail. Parfois, il m'arrivait d'aller saluer ma grand-mère dans le village tout proche de Kerdoret.<\/BR>Mon grand-père serait tombé accidentellement dans le bief. Il avait été repêché après quelques difficultés. Les mauvaises langues ajoutent que l'obscurité n'était pas la cause principale de sa chute... Le cidre chaud servi généreusement par le meunier David y aurait été pour beaucoup.<\/BR>",
@@ -735,6 +818,7 @@
   {
     "number": 91,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "091.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -744,6 +828,7 @@
   {
     "number": 92,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "092.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -753,6 +838,7 @@
   {
     "number": 93,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "093.jpg",
     "isPrivate": true,
     "text": "Cette écluse sur le Blavet est située en aval de Pont-Augan vers Hennebont. <\/BR>Sa construction a laissé entre la passerelle et l'écluse elle-même, une île exploitée en prairie et terre labourable. L'accès pour le transport du fumier où le retour des récoltes se faisait uniquement à la brouette.<\/BR>Les vaches elles-mêmes devaient passer par la petite passerelle amovible de l'écluse. <\/BR>Aujourd'hui, une Frissonne-Pie noire serait incapable de faire ce franchissement. Cette île à l'abri des vents était un paradis de lumière et de fraîcheur.<\/BR>",
@@ -761,6 +847,7 @@
   {
     "number": 94,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "094.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -770,6 +857,7 @@
   {
     "number": 95,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "095.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -779,6 +867,7 @@
   {
     "number": 97,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "097.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -788,6 +877,7 @@
   {
     "number": 98,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "098.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -797,6 +887,7 @@
   {
     "number": 99,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "099.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -806,6 +897,7 @@
   {
     "number": 100,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "100.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -815,6 +907,7 @@
   {
     "number": 101,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "101.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -823,6 +916,7 @@
   },
   {
     "number": 102,
+    "espace": "village",
     "imageFile": "102.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -832,6 +926,7 @@
   {
     "number": 103,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "103.jpg",
     "isPrivate": true,
     "text": "Il s'agit d'une fermette -celle qui plus tard sera bien souvent affichée dans les agences immobilières. <\/BR>Deux vaches, deux porcs à l'engrais, une basse-cour, <\/BR>un potager mais pas question de nourrir un cheval. <\/BR>Pour ses travaux importants, l'ouvrier agricole, en question, trouvera chez son employeur tout le nécessaire. La brouette tiendra une place importante dans la mesure où les quelques journaux (2\/3) de terre labourée seront très proches de la maison. C'est l'épouse (à domicile) qui pour l'essentiel fera tourner cette petite exploitation un peu à l'image des femmes de marins qui autrefois pratiquaient ainsi alors que le mari était en mer. <\/BR>Une petite famille arrivait à se nourrir des activités d'une telle fermette. Les artisans, sabotiers, charrons, forg€rons, bourreliers et autres prenaient également appui sur une micro-exploitation - une manière d'être solidaires de leurs clients paysans à plein temps!<\/BR>",
@@ -840,6 +935,7 @@
   {
     "number": 104,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "104.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -849,6 +945,7 @@
   {
     "number": 105,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "105.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -858,6 +955,7 @@
   {
     "number": 106,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "106.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -867,6 +965,7 @@
   {
     "number": 107,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "107.jpg",
     "isPrivate": true,
     "text": "Un talus couplé avec un ruisseau sépare deux prairies humides. Cette complicité naturelle d'un talus planté de chênes et d'un ruisseau constitue un micro paysage, aussi fréquent que remarquable à l'intérieur du Morbihan.<\/BR>S'agissant de zones humides, par bonheur, les bulldozers du remembrement ont souvent dédaigné ces zones. <\/BR>En cherchant bien, de tels ensembles sont encore disponibles tant que les tronçonneuses du samedi ne seront pas passées par là. <\/BR>Le talus est bas, à l'ombre, bien dégagé, propre, planté de chênes de petites tailles, quelques bouleaux, saules et noisetiers complètent la population végétale. Pour mieux éviter les zones humides, la circulation sur le sommet du talus était normale. Un endroit exceptionnel pour les amateurs de cèpes et girolles! <\/BR>Quelques marques rappellent l'intervention discrète de l'homme:<\/BR>- Une brouette appuyée sur le tas de feuilles attend les travaux de Février.<\/BR>- Debout, quelques branches sèches attendent. <\/BR>Au printemps, elles seront rapprochées de la ferme pour le feu. Le « poul coach » (mare à rouir le chanvre) est toujours là. <\/BR>-Les pierres qui servaient à tenir le chanvre sous l'eau sont visibles. Elles n'ont pas dû servir depuis 1918. <\/BR>Au-delà, les prairies, la lande sert de transition avec les parcelles labourées.<\/BR>",
@@ -875,6 +974,7 @@
   {
     "number": 109,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "109.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -884,6 +984,7 @@
   {
     "number": 110,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "110.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -892,6 +993,7 @@
   },
   {
     "number": 111,
+    "espace": "village",
     "imageFile": "111.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -901,6 +1003,7 @@
   {
     "number": 112,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "112.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -910,6 +1013,7 @@
   {
     "number": 113,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "113.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -919,6 +1023,7 @@
   {
     "number": 114,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "114.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -927,6 +1032,7 @@
   },
   {
     "number": 115,
+    "espace": "interieurs",
     "imageFile": "115.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -936,6 +1042,7 @@
   {
     "number": 116,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "116.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -945,6 +1052,7 @@
   {
     "number": 118,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "118.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -954,6 +1062,7 @@
   {
     "number": 119,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "119.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -963,6 +1072,7 @@
   {
     "number": 120,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "120.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -972,6 +1082,7 @@
   {
     "number": 122,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "122.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -981,6 +1092,7 @@
   {
     "number": 123,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "123.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -990,6 +1102,7 @@
   {
     "number": 124,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "124.jpg",
     "isPrivate": true,
     "text": "Nous sommes en février. Dans la nuit, derrière une gelée, la neige s'est posée doucement sur la bruyère. <\/BR>Sur les talus, les noisetiers sont tout surpris de l'hiver, alors qu'ils sont déjà  garnis de leurs chatons. L'ajonc en a vu d'autres...Tous les hivers, il n'hésite pas à afficher sa couleur jaune dès janvier. Comme les chatons de noisetiers, ses fleurs ne craignent pas le froid. <\/BR>Sur le sol, le matelas de bruyère recouvert de neige protège les petits animaux, plus ou moins enfouis pour passer l'hiver. Nous sommes loin des villages. Tout est parfaitement immobile, calme et silencieux.<\/BR>",
@@ -998,6 +1111,7 @@
   {
     "number": 125,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "125.jpg",
     "isPrivate": false,
     "text": "La neige semble avoir profité de la nuit pour recouvrir la village plongé dans son sommeil. <\/BR>Tout parait engourdi. Seules les cheminées lâchent un peu de fumée, indiquant par là qu'une vie cachée continue. À l'abri, dans les maisons et les étables, il faut rassembler le bois, pousser le feu, nourrir les animaux. Si la neige se maintient durant l'après-midi, les paysans iront faire un tour dans les champs pour la beauté et la rareté du spectacle. La neige sait être douce avec la terre. Ils rendront visite aux voisins, le temps de saluer les plus vieux demeurés enfoncés dans leurs lits. Rien ne presse, aussi c'est l'occasion de prendre son temps et de boire un peu de cidre chaud.<\/BR>",
@@ -1006,6 +1120,7 @@
   {
     "number": 126,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "126.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1015,6 +1130,7 @@
   {
     "number": 127,
     "saison": "printemps",
+    "espace": "interieurs",
     "imageFile": "127.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1024,6 +1140,7 @@
   {
     "number": 128,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "128.jpg",
     "isPrivate": true,
     "text": "En fin juin, autour de l'Ascension, voilà le moment que choisissait le trèfle incarnat pour fleurir. Sa couleur rouge sang de bœuf, si familière dans les parcelles jusqu'en 1950, s'est retirée avec le départ des chevaux de trait. Les pommiers, pour les plus tardifs d'entre eux, sont toujours garnis de leurs pétales rouges et blancs. Dans les sous-bois, là où la lumière peut pénétrer, les jacinthes sont si denses que le sol semble tapissé de bleu. <\/BR>Dans les friches, le genêt vient de prendre à son compte le jaune d'or que l'ajonc a bien voulu lui céder.  Tous deux ont toujours ainsi collaboré en bons voisins, se partageant les terrains et le calendrier: l'ajonc s'installant là où le sol était composé de roches et pierres, laissant au genêt les sols plus profonds. Alors que la floraison du premier décline en Mai, le second prend le relais jusqu'en Juillet.<\/BR>",
@@ -1031,6 +1148,7 @@
   },
   {
     "number": 129,
+    "espace": "zone_non_cultivee",
     "imageFile": "129.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1040,6 +1158,7 @@
   {
     "number": 130,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "130.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1049,6 +1168,7 @@
   {
     "number": 131,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "131.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1057,6 +1177,7 @@
   },
   {
     "number": 132,
+    "espace": "village",
     "imageFile": "132.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -1066,6 +1187,7 @@
   {
     "number": 133,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "133.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -1075,6 +1197,7 @@
   {
     "number": 134,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "134.jpg",
     "isPrivate": false,
     "text": "Au coucher du soleil, la brume retenue par les talus et les haies s'est accumulée au point de remplir le versant depuis les prairies le long du ruisseau  jusqu'aux premières parcelles labourées. <\/BR>Surprise par la fraîcheur de la nuit, tôt le matin elle semble figée comme le givre. <\/BR>Pas pour longtemps car à peine le soleil aura-t-il allumé ce décor de dentelle que déjà les cimes des arbres vont se dégager et très vite cette blancheur lumineuse va s'affaisser.<\/BR>Les arbres retrouvent leur place, mais immobiles, transparents. <\/BR>Ce décor lumineux, léger, fragile n'est pas rare en février. Il faut être là au moment où le miracle a lieu, un mélange subtile d'air immobile, de froid, d'humidité et de lumière.<\/BR>",
@@ -1083,6 +1206,7 @@
   {
     "number": 135,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "135.jpg",
     "isPrivate": true,
     "text": "Où sont passées nos primevères qui, jusqu'en 1950, tapissaient nos talus dès la seconde moitié de mars ?<\/BR>La réponse rapide qui consiste à faire le rapprochement de leur disparition avec celle des talus n'est pas suffisante. En effet les talus qui sont restés en place ici ou là n'ont pas été en mesure de conserver leurs primevères. Autrefois, le maillage serré des talus conduisait à un micro-climat qui a disparu et enfin, chaque talus était systématiquement débarrassé de ses feuilles mortes, fougères, herbes sèches et ronces durant l'hiver. <\/BR>Proche des maisons, là où les parcelles étaient plus petites, là où le talus était particulièrement bien entretenu, la primevère était très prospère.<\/BR>",
@@ -1091,6 +1215,7 @@
   {
     "number": 136,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "136.jpg",
     "isPrivate": false,
     "text": "C'est le mois du pinson dans les pommiers en fleurs. <\/BR>Le soleil est de plus en plus présent tout au long de la journée. Le sol s'est chargé d'humidité, la sève a partout repris sa place et les nuits désormais douces ne sont plus à craindre.<\/BR>Avec tant de facteurs favorables et la bienveillance de Dieu, la Nature allait forcément respecter son contrat...<\/BR>Les haies si légères, si transparentes durant l'hiver ont brutalement retrouvé du volume, <\/BR>de l'épaisseur. Sur les talus, les grands arbres semblent se rejoindre dans une masse verte qui donne l'impression de vouloir protéger les cultures. Au sol l'herbe est partout drue, plus verte, plus haute, envahissante ... rien ne semble l'arrêter.<\/BR>Ainsi se présente le mois de mai, généreux, tiède et rassurant. Le grand manteau vert posé délicatement sur la campagne semble protéger le miracle fragile de la reproduction.<\/BR>Autre texte:<\/BR>À partir de la seconde moitié de Mai, le bocage a revêtu son habit vert. Le chêne, comme d'habitude, est en retard. Ses feuilles sont encore chiffonnées et pour quelques jours encore, elles seront à la fois vertes, grises et roses.<\/BR>Dans les prairies, l'herbe nouvelle prend du volume, tout en laissant de la place aux jacinthes et orchidées. <\/BR>La jacinthe, plus timide, occupe la lisière de la prairie en suivant le talus où elle trouve un peu d'ombre. <\/BR>À l'inverse, l'orchidée n'hésite pas à s'éloigner du talus pour mieux prendre le soleil. De Février à fin Juin, les prairies ne seront plus dérangées par l'activité du paysan - rien d'étonnant que le corbeau et le coucou en fassent leur territoire. La jacinthe, que nous appelons « fleur de corbeau » habitait en effet le territoire du corbeau et de l'orchidée que nous appelons « fleur de coucou ».<\/BR>",
@@ -1099,6 +1224,7 @@
   {
     "number": 137,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "137.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1108,6 +1234,7 @@
   {
     "number": 138,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "138.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1117,6 +1244,7 @@
   {
     "number": 139,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "139.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1126,6 +1254,7 @@
   {
     "number": 140,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "140.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -1135,6 +1264,7 @@
   {
     "number": 141,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "141.jpg",
     "isPrivate": true,
     "text": "Cette chapelle s'est laissée surprendre par une fine averse de neige de janvier. Une façon de mieux souligner sa magnifique toiture qui semble, telle un grand manteau, protéger les siens venus à la messe. <\/BR>Le village de St Jean, non loin du bourg, est placé sur l'axe Languidic - Pluvigner. Ce grand hameau, par le nombre d'exploitations regroupées autour de la chapelle, était trop proche du bourg pour avoir son forg€ron, son café et sa messe dominicale. <\/BR>En juin, son pardon constituait un rassemblement important.<\/BR>",
@@ -1143,6 +1273,7 @@
   {
     "number": 142,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "142.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1151,6 +1282,7 @@
   },
   {
     "number": 143,
+    "espace": "interieurs",
     "imageFile": "143.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1160,6 +1292,7 @@
   {
     "number": 144,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "144.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1168,6 +1301,7 @@
   },
   {
     "number": 145,
+    "espace": "interieurs",
     "imageFile": "145.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1177,6 +1311,7 @@
   {
     "number": 146,
     "saison": "printemps",
+    "espace": "hors_quotidien",
     "imageFile": "146.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1186,6 +1321,7 @@
   {
     "number": 147,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "147.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -1194,6 +1330,7 @@
   },
   {
     "number": 148,
+    "espace": "interieurs",
     "imageFile": "148.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1203,6 +1340,7 @@
   {
     "number": 149,
     "saison": "printemps",
+    "espace": "hors_quotidien",
     "imageFile": "149.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1212,6 +1350,7 @@
   {
     "number": 150,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "150.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1221,6 +1360,7 @@
   {
     "number": 152,
     "saison": "ete",
+    "espace": "interieurs",
     "imageFile": "152.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1230,6 +1370,7 @@
   {
     "number": 153,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "153.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1239,6 +1380,7 @@
   {
     "number": 154,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "154.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1248,6 +1390,7 @@
   {
     "number": 155,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "155.jpg",
     "isPrivate": false,
     "text": "A la tombée de la nuit, une petite neige est tombée doucement sur la lande et les prairies voisines.<\/BR>Après minuit dès que le ciel s'est dégagé, le gel a figé le paysage, la lune à son tour s'est levée et le paysage s'illumine comme en plein jour.<\/BR>En janvier et février, en Bretagne, ce phénomène est fréquent pour celui qui veut bien être là à cette heure de la nuit.<\/BR>",
@@ -1255,6 +1398,7 @@
   },
   {
     "number": 156,
+    "espace": "interieurs",
     "imageFile": "156.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1264,6 +1408,7 @@
   {
     "number": 157,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "157.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1273,6 +1418,7 @@
   {
     "number": 158,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "158.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1282,6 +1428,7 @@
   {
     "number": 160,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "160.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1291,6 +1438,7 @@
   {
     "number": 161,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "161.jpg",
     "isPrivate": true,
     "text": "En ce lieu, quelque part entre Pluvigner et Languidic, les champs cultivés rencontrent la lande, la friche.<\/BR>Nous sommes en 1950. Les nouvelles parcelles issues du défrichage apparaissent un peu avant le remembrement. Sans en avoir l'air, le paysan par son activité quotidienne a beaucoup contribué à cette harmonie. Ainsi en déplaçant les récoltes d'une parcelle à une autre et ceci d'une année à l'autre, il décide de la présence du bleu des pensées sauvages, du rouge du sarrasin, du jaune du colza, du violet des navets, etc.<\/BR>Il n'a pas fait cela pour le plaisir de nos yeux mais il l'a fait en écoutant la nature, en l'observant, en la respectant, en la modifiant ici ou là, en s'y soumettant, lui demandant son avis si nécessaire…<\/BR>C'est le contrat naturel entre eux qui fait que chacun doit être gagnant. Peut-il en être autrement tellement le rapport de force est en faveur de la nature !<\/BR>L'hiver enfin, lui se contente de dormir ou presque. Comme il dort nu, il faut en profiter pour regarder comment sont construits les arbres et comment ils s'enchaînent pour composer le paysage.<\/BR>",
@@ -1299,6 +1447,7 @@
   {
     "number": 162,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "162.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1308,6 +1457,7 @@
   {
     "number": 163,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "163.jpg",
     "isPrivate": true,
     "text": "En ce lieu, quelque part entre Pluvigner et Languidic, les champs cultivés rencontrent la lande, la friche.<\/BR>Nous sommes en 1950. Les nouvelles parcelles issues du défrichage apparaissent un peu avant le remembrement. Sans en avoir l'air, le paysan par son activité quotidienne a beaucoup contribué à cette harmonie. Ainsi en déplaçant les récoltes d'une parcelle à une autre et ceci d'une année à l'autre, il décide de la présence du bleu des pensées sauvages, du rouge du sarrasin, du jaune du colza, du violet des navets, etc.<\/BR>Il n'a pas fait cela pour le plaisir de nos yeux mais il l'a fait en écoutant la nature, en l'observant, en la respectant, en la modifiant ici ou là, en s'y soumettant, lui demandant son avis si nécessaire…<\/BR>C'est le contrat naturel entre eux qui fait que chacun doit être gagnant. Peut-il en être autrement tellement le rapport de force est en faveur de la nature !<\/BR>Printemps et automne ont beaucoup en commun. En particulier ils partagent cette richesse dans la diversité des couleurs. Tous les deux évoluent si vite d'un jour à l'autre qu'il faut savoir être attentifs. Le premier avec la sève qui monte chaque jour un peu plus. Le second avec la sève qui descend.<\/BR>",
@@ -1316,6 +1466,7 @@
   {
     "number": 164,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "164.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1325,6 +1476,7 @@
   {
     "number": 165,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "165.jpg",
     "isPrivate": false,
     "text": "Cela se passait dans l'aire à battre. Un espace qui permet sans risque d'évoluer sans être tenté de s'échapper.<\/BR>Avant d'être pour la première fois en situation de tirer ce tronc d'arbre, ce jeune cheval a déjà accepté son maître. Il reconnaît sa voix et la respecte.<\/BR>Et pourtant cette première séance, cette première leçon n'est pas sans risque.<\/BR>L'animal est à la fois craintif et maladroit et ne comprend pas ce qui lui arrive.<\/BR>Il résiste, se cabre mais il ne doit pas se faire mal. Son maître procédera progressivement par la douceur.<\/BR>Les enfants curieux et méfiants se tiennent à distance. Le spectacle vaut la peine.<\/BR>En même temps ils espèrent que tout ira bien pour l'animal qui est un peu comme eux en     <\/BR>période d'apprentissage.<\/BR>La femme, ne s'arrête pas car c'est une affaire d'hommes…<\/BR>",
@@ -1333,6 +1485,7 @@
   {
     "number": 166,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "166.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1342,6 +1495,7 @@
   {
     "number": 167,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "167.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1350,6 +1504,7 @@
   },
   {
     "number": 168,
+    "espace": "zone_cultivee",
     "imageFile": "168.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1358,6 +1513,7 @@
   },
   {
     "number": 169,
+    "espace": "zone_non_cultivee",
     "imageFile": "169.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1367,6 +1523,7 @@
   {
     "number": 170,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "170.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1375,6 +1532,7 @@
   },
   {
     "number": 171,
+    "espace": "interieurs",
     "imageFile": "171.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1384,6 +1542,7 @@
   {
     "number": 172,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "172.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1393,6 +1552,7 @@
   {
     "number": 173,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "173.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -1402,6 +1562,7 @@
   {
     "number": 174,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "174.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1411,6 +1572,7 @@
   {
     "number": 175,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "175.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1420,6 +1582,7 @@
   {
     "number": 176,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "176.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1429,6 +1592,7 @@
   {
     "number": 177,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "177.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1438,6 +1602,7 @@
   {
     "number": 178,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "178.jpg",
     "isPrivate": false,
     "text": "L'automne s'installe.<\/BR>Le soleil est moins haut dans le ciel.<\/BR>La rosée du matin apporte tout ce qu'il faut de fraîcheur pour que les chaumes fleurissent<\/BR>- Le blé noir chaque jour un peu plus voit son épi noircir, ses feuilles jaunir et ses tiges se teinter de rose.<\/BR>- Les pommes prennent la couleur de leur variété.<\/BR>- La prairie retrouve un vert plus frais tandis que le feuillage du saule vire au bleu zingué.<\/BR>- Dans la lande les ajoncs ternis par le soleil laissent apparaître leurs premières nouvelles fleurs jaunes.<\/BR>- La bruyères encore rousse attend son heure, bientôt elle s'imposera avec sa tonalité rouge carmin si remarquable<\/BR>",
@@ -1446,6 +1611,7 @@
   {
     "number": 179,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "179.jpg",
     "isPrivate": false,
     "text": "Jusqu'en 1900, l'habitat d'une exploitation composé principalement de la maison d'habitation, la grange, l'étable et l'écurie était bien regroupé.<\/BR>L'arrivée de petits matériels se traduira par la multiplication d'annexes souvent en matériaux légers.<\/BR>Une cabane \/ cuisine recevra la chaudière, écrémeuse et baratte.<\/BR>Un hangar couvert de tôle abritera faucheuse, faneuse et arracheuse de pomme de terre.<\/BR>Un appentis se contentera du char à bancs.<\/BR>Proche du manège, une remise abritera le hachoir d'ajonc, le broyeur à pommes et bien souvent le pressoir.<\/BR>Après 1960, la stabulation libre et autres bâtiments d'élevage spécialisés isoleront un peu plus la maison d'habitation.<\/BR>",
@@ -1454,6 +1620,7 @@
   {
     "number": 180,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "180.jpg",
     "isPrivate": true,
     "text": "Avec l'installation de la république, et la séparation de l'église et de l'Etat, les petits cimetières placés autour des chapelles disparaîtront progressivement.<\/BR>Face à l'église, la commune va s'imposer avec sa mairie, sa place, son cimetière, son monument aux morts après la guerre de 1870.<\/BR>Les petites chapelles laisseront ainsi s'éloigner leurs morts se contentant de protéger les vivants.<\/BR>A Kergonan, la chapelle Saint Lucas aura connu cette évolution.<\/BR>Bien souvent, il nous arrivait de repérer des restes d'ossements dans le petit clos réservé jadis aux tombes.<\/BR>",
@@ -1462,6 +1629,7 @@
   {
     "number": 181,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "181.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1471,6 +1639,7 @@
   {
     "number": 182,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "182.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1480,6 +1649,7 @@
   {
     "number": 183,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "183.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1489,6 +1659,7 @@
   {
     "number": 184,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "184.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1498,6 +1669,7 @@
   {
     "number": 185,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "185.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -1507,6 +1679,7 @@
   {
     "number": 186,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "186.jpg",
     "isPrivate": false,
     "text": "La coupe de bois de l'année est à peine achevée que la neige est venue recouvrir le talus fraîchement dépouillé.<\/BR>Les fagots sont mis en tas par cinq, ils seront enlevés et rapprochés de la maison, mis en meule, ils sècheront avec les beaux jours.<\/BR>Les branches sciées donneront plus tard une corde réservée à l'instituteur.<\/BR>Les branches entières débarrassées des brindilles suivront le chemin des fagots pour être mis verticalement en tas à proximité des maisons.<\/BR>Le talus a été préalablement débarrassé des ronces, feuilles mortes et fougères aussi dès le mois de mars, les primevères vont partout jaillir entre les arbres.<\/BR>",
@@ -1515,6 +1688,7 @@
   {
     "number": 187,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "187.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1524,6 +1698,7 @@
   {
     "number": 188,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "188.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -1533,6 +1708,7 @@
   {
     "number": 189,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "189.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -1542,6 +1718,7 @@
   {
     "number": 190,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "190.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1551,6 +1728,7 @@
   {
     "number": 191,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "191.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1560,6 +1738,7 @@
   {
     "number": 192,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "192.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1569,6 +1748,7 @@
   {
     "number": 193,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "193.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1578,6 +1758,7 @@
   {
     "number": 194,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "194.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1587,6 +1768,7 @@
   {
     "number": 195,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "195.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1596,6 +1778,7 @@
   {
     "number": 196,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "196.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1605,6 +1788,7 @@
   {
     "number": 197,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "197.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -1614,6 +1798,7 @@
   {
     "number": 198,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "198.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1623,6 +1808,7 @@
   {
     "number": 199,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "199.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1632,6 +1818,7 @@
   {
     "number": 200,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "200.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1640,6 +1827,7 @@
   },
   {
     "number": 201,
+    "espace": "hors_quotidien",
     "imageFile": "201.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1649,6 +1837,7 @@
   {
     "number": 202,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "202.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1658,6 +1847,7 @@
   {
     "number": 203,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "203.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1667,6 +1857,7 @@
   {
     "number": 204,
     "saison": "automne",
+    "espace": "interieurs",
     "imageFile": "204.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1676,6 +1867,7 @@
   {
     "number": 205,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "205.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1685,6 +1877,7 @@
   {
     "number": 206,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "206.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -1694,6 +1887,7 @@
   {
     "number": 207,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "207.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1703,6 +1897,7 @@
   {
     "number": 208,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "208.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1711,6 +1906,7 @@
   },
   {
     "number": 209,
+    "espace": "zone_non_cultivee",
     "imageFile": "209.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1720,6 +1916,7 @@
   {
     "number": 210,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "210.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1729,6 +1926,7 @@
   {
     "number": 211,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "211.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1738,6 +1936,7 @@
   {
     "number": 212,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "212.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -1747,6 +1946,7 @@
   {
     "number": 213,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "213.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1756,6 +1956,7 @@
   {
     "number": 214,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "214.jpg",
     "isPrivate": true,
     "text": "La prairie dégage deux versants, celui côté village avec le seigle déjà haut, des choux transplantés à l'époque des foins, celui côté friches où deux parcelles de blé noir ont été gagnées récemment sur la lande et la bruyère, le défrichage est passé par là.<\/BR>Le blé noir aime ces terres fraîches, acides.<\/BR>La paille sera courte mais sa couleur rouge carmin ne sera que plus vive en octobre.<\/BR>La perdrix cachera sa couvée dans la bruyère et les perdreaux dès le mois d'août trouveront le bon grain noir du sarazin, un régal.<\/BR>Nous sommes fin juin et la fleur de blé noir est encore bien blanche. C'est le moment choisi par les abeilles qui se régalent.<\/BR>La bruyère commence à rougir.<\/BR>",
@@ -1764,6 +1965,7 @@
   {
     "number": 215,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "215.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1773,6 +1975,7 @@
   {
     "number": 216,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "216.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1782,6 +1985,7 @@
   {
     "number": 217,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "217.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -1791,6 +1995,7 @@
   {
     "number": 218,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "218.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1800,6 +2005,7 @@
   {
     "number": 219,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "219.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1809,6 +2015,7 @@
   {
     "number": 220,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "220.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -1818,6 +2025,7 @@
   {
     "number": 221,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "221.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1827,6 +2035,7 @@
   {
     "number": 222,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "222.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1836,6 +2045,7 @@
   {
     "number": 223,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "223.jpg",
     "isPrivate": false,
     "text": "Nous sommes en zone humide.<\/BR>Deux prairies viennent se rejoindre sur un couple talus \/ ruisseau.<\/BR>Dans ce cas le ruisseau fait office de fossé ce qui signifie que le talus est propriété de la prairie côté ruisseau.<\/BR>Il s'agit d'une zone si humide qu'à tout moment on peut s'y enfoncer.<\/BR>Pour cette raison, l'approche se fait en passant sur le haut du talus, en hiver pour évacuer feuilles mortes et bois, en été pour approcher le foin de la charrette restant en terrain ferme.<\/BR>Cette pratique donnait à ce talus un profil singulier dans le paysage.<\/BR>De nos jours il est encore possible de retrouver cette association talus \/ ruisseau que les chercheurs de champignon connaissent bien.<\/BR>",
@@ -1844,6 +2054,7 @@
   {
     "number": 224,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "224.jpg",
     "isPrivate": false,
     "text": "Il s'agit d'une petite exploitation typique de la commune de Languidic.<\/BR>Elle est située dans le village de Lindrin.<\/BR>Une longère regroupe une habitation de deux pièces, l'étable des vaches et l'écurie du cheval.<\/BR>Tout autour de l'aire à battre, une remise pouvant recevoir une charrette pleine en cas de pluie.<\/BR>La remise est prolongée par un appenti abritant un hache ajonc et broyeur à pommes, lesquels sont actionnés par le manège placé à l'extérieur.<\/BR>Derrière la longère un enclos (Lioh) réservé au cheval et à son poulin.<\/BR>Le long du talus, un talus de pommes recouvertes de paille et des betteraves recouvertes de fougères sèches.<\/BR>Enfin, le tas de bois devant alimenter la maison et la cuisson des racines pour les cochons.<\/BR>Dans le pignon de longère, un escalier en pierre permet d'accéder au grenier par l'extérieur.<\/BR>",
@@ -1852,6 +2063,7 @@
   {
     "number": 225,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "225.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1861,6 +2073,7 @@
   {
     "number": 226,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "226.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1870,6 +2083,7 @@
   {
     "number": 227,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "227.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1879,6 +2093,7 @@
   {
     "number": 228,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "228.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1888,6 +2103,7 @@
   {
     "number": 229,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "229.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1897,6 +2113,7 @@
   {
     "number": 230,
     "saison": "printemps",
+    "espace": "hors_quotidien",
     "imageFile": "230.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -1906,6 +2123,7 @@
   {
     "number": 231,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "231.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -1915,6 +2133,7 @@
   {
     "number": 232,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "232.jpg",
     "isPrivate": false,
     "text": "La digitale apprécie l'acidité du bocage breton.<\/BR>Elle fleurit généralement vers la période de l'ascension, dans la seconde moitié de mai.<\/BR>Bien souvent elle est associée au genet lui-même en floraison à cette période.<\/BR>Comme la digitale, le genet se plait dans les friches.<\/BR>",
@@ -1923,6 +2142,7 @@
   {
     "number": 233,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "233.jpg",
     "format": 1,
     "activites": "elevage",
@@ -1933,6 +2153,7 @@
   {
     "number": 234,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "234.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1942,6 +2163,7 @@
   {
     "number": 235,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "235.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -1951,6 +2173,7 @@
   {
     "number": 236,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "236.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -1960,6 +2183,7 @@
   {
     "number": 237,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "237.jpg",
     "isPrivate": true,
     "text": "Le bouleau aime les sols humides et frais.<\/BR>Comme ses racines demeurent à la surface du sol les zones inondables comme les tourbières lui conviennent parfaitement.<\/BR>Avec la complicité de la bruyère il sait aussi autour de son pied construire un îlot qui émerge de l'eau dormante.<\/BR>En novembre alors qu'il a abandonné ses petites feuilles, ses branches fines prennent un ton violacé ! De loin il semble ainsi continuer à disposer d'un feuillage.<\/BR>De nos jours là où prairies humides et taillis ont encore la chance de se rejoindre avec la complicité d'un talus et d'un ruisseau, de tels écosystèmes continuent de vivre.<\/BR>Un modèle de biodiversité.<\/BR>",
@@ -1968,6 +2192,7 @@
   {
     "number": 238,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "238.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -1977,6 +2202,7 @@
   {
     "number": 239,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "239.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -1986,6 +2212,7 @@
   {
     "number": 240,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "240.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -1994,6 +2221,7 @@
   },
   {
     "number": 241,
+    "espace": "hors_quotidien",
     "imageFile": "241.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2003,6 +2231,7 @@
   {
     "number": 242,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "242.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2012,6 +2241,7 @@
   {
     "number": 243,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "243.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2021,6 +2251,7 @@
   {
     "number": 244,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "244.jpg",
     "isPrivate": false,
     "text": "Début avril, le printemps encore timide est bien là.<\/BR>Dans la lande au sol particulièrement acide, l'oseille est très présente par sa tige en fleurs couleur rouille.<\/BR>Un peu partout le vent vient se mêler à ce fond brun roux au pied des touffes d'ajonc et de bruyère.<\/BR>De temps en temps de belles surfaces de pédiculaires aujourd'hui si rares.<\/BR>Nous l'appelions \"soupe au lait\". En effet sa couleur rappelait le lait roussi au beurre pour la préparation de la soupe au lait que les hommes appréciaient de matin sur des crêpes.<\/BR>Les bouleaux laissent échapper une pointe vert tendre alors que les chatons des saules sont \"passés\" le long des talus à l'abri l'herbe reprend sa place.<\/BR>L'ajonc est en pleine fleurs, son jaune est éclatant.<\/BR>Les chênes commencent à sortir de leur long sommeil. En mai leur feuillage sera en place.<\/BR>Ici ou là, les cerisiers sont couverts de fleurs blanches.<\/BR>",
@@ -2029,6 +2260,7 @@
   {
     "number": 245,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "245.jpg",
     "isPrivate": true,
     "text": "Au-delà des parcelles cultivées, cette prairie humide précède un taillis dans lequel on viendra prélever du bois et de la litière (fougères et feuilles mortes)<\/BR>Nous sommes fin mai, et dans ce lieu trois fleurs semblent avoir rendez-vous.<\/BR>Dans la prairie, au centre, les cardamines blanches sont mêlées à l'herbe déjà haute.<\/BR>En bordure, là où finit le foin et où commence la mousse du taillis une bande d'orchidées.<\/BR>Enfin, à l'ombre des arbres dans le taillis les jacinthes étalent leur bleu foncé.<\/BR>Dans la langue bretonne, à chacune de ces fleurs on avait coutume d'associer un oiseau.<\/BR>Le coucou pour l'orchidée, la tourterelle pour la cardamine et le corbeau pour la jacinthe.<\/BR>Il se trouve en effet, qu'à cette période du calendrier chacun de ces oiseaux, est présent. La tourterelle dans les saules, le coucou à la lisière de la prairie et le corbeau au cœur du bois !<\/BR>",
@@ -2037,6 +2269,7 @@
   {
     "number": 246,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "246.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2046,6 +2279,7 @@
   {
     "number": 247,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "247.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2055,6 +2289,7 @@
   {
     "number": 248,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "248.jpg",
     "isPrivate": false,
     "text": "Voici un lieu typique d'avant le remembrement.<\/BR>Un lieu où se rejoignent, une prairie, un champ cultivé et le début des friches et landes.<\/BR>Dans la lande, une parcelle de blé noir dans une terre fraîchement défrichée. C'est la pleine fleuraison, les abeilles appréciaient.<\/BR>La bruyère est également en pleine floraison.<\/BR>La prairie a cédé son foin ; elle reverdit.<\/BR>Dans la parcelle cultivée, le seigle est prêt pour recevoir la faucille.<\/BR>",
@@ -2063,6 +2298,7 @@
   {
     "number": 249,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "249.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2072,6 +2308,7 @@
   {
     "number": 250,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "250.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -2081,6 +2318,7 @@
   {
     "number": 251,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "251.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2090,6 +2328,7 @@
   {
     "number": 252,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "252.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2099,6 +2338,7 @@
   {
     "number": 253,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "253.jpg",
     "isPrivate": true,
     "text": "Loin des villages de Kerscoul et Kerdaniel nous sommes dans la zone dite des friches par opposition à la zone cultivée qui donne les récoltes.<\/BR>Une petite vallée encadre un ruisseau qui se dirige lentement vers l'Evel tout proche.<\/BR>Chacun des versants est constitué d'une prairie dite humide. A l'opposée du ruisseau sur la partie haute, une bande plus ou moins boisée fait la jonction avec les premières parcelles cultivées et plantées de pommiers.<\/BR>A partir de novembre en attendant les foins en juin, cette zone connaît peu d'activités, récolte de litière, coupe de bois et remise en ordre des ruisseaux.<\/BR>Une fine neige est tombée sur le sol gelé et cette petite vallée s'est profondément endormie pendant que les hommes sont demeurés dans les villages au service du bétail.<\/BR>",
@@ -2107,6 +2347,7 @@
   {
     "number": 254,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "254.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2116,6 +2357,7 @@
   {
     "number": 255,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "255.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2124,6 +2366,7 @@
   },
   {
     "number": 256,
+    "espace": "hors_quotidien",
     "imageFile": "256.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2133,6 +2376,7 @@
   {
     "number": 257,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "257.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2142,6 +2386,7 @@
   {
     "number": 258,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "258.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2151,6 +2396,7 @@
   {
     "number": 259,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "259.jpg",
     "isPrivate": true,
     "text": "Notre famille s'y est installée en 1940.<\/BR>Mes parents venaient de quitter une exploitation modeste pour une location se situant dans la moyenne haute de ce qui se faisait sur la commune de Languidic.<\/BR>Au total une quinzaine d'hectares de terres labourables, quelques prairies de qualité moyennes, une lande et quelques friches.<\/BR>En 1950 ma famille laissera ce village pour reprendre non loin de là la petite exploitation de mes grands-parents du côté de ma mère à Kerscoul exactement.<\/BR>Pour l'essentiel de mes souvenirs évoqués dans la mémoire des champs, ce village est au cœur du territoire évoqué.<\/BR>Au premier plan notre maison d'habitation et son potager.<\/BR>Au second plan une longère  couverte de chaume comprenant la cave à cidre, l'écurie et l'étable abritant également les porcs.<\/BR>Au dernier plan une longère partagée entre trois exploitations d'une dizaine d'hectares chacune.<\/BR>Le puit était donc partagé entre quatre exploitations.<\/BR>",
@@ -2159,6 +2405,7 @@
   {
     "number": 260,
     "saison": "printemps",
+    "espace": "hors_quotidien",
     "imageFile": "260.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -2168,6 +2415,7 @@
   {
     "number": 261,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "261.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -2177,6 +2425,7 @@
   {
     "number": 262,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "262.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2186,6 +2435,7 @@
   {
     "number": 263,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "263.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2195,6 +2445,7 @@
   {
     "number": 264,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "264.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -2204,6 +2455,7 @@
   {
     "number": 265,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "265.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2213,6 +2465,7 @@
   {
     "number": 266,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "266.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2222,6 +2475,7 @@
   {
     "number": 267,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "267.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2231,6 +2485,7 @@
   {
     "number": 268,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "268.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2240,6 +2495,7 @@
   {
     "number": 269,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "269.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2249,6 +2505,7 @@
   {
     "number": 270,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "270.jpg",
     "format": 1,
     "activites": "cueillette",
@@ -2259,6 +2516,7 @@
   {
     "number": 271,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "271.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2268,6 +2526,7 @@
   {
     "number": 273,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "273.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2277,6 +2536,7 @@
   {
     "number": 274,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "274.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2286,6 +2546,7 @@
   {
     "number": 275,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "275.jpg",
     "isPrivate": true,
     "text": "L'été s'achève, mais ce n'est pas encore l'automne, les feuillages des arbres et buissons sont ternes, fatigués par le soleil de l'été.<\/BR>Les chaumes prennent de la couleur avec la rosée du matin.<\/BR>Camomilles et pensées sauvages se mêlent au jaune des ravenelles.<\/BR>Le blé-noir devient gris-rose avec la formation de ses grains.<\/BR>Les pommes de terre attendent le passage de la charrue, alors que leurs fanes ont retrouvé leur couleur gris-zinc si caractéristique.<\/BR>Choux et betteraves achèvent leur croissance. Dans la lande, quelques fleurs jaunes apparaissent sur l'ajonc.<\/BR>",
@@ -2294,6 +2555,7 @@
   {
     "number": 276,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "276.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2303,6 +2565,7 @@
   {
     "number": 277,
     "saison": "automne",
+    "espace": "hors_quotidien",
     "imageFile": "277.jpg",
     "isPrivate": true,
     "text": "Septembre est là.<\/BR>Les greniers sont chargés de foin et de grains.<\/BR>Avant de subir les vents et pluies de l'hiver il faut réparer les toits de chaume.<\/BR>- Le couvreur a donné ses directives depuis l'hiver dernier, aussi la paille de seigle a été mise de côté.<\/BR>- Deux grandes échelles sont mobilisées pour ce couple de couvreurs.<\/BR>Une opération délicate que de dresser une grande échelle.<\/BR>Trois à quatre adultes s'imposaient.<\/BR>Le plus lourd bloquant la base, pilotant la manœuvre alors que les autres levaient progressivement l'échelle.<\/BR>Une fois dressée, on la fera pivoter pour mieux la poser sur le toit.<\/BR>La grande échelle, d'une quinzaine de mètres, tirée d'un sapin de croix scié en deux était logée sous le débordement du toit en chaume, à l'arrière de la longère.<\/BR>",
@@ -2311,6 +2574,7 @@
   {
     "number": 278,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "278.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2320,6 +2584,7 @@
   {
     "number": 279,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "279.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2329,6 +2594,7 @@
   {
     "number": 280,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "280.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2338,6 +2604,7 @@
   {
     "number": 281,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "281.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2347,6 +2614,7 @@
   {
     "number": 282,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "282.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2356,6 +2624,7 @@
   {
     "number": 283,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "283.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2365,6 +2634,7 @@
   {
     "number": 284,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "284.jpg",
     "format": 1,
     "isPrivate": false,
@@ -2374,6 +2644,7 @@
   {
     "number": 285,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "285.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2383,6 +2654,7 @@
   {
     "number": 286,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "286.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -2392,6 +2664,7 @@
   {
     "number": 287,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "287.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -2401,6 +2674,7 @@
   {
     "number": 289,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "289.jpg",
     "isPrivate": true,
     "text": "- Alors qu'il avait l'habitude de séjourner en Bretagne, un écrivain réputé parlait des \"neiges d'été\" en évoquant la lande au mois de juillet.<\/BR>- En effet au début du siècle les parcelles de sarrasin étaient fréquentes dans les landes que l'on venait de défricher.<\/BR>- En juillet, en pleine fleurs les surfaces de blé noir rappelaient la neige.<\/BR>- Au même moment, le rouge cramoisi de la bruyère soulignait un peu plus cette blancheur.<\/BR>- Les parcelles cultivées du premier plan viennent rejoindre les prairies par une haie d'aubépine noire garnie de prunelles violacées.<\/BR>",
@@ -2409,6 +2683,7 @@
   {
     "number": 290,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "290.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -2418,6 +2693,7 @@
   {
     "number": 291,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "291.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2427,6 +2703,7 @@
   {
     "number": 292,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "292.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2436,6 +2713,7 @@
   {
     "number": 293,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "293.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2445,6 +2723,7 @@
   {
     "number": 294,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "294.jpg",
     "isPrivate": false,
     "text": "Ce petit paysage de friches résume bien ces zones faisant la liaison entre parcelles cultivées et prairies naturelles.<\/BR>Au fond la lande vient finir sur des talus bas garnis de maigres chênes têtard.<\/BR>Au premier plan, bruyère et ajonc se mêlent.<\/BR>A droite l'on distingue l'amorce d'une prairie envahie de joncs.<\/BR>Au milieu, un taillis de bouleaux vient rejoindre la tourbière inondable. Les bouleaux aiment ces tourbières, leurs racines en surface profitent de la présence ou non d'un peu d'eau.<\/BR>Alors que leurs fines brindilles abandonnent les petites feuilles jaunies par l'automne, les troncs et branches retiennent un peu de neige fraîchement tombée dans la nuit.<\/BR>Dans ce paysage qui durera quelques heures seulement, tout est si léger et si fragile à la fois.<\/BR>",
@@ -2453,6 +2732,7 @@
   {
     "number": 295,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "295.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2462,6 +2742,7 @@
   {
     "number": 296,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "296.jpg",
     "isPrivate": true,
     "text": "La nuit a été froide.<\/BR>Dans la lande, gelée et brume ont figé le paysage. Tout est gris et blanchâtre ; arbres, ajonc, bruyère, buissons ne seront pas dérangés. Ils pourront prolonger leur sommeil toute la matinée.<\/BR>Les hommes et les femmes sont sous les toits des granges, remises et étables<\/BR>Le travail ne manque pas dès lors que les animaux ne seront pas sortis. Dans les champs il n'est pas question de toucher au sol gelé.<\/BR>L'après-midi la lande retrouve un peu d'activité :<\/BR>Le coupeur de lande pourra passer, d'autres viendront poursuivre le façonnage des fagots, d'autres encore rassembleront au râteau la litière pour les étables.<\/BR>L'après-midi sera courte. Dès cinq heures il faudra laisser la lande retrouver sa brume et sa gelée nocturne pour rejoindre les animaux à nourrir, soigner et traire.<\/BR>",
@@ -2470,6 +2751,7 @@
   {
     "number": 297,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "297.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -2479,6 +2761,7 @@
   {
     "number": 298,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "298.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2488,6 +2771,7 @@
   {
     "number": 299,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "299.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2497,6 +2781,7 @@
   {
     "number": 300,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "300.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2506,6 +2791,7 @@
   {
     "number": 301,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "301.jpg",
     "isPrivate": true,
     "text": "Le printemps est bien installé.<\/BR>L'oseille sauvage se dépêche d'occuper la lande.<\/BR>En effet très vite un épais tapis de bruyère, de fougère et d'herbe va la recouvrir toute entière.<\/BR>A l'automne le coupeur d'ajonc pourra venir faire ses mottes de litière.<\/BR>L'ajonc abandonne progressivement son jaune d'or laissant au genet le soin de maintenir le jaune pâle tout au long du mois de juin.<\/BR>Dans les sous-bois la jacinthe offre son bleu intense.<\/BR>De part et d'autre des talus qui bordent les prairies, l'orchidée est en pleine floraison.<\/BR>Ici ou là quelques taches violacées de pédiculaires.<\/BR>Dans les prairies la cardamine laisse monter sa longue tige fine pour mieux précéder les marguerites. <\/BR>Sur les talus, les chênes laissent échapper leurs premières feuilles encore tendres.<\/BR>Les couvées de merles, grives et bergeronnettes ne manquent pas d'insectes.<\/BR>Quel bel exemple de biodiversité !<\/BR>Dès que le soleil effacera la rosée du matin, la lande toute entière se laissera envelopper du chant de milliers de grillons.<\/BR>",
@@ -2514,6 +2800,7 @@
   {
     "number": 302,
     "saison": "printemps",
+    "espace": "hors_quotidien",
     "imageFile": "302.jpg",
     "activites": "manutention",
     "isPrivate": true,
@@ -2523,6 +2810,7 @@
   {
     "number": 303,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "303.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2532,6 +2820,7 @@
   {
     "number": 304,
     "saison": "ete",
+    "espace": "village",
     "imageFile": "304.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2541,6 +2830,7 @@
   {
     "number": 305,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "305.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2550,6 +2840,7 @@
   {
     "number": 306,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "306.jpg",
     "isPrivate": false,
     "text": "Ce taillis de bouleaux, vu de loin, semble avoir viré tout entier au jaune clair.<\/BR>Le vert de plus en plus pâle n'a cependant pas cédé toute sa place.<\/BR>Le brun lui-même ici ou là résiste par ses tâches de rouille.<\/BR>Le feuillage, plus léger, plus transparent laisse paraître le rouge carmin plus ou moins violacé des fines brindilles qui portent ses feuilles.<\/BR>Les troncs et branches principales libèrent leur blancheur tachetée de gris.<\/BR>Ce mélange de tons pâles laisse passer la lumière et chacun des bouleaux semble enveloppé de dentelle.<\/BR>Au sol les mêmes tons pâles se prolongent dans la bruyère, l'ajonc et les fougères.<\/BR>Les tâches grises desséchées par l'été ne tarderont pas à retrouver leur humidité<\/BR>",
@@ -2558,6 +2849,7 @@
   {
     "number": 307,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "307.jpg",
     "isPrivate": false,
     "text": "L'automne s'est imposé, dépouillant ainsi les bouleaux de leurs fines feuilles.<\/BR>Ici ou là, un peu de jaune résiste en attendant les vents humides de novembre.<\/BR>La blancheur des troncs n'est que plus visible alors que les branches latérales semblent avoir retrouvé l'équivalent d'un feuillage tant les brindilles dépouillées de leurs feuilles sont violacées.<\/BR>Au sol, l'eau a retrouvé sa place, formant ainsi des flaques grises entourées de bruyère.<\/BR>Novembre par ses fortes pluies fera renaître la tourbière qui s'endormira en silence dans les bras de l'hiver.<\/BR>",
@@ -2566,6 +2858,7 @@
   {
     "number": 308,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "308.jpg",
     "isPrivate": false,
     "text": "Ce qui devrait arriver est arrivé !<\/BR>La tourbière est saisie toute entière par une gelée blanche. L'hiver est bien là.<\/BR>Les troncs blancs sont intacts et les brindilles ont gardé leur ton violacé.<\/BR>Un peu de neige vient de se déposer prenant ainsi la place du feuillage.<\/BR>Au sol les surfaces, inondées sont gelées alors que la bruyère se laisse recouvrir à son tour par cette fine neige.<\/BR>Saisi par le froid, ce taillis de bouleaux tout entier est figé, et pourtant il semble avoir retrouvé un feuillage, un feuillage de neige.<\/BR>",
@@ -2574,6 +2867,7 @@
   {
     "number": 309,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "309.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2583,6 +2877,7 @@
   {
     "number": 310,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "310.jpg",
     "isPrivate": true,
     "text": "Le taillis de chênes était apprécié ; tant pour ses fagots que pour ses rondins destinés à la production de bois.<\/BR>Installé le plus souvent sur les versants secs et graniteux, non loin des ruisseaux, sa croissance était lente à partir des souches résultant des coupes périodiques.<\/BR>Le chêne même jeune se distinguait par ses troncs et branches grises et noueuses.<\/BR>Dans un même taillis il se distinguait des bouleaux et châtaigniers qui lui tenaient compagnie.<\/BR>Ces taillis, malheureusement, ont disparus victimes du remembrement, défrichage et abandon du charbon de bois.<\/BR>Les bécasses les appréciaient. Ils s'y installaient dès l'automne, en provenance des pays nordiques ou les zones humides étaient prises dans le gel.<\/BR>",
@@ -2591,6 +2886,7 @@
   {
     "number": 311,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "311.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2600,6 +2896,7 @@
   {
     "number": 312,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "312.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2609,6 +2906,7 @@
   {
     "number": 313,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "313.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2618,6 +2916,7 @@
   {
     "number": 314,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "314.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -2627,6 +2926,7 @@
   {
     "number": 315,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "315.jpg",
     "isPrivate": false,
     "text": "Le bouleau ne laisse le soin à personne d'annoncer le printemps.<\/BR>Dans les taillis, les jeunes chênes sont priés de poursuivre leur <\/BR>sommeil, leur tour viendra.<\/BR>A l'inverse, les quelques cerisiers semés ici ou là par les oiseaux <\/BR>n'hésitent pas à montrer leurs fleurs blanches.<\/BR>Le bouleau impose son feuillage vert clair, tout en laissant apparaitre <\/BR>un peu de blancheur plus ou moins rose sur les troncs et les branches <\/BR>principales.<\/BR>Le premier mai sera sa fête.<\/BR>Il offrira ses fines branches qui une fois bénies seront placées là où sa <\/BR>protection sera utile.<\/BR>•\tDans les parcelles où de bonnes récoltes sont espérées.<\/BR>•\tSur les puits en pierre afin que tout l'été son eau fraiche soit <\/BR>présente.<\/BR>•\tSur les façades des maisons afin de tenir éloigné le risque <\/BR>d'incendie qui détruirait les toits en chaume.<\/BR>L'été arrivant, ses fines feuilles se laisseront brunir par le soleil.<\/BR>En septembre il retrouvera de la couleur ; du jaune pâle qui illuminera <\/BR>à nouveau les taillis.<\/BR>",
@@ -2635,6 +2935,7 @@
   {
     "number": 316,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "316.jpg",
     "format": 1,
     "activites": "cueillette",
@@ -2645,6 +2946,7 @@
   {
     "number": 317,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "317.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2654,6 +2956,7 @@
   {
     "number": 318,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "318.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2663,6 +2966,7 @@
   {
     "number": 319,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "319.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2672,6 +2976,7 @@
   {
     "number": 320,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "320.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2681,6 +2986,7 @@
   {
     "number": 321,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "321.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2690,6 +2996,7 @@
   {
     "number": 322,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "322.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2699,6 +3006,7 @@
   {
     "number": 323,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "323.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -2708,6 +3016,7 @@
   {
     "number": 324,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "324.jpg",
     "format": 1,
     "isPrivate": false,
@@ -2717,6 +3026,7 @@
   {
     "number": 325,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "325.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2726,6 +3036,7 @@
   {
     "number": 326,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "326.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2735,6 +3046,7 @@
   {
     "number": 327,
     "saison": "hiver",
+    "espace": "interieurs",
     "imageFile": "327.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -2744,6 +3056,7 @@
   {
     "number": 328,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "328.jpg",
     "format": 1,
     "activites": "cueillette",
@@ -2754,6 +3067,7 @@
   {
     "number": 329,
     "saison": "hiver",
+    "espace": "zone_cultivee",
     "imageFile": "329.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2763,6 +3077,7 @@
   {
     "number": 330,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "330.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2772,6 +3087,7 @@
   {
     "number": 331,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "331.jpg",
     "isPrivate": true,
     "text": " <\/BR>Le mois d'avril s'achève. La chaleur est douce. Dans les friches, non loin des prairies, la jacinthe recherche dans les sous bois, à la fois la fraîcheur et la douceur de la lumière que les feuillages naissants laissent filtrer.<\/BR>Les paysans l'appelaient « er bouren-bran » autrement dît, le poireau du corbeau !<\/BR>Chacun à sa façon s'efforçait de justifier cette association du corbeau et de la jacinthe.<\/BR>• Certains avaient constatés que le corbeau s'installait comme la jacinthe à la lisière des prairies !<\/BR>• D'autres évoquaient les reflets bleutés de son bec et de son plumage !<\/BR>• D'autres enfin avaient constatés que le corbeau depuis son nid durant la couvaison semblait apprécier le tapis bleuté au pied de son arbre !<\/BR>• D'autres associations du même type réunissaient un lieu, un calendrier, une couleur.<\/BR>C'était le cas du coucou et des orchidées ; de la tourterelle et de la cardamine.<\/BR>",
@@ -2780,6 +3096,7 @@
   {
     "number": 332,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "332.jpg",
     "isPrivate": true,
     "text": " <\/BR>Mai est proche.<\/BR>Bouleaux et hêtres sont déjà vêtus de leur feuillage vert tendre.<\/BR>Le chêne au contraire semble tenir à son sommeil d'hiver.<\/BR>C'est vrai, qu'en automne il a su garder ses feuilles alors que tant d'autres arbres étaient dénudés dès les premiers vents de novembre.<\/BR>Autour du premier mai, discrètement il se couvre de chatons alors que la pointe de ses feuilles est à peine visible.<\/BR>Durant deux semaines, le temps que ses feuilles apparaissent il gardera cette couleur de caramel.<\/BR>Dans les taillis de chêne autrefois appréciés car destinés à produire du charbon de bois de qualité, le contraste était fort entre cet ensemble de baliveaux couleur ocre et le sol tapissé de jacinthes bleues.<\/BR>Le chêne vient de se réveiller.<\/BR>",
@@ -2788,6 +3105,7 @@
   {
     "number": 333,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "333.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2797,6 +3115,7 @@
   {
     "number": 334,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "334.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2806,6 +3125,7 @@
   {
     "number": 335,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "335.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2815,6 +3135,7 @@
   {
     "number": 336,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "336.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2824,6 +3145,7 @@
   {
     "number": 337,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "337.jpg",
     "format": 1,
     "activites": "cueillette",
@@ -2834,6 +3156,7 @@
   {
     "number": 338,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "338.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2843,6 +3166,7 @@
   {
     "number": 339,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "339.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2852,6 +3176,7 @@
   {
     "number": 340,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "340.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -2861,6 +3186,7 @@
   {
     "number": 341,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "341.jpg",
     "format": 1,
     "isPrivate": false,
@@ -2870,6 +3196,7 @@
   {
     "number": 342,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "342.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -2879,6 +3206,7 @@
   {
     "number": 343,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "343.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2888,6 +3216,7 @@
   {
     "number": 344,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "344.jpg",
     "isPrivate": false,
     "text": "Avec février, l’hiver est toujours bien présent. Une brume légère se pose en douceur sur la lande. La nuit sera fraiche et les arbres se laisseront prendre par le givre. On distingue à peine les cheminements. Les troncs comme les branches nues des arbres disparaissent petit à petit, absorbés par cette atmosphère grise et humide. Les bouleaux à leur tour s’évanouissent abandonnant la blancheur de leur tronc. Sur les talus, les chênes vont s’endormir alors qu’à leurs pieds, quelques sangliers profitent de l’obscurité pour chercher les glands recouverts de feuilles mortes.",
@@ -2896,6 +3225,7 @@
   {
     "number": 345,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "345.jpg",
     "format": 1,
     "isPrivate": false,
@@ -2905,6 +3235,7 @@
   {
     "number": 346,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "346.jpg",
     "format": 1,
     "activites": "cueillette",
@@ -2915,6 +3246,7 @@
   {
     "number": 347,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "347.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -2924,6 +3256,7 @@
   {
     "number": 348,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "348.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -2933,6 +3266,7 @@
   {
     "number": 349,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "349.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2942,6 +3276,7 @@
   {
     "number": 350,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "350.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -2951,6 +3286,7 @@
   {
     "number": 351,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "351.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -2960,6 +3296,7 @@
   {
     "number": 352,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "352.jpg",
     "isPrivate": true,
     "text": "Jusqu’en 1950, en Morbihan, la pratique de la polyculture-élevage se traduisait par un partage des zones cultivées en parcelles qui vivaient avec l’assolement. A partir de la mi-juillet la « moisson blanche » libérait les parcelles de seigle, orge, avoine et blé. Dans le même temps, choux, betteraves, trèfle violet, et pommes de terre poursuivent leur chemin pour des récoltes en automne \/ hiver. Entre les parcelles dîtes de paille, et celles fourragères le contraste était saisissant, par la couleur verte s’opposant au jaune. Comme les désherbants n’étaient pas utilisés, derrière cette moisson, un second printemps s’installait en attendant les labours de novembre. Ainsi les parcelles en question fleurissaient de pensées sauvages, camomilles et ravenelles en particuliers. C’était le printemps de la St Michel qui portait bien son nom. De nos jours, les chaumes sont défoncés dès la récolte, et si le printemps de la St Michel continue dans les calendriers, c’est sans son contenu.",
@@ -2968,6 +3305,7 @@
   {
     "number": 353,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "353.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -2977,6 +3315,7 @@
   {
     "number": 354,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "354.jpg",
     "isPrivate": false,
     "text": "Septembre a fait son travail. Sur cette zone humide, quelques bouleaux ici ou là semblent plantés sur des ilots de bruyère alors que leurs racines en surface trouvent l’humidité nécessaire. La bruyère n’a pas résisté au soleil de l’été, elle a abandonné son rouge carmin pour se contenter d’un ton de rouille. Le feuillage des bouleaux retrouve son jaune-brun lumineux. Pas pour longtemps, ses petites feuilles légères vont bientôt tomber au sol. Il faut se dépêcher de saisir ce moment car très vite, le vent de l’automne passera et l’arbre se laissera dépouiller pour mieux laisser voir ses petites branches fines violacées qu’il saura garder jusqu’au printemps prochain. A la lisière du bois de sapins, une buse perchée sur un piquet attend tranquillement qu’une proie s’offre à elle.",
@@ -2985,6 +3324,7 @@
   {
     "number": 355,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "355.jpg",
     "activites": "travaux",
     "isPrivate": true,
@@ -2994,6 +3334,7 @@
   {
     "number": 356,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "356.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3003,6 +3344,7 @@
   {
     "number": 357,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "357.jpg",
     "format": 1,
     "isPrivate": true,
@@ -3012,6 +3354,7 @@
   {
     "number": 358,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "358.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -3021,6 +3364,7 @@
   {
     "number": 359,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "359.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -3030,6 +3374,7 @@
   {
     "number": 360,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "360.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -3039,6 +3384,7 @@
   {
     "number": 361,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "361.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3048,6 +3394,7 @@
   {
     "number": 362,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "362.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3057,6 +3404,7 @@
   {
     "number": 363,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "363.jpg",
     "isPrivate": false,
     "text": "L’automne s’est installé.  Les bouleaux ont abandonné leurs petites feuilles jaunes.  Ici ou là, l’ajonc « nain » laisse échapper ses premières fleurs de l’hiver.  La bruyère s’est éteinte brulée par la chaleur du mois d’août.  Sous les pins, quelques grosses pierres, plus ou moins alignées tantôt penchées, tantôt couchées.  Ces pierres appartenaient à notre quotidien, là où nous accompagnions notre bétail. Une lande partagée avec trois autres villages.  Alors que notre instituteur nous avait « appris » les menhirs de Carnac, à aucun moment il n’avait été question de « nos menhirs à nous » !  Cachés dans l’ajonc, la bruyère, et les fougères ils appartenaient à notre terrain de jeu.  Ou plutôt, ils appartenaient aux Korrigans qui voulaient bien nous les laisser dans la journée alors qu’eux-mêmes les occupaient les nuits éclairées par la lune !  C’était bien ainsi.  Désormais, avec le remembrement, les bulldozers les ont ignorés, bousculés, chassés alors que ceux de Carnac appartiennent au patrimoine mondial!      P. S. La lande évoquée était limitrophe avec le village de « L’an-menhir ».  Tout à côté, les landes de Kersolan abritent toujours un alignement encore perceptible.",
@@ -3065,6 +3413,7 @@
   {
     "number": 364,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "364.jpg",
     "isPrivate": false,
     "text": "Cette petite vallée débouche sur celle de l’Evel qui à son tour rejoindra le Blavet à Pontaugan tout proche. Le versant ouest appartenait à Kerdaniel et Taloët.  Le versant est appartenait à Kerscoul mon village.  Un petit ruisseau sépare ces 2 versants.  De part et d’autre de ce ruisseau, des prairies puis des friches plus ou moins boisées et enfin les zones cultivées pour rejoindre les villages.  Côté Kerscoul, les roches étaient visibles ici ou là ; souvent recouvertes de chênes maigres et à leur pied, bruyère, fougères, mousses et lichens.  Ces chênes maigres se développaient très lentement ; leur écorce d’un gris clair et leurs branches noueuses donnaient à l’ensemble une silhouette très caractéristique de ces endroits.  L’ajonc se mêlait également à cet ensemble remarquable qui sera visité chaque hiver pour sa litière destinée aux étables.",
@@ -3072,6 +3421,7 @@
   },
   {
     "number": 365,
+    "espace": "interieurs",
     "imageFile": "365.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3081,6 +3431,7 @@
   {
     "number": 366,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "366.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3090,6 +3441,7 @@
   {
     "number": 367,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "367.jpg",
     "isPrivate": false,
     "text": "Autrefois, tout récoltant avait un droit à distiller du cidre pour sa propre consommation : environ 20 litres de calva à 50 degrés ! Le bouilleur de crus s’installait dans le village le temps de traiter les différentes exploitations. Cela se passait à partir de novembre dès que le cidre nouveau prenait la place de celui de la récolte précédente. Le vieux cidre trop aigre était ainsi disponible pour la distillation. Les journées étaient courtes en cette période de l’année, la « machine » continuait son travail une fois la nuit tombée. C’était donc l’occasion pour les hommes du village de se réunir autour de l’alambic ! Cela se passait dans une atmosphère très particulière : L’obscurité, le silence, l’odeur de l’alcool et de la pomme cuite, la fumée, le tout proche de la douce chaleur de la chaudière ! La conversation à voix basse laissait de la place à la dégustation du filet de calva qui s’échappait de l’alambic.",
@@ -3098,6 +3450,7 @@
   {
     "number": 368,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "368.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -3107,6 +3460,7 @@
   {
     "number": 369,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "369.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3116,6 +3470,7 @@
   {
     "number": 370,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "370.jpg",
     "isPrivate": false,
     "text": "C’est la mi-avril. La prairie, bien à l’abri connaît déjà le printemps. L’herbe nouvelle, encore tendre est bien visible. Les primevères illuminent les talus, alors que les jacinthes et orchidées sont encore timides. Les saules sont depuis février recouverts de chatons argentés. Les noisetiers ont fait de même dès janvier. Les chênes, comme chaque année gardent leur sommeil hivernal ; rien ne presse pour eux. Au delà de la prairie, la tourbière encore froide prépare son réveil. Quelques bouleaux l’annoncent car comme chaque année le premier mai ils devront offrir leurs rameaux que l’on accrochera aux puits des villages. Au sol, les bruyères, mousses, lichens, molinies et graminées vont désormais profiter des journées plus tièdes et plus lumineuses pour retrouver leur habit de printemps. Le corbeau a posé son nid sur le sommet d’un chêne têtard. Bientôt ses oisillons seront en bonne place pour profiter du réveil de cette tourbière.",
@@ -3124,6 +3479,7 @@
   {
     "number": 371,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "371.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3133,6 +3489,7 @@
   {
     "number": 372,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "372.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3142,6 +3499,7 @@
   {
     "number": 373,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "373.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3151,6 +3509,7 @@
   {
     "number": 374,
     "saison": "ete",
+    "espace": "zone_cultivee",
     "imageFile": "374.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3160,6 +3519,7 @@
   {
     "number": 375,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "375.jpg",
     "activites": "cueillette",
     "isPrivate": true,
@@ -3169,6 +3529,7 @@
   {
     "number": 376,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "376.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3178,6 +3539,7 @@
   {
     "number": 377,
     "saison": "automne",
+    "espace": "village",
     "imageFile": "377.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3187,6 +3549,7 @@
   {
     "number": 378,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "378.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3196,6 +3559,7 @@
   {
     "number": 379,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "379.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -3205,6 +3569,7 @@
   {
     "number": 380,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "380.jpg",
     "isPrivate": true,
     "text": "C’est l’hiver. Après le gel nocturne, une fine couche de neige s’est posée sur ce lieu où prairies et friches se rejoignent. Rien ne bouge. C’est le sommeil hivernal. Cependant, le réveil est proche. Sous cette blancheur la sève est déjà au travail. Février et mars la feront monter au sommet des arbres. Avril se chargera d’installer le printemps. Flore et faune pourront voir arriver les gens des villages. Une brouette chargée d’une lessiveuse arrivera pour un premier lavage de printemps. Le corbeau posera son nid sur la tête d’un chêne « têtard » En juin les premières faux se présenteront. Les charrettes suivront ; vidant les prairies de leur foin. Place aux troupeaux que les enfants accompagneront matin et soir durant l’été. En septembre, c’est le chanvre qui prendra place dans le « poul-coah », de grosses pierres le maintiendront sous l’eau, le temps du rouissage. L’automne est là, les arbres abandonnent leurs feuilles. L’hiver est proche et le lavoir peut à nouveau retrouver sa pause.",
@@ -3213,6 +3578,7 @@
   {
     "number": 381,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "381.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3222,6 +3588,7 @@
   {
     "number": 382,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "382.jpg",
     "activites": "repos",
     "isPrivate": true,
@@ -3231,6 +3598,7 @@
   {
     "number": 383,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "383.jpg",
     "isPrivate": false,
     "text": "Ce petit ruisseau réunit deux versants de pairies humides appartenant à deux petits villages proches. Nous sommes fin juin. L’oseille sauvage en fleurs impose à l’ensemble une tonalité « rose marbré ». Les cardamines et marguerites ajoutent un peu de blancheur lumineuse, alors que le bouton d’or se contente de placer ses petites tâches jaunes. A l’ombre des « têtards » de saules, les orchidées continuent d’apporter ici ou là un peu de violet. Là ou le ruisseau amorce une courbe, une grande tâche bleutée s’impose ; il s’agit d’un massif de myosotis en pleine floraison. Le cresson ajoute ici ou là la blancheur de ses fleurs. Le long du talus longeant le ruisseau, des iris jaunes ont pris place pour mieux prendre le soleil. Les libellules et papillons se régalent. Sur la partie sèches des prairies, mille grillons invitent les faucheurs à venir les rejoindre.",
@@ -3239,6 +3607,7 @@
   {
     "number": 384,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "384.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3248,6 +3617,7 @@
   {
     "number": 385,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "385.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3257,6 +3627,7 @@
   {
     "number": 386,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "386.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3266,6 +3637,7 @@
   {
     "number": 387,
     "saison": "hiver",
+    "espace": "village",
     "imageFile": "387.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3275,6 +3647,7 @@
   {
     "number": 388,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "388.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3284,6 +3657,7 @@
   {
     "number": 389,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "389.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3293,6 +3667,7 @@
   {
     "number": 390,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "390.jpg",
     "format": 1,
     "activites": "travaux",
@@ -3303,6 +3678,7 @@
   {
     "number": 391,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "391.jpg",
     "activites": "elevage",
     "isPrivate": true,
@@ -3312,6 +3688,7 @@
   {
     "number": 392,
     "saison": "printemps",
+    "espace": "zone_cultivee",
     "imageFile": "392.jpg",
     "activites": "travaux",
     "isPrivate": false,
@@ -3321,6 +3698,7 @@
   {
     "number": 393,
     "saison": "ete",
+    "espace": "zone_non_cultivee",
     "imageFile": "393.jpg",
     "isPrivate": true,
     "text": "C’est début juillet. Dans les prairies, la fauche est imminente. Alors qu’un faucheur bat sa faux, un second sépare ce qui appartient au talus et ce qui deviendra foin. L’oseille sauvage domine les graminées, cardamines, et boutons d’or imposant à l’ensemble cette tonalité brune-rosée. Dans la lande, la bruyère est en fleurs alors que l’ajonc abandonne son jaune d’avril-mai. Une petite parcelle de blé noir se distingue également par la blancheur de ses fleurs. Deux personnes, avec faucille et fourche séparent la lande de la récolte de blé-noir à venir. La lande a toujours toléré le blé-noir semé lors d’un défrichement. En effet, celui-ci a toujours contribué à la réussite du défrichement par sa capacité à recouvrir le sol dès la levée de ses graines. Dans ce lieu unique, prairies et landes mènent une vie de couple. Chacun apporte ses microsystèmes, et le dialogue est tel que l’harmonie de l’ensemble demeure tout au long de l’avancement des saisons. Un miracle de la biodiversité !",
@@ -3329,6 +3707,7 @@
   {
     "number": 394,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "394.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3338,6 +3717,7 @@
   {
     "number": 395,
     "saison": "automne",
+    "espace": "zone_non_cultivee",
     "imageFile": "395.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3347,6 +3727,7 @@
   {
     "number": 396,
     "saison": "automne",
+    "espace": "zone_cultivee",
     "imageFile": "396.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3356,6 +3737,7 @@
   {
     "number": 397,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "397.jpg",
     "activites": "manutention",
     "isPrivate": false,
@@ -3365,6 +3747,7 @@
   {
     "number": 398,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "398.jpg",
     "activites": "elevage",
     "isPrivate": false,
@@ -3374,6 +3757,7 @@
   {
     "number": 399,
     "saison": "hiver",
+    "espace": "hors_quotidien",
     "imageFile": "399.jpg",
     "isPrivate": false,
     "text": "Blotti au fond d’une petite vallée, ce moulin à eau a été saisi par une nuit froide de janvier. Appelé moulin de Morsaï, entre Lambezegan et Kerdoret, tout proche du Blavet, ce moulin aurait appartenu autrefois à la petite seigneurie de Talhouet – Lamotte. Cette nuit la gelée a été si forte que la grande roue a été saisie par la glace. Le moulin est à l’arrêt ! Et avec lui le meunier ! Pas une charrette ne se présentera aujourd’hui, l’accès est si difficile par un chemin humide et gelé, qu’aucun cheval ne viendra porter son grain. Le meunier ne sera pas seul pour autant. Par un tel froid, les visites ne manqueront pas, le cidre chaud, au coin du feu non plus. « Amzer – zo ! » (*) <\/BR><\/BR> (*) rien ne presse",
@@ -3382,6 +3766,7 @@
   {
     "number": 400,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "400.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3391,6 +3776,7 @@
   {
     "number": 401,
     "saison": "hiver",
+    "espace": "zone_non_cultivee",
     "imageFile": "401.jpg",
     "isPrivate": false,
     "text": "C’est Janvier, l’hiver s’achève. Dans les prairies humides, il faut sans attendre épandre le « streut » (1) accumulé dans les « penerh » (2) puis l’émietter par le passage d’une herse d’aubépine. Malheureusement, le tombereau lourdement chargé de ce fumier humide a rencontré une rigole où l’une de ses roues s’est enfoncée. Heureusement, le cheval attelé a pu être rapidement libéré des brancards pour laisser la charrette sur place. Le cheval ne s’est pas effrayé, attelé à un pommier proche il se fait consoler afin qu’il reprenne confiance ! Appelés à l’aide, les voisins occupés dans les parcelles proches se sont rendus disponibles sans attendre. Deux d’entre eux sont venus avec leur cheval et sans attendre ont pris en charge la charrette. Non loin de là, deux femmes ont laissé de côté le lavoir et leur lessive pour venir sur place encourager et les chevaux et les hommes. Tout finira bien pour tous. <\/BR><\/BR> (1) « streut » - à proximité des étables, durant l’hiver, bouses, purin, boue et litière sont mis en tas en attendant de prendre la direction des prairies. <\/BR><\/BR> (2) « penerh » - zone proche des étables et du passage des animaux",
@@ -3399,6 +3785,7 @@
   {
     "number": 402,
     "saison": "ete",
+    "espace": "hors_quotidien",
     "imageFile": "402.jpg",
     "activites": "repos",
     "isPrivate": false,
@@ -3408,6 +3795,7 @@
   {
     "number": 403,
     "saison": "printemps",
+    "espace": "zone_non_cultivee",
     "imageFile": "403.jpg",
     "activites": "cueillette",
     "isPrivate": false,
@@ -3417,6 +3805,7 @@
   {
     "number": 404,
     "saison": "printemps",
+    "espace": "village",
     "imageFile": "404.jpg",
     "activites": "travaux",
     "isPrivate": false,
