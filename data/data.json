@@ -3973,7 +3973,7 @@
     "activites": "manutention",
     "isPrivate": false,
     "text": "Nous sommes le 30 septembre, fin de bail. Le fermier quitte une exploitation pour s’installer dans un autre village, à quelques kilomètres généralement. La solidarité est forte tant de la part du village quitté que de celui qui va accueillir. Les hommes, charrettes, chevaux sont mis à contribution. Pour la manutention, le transfert du matériel, des meubles et des récoltes. Pour le troupeau, les vaches vont emprunter le chemin traversant la lande. Chaque vache est tenue par une corde et les enfants participent avec leur bâton. Dans le village d’accueil une transition s’imposera : le temps de reconnaître l’étable, les champs, les prairies et les chemins qui y conduisent. Les usages et coutumes locaux intégraient la nécessité de coller à la situation du moment. Le grain sera transféré mais la paille restera sur place. Les récoltes encore en terre (betteraves) feront l’objet d’un report d’un à deux mois. Les choux fourragers auront été transplantés en anticipation en juillet dans la nouvelle ferme. Les pommes également connaîtront un chevauchement tenant compte des variétés. Les pépinières attendront que la sève soit descendue pour être vidées. Les ruches seront déplacées quand les abeilles auront cessé de butiner. Ma famille a connu deux déménagements, le premier en 1941, le second en 1950.",
-    "title": "le déménagement d’un fermier"
+    "title": "Le déménagement d’un fermier"
   },
   {
     "number": 410,
@@ -3984,5 +3984,79 @@
     "isPrivate": false,
     "text": "En novembre, automne et hiver se disputent le calendrier. Le début de l’hiver c’est aussi la fin de l’automne. Vent et humidité obligent l’automne à lâcher prise ! Les arbres abandonnent leurs feuilles que les balais et râteaux regroupent en petits tas de litière. Sans bruit, la sève est descendue et les chênes acceptent d’être dépouillés de leurs branches transformées en fagots. Le sol ne connait pas encore le froid, cependant en surface, les nuits fraîches produisent les premières gelées blanches que le soleil effacera rapidement, donnant ainsi à l’automne le temps de retrouver un peu ses couleurs. Quand viendra février, c’est l’hiver qui a son tour cèdera la place au printemps. Il se contentera d’une gelée blanche que les jeunes bourgeons du printemps supporteront.",
     "title": "Début de l’hiver"
+  },
+  {
+    "number": 411,
+    "saison": "automne",
+    "espace": "zone_non_cultivee",
+    "connexes": "indigents",
+    "imageFile": "411.jpg",
+    "activites": "manutention",
+    "isPrivate": false,
+    "text": "L’automne s’achève. Les taupes s’activent pour finir de mettre à l’abri de quoi passer l’hiver proche. C’est le moment de poser les pièges, à la périphérie des prairies, le long des talus et haies. Au printemps prochain un second passage finira le travail. De village en village, notre taupier passe forcément par le sentier le plus court, celui qui traverse la lande commune. C’est aussi la haute saison pour le coupeur d’ajonc, profitant de l’humidité de l’automne. La rencontre de nos deux personnages sera l’occasion d’une pause (ils appartiennent à une même école, celle des indigents actifs !) Il sera question des actualités de la commune et des villages proches. Avant de se quitter ensemble ils regarderont le ciel pour mieux évoquer le temps qu’il fera les jours prochains.",
+    "title": "La traversé de la lande (le taupier)"
+  },
+  {
+    "number": 412,
+    "saison": "hiver",
+    "espace": "village",
+    "imageFile": "412.jpg",
+    "activites": "repos",
+    "isPrivate": false,
+    "text": "C’est dimanche, le sol gelé est recouvert d’une belle couche de neige. Rien ne presse (amzer zo) c’est l’occasion de faire une visite aux cousins installés dans le village voisin. On y trouvera forcément un beau feu de cheminée et du cidre chaud. Les enfants ont accompagné les parents, et naturellement ils seront dehors dans la neige. Ils connaissent les lieux et en particulier chez les voisins, un toit d’ardoises en double pente qui permet le lancement des boules de neige. Il y a de la place pour tous. Les plus grands, plus forts et plus adroits seront les lanceurs. La boule atteindra le sommet de la pente, descendra en grossissant pour finir exploser sur la tête des plus petits qui attendent les bras en l’air. D’autres choisiront la glisse. Un grand-père (de service) maintiendra la discipline tout en protégeant les plus petits. La partie terminée chacun rejoindra le feu de cheminée pour mieux réchauffer les mains et les oreilles.",
+    "title": "La partie de boules de neige"
+  },
+  {
+    "number": 413,
+    "saison": "hiver",
+    "espace": "village",
+    "imageFile": "413.jpg",
+    "activites": "manutention",
+    "isPrivate": false,
+    "text": "Durant la période automne / hiver, la pluie a fait son travail. Le « penerh * » peut céder son fumier que les prairies attendent. Ce fumier gorgé d’eau, ne conviendrait pas à son enfouissement dans les parcelles cultivées. Dans les prairies il fera l’affaire. Il sera épandu en surface puis le passage de la herse végétale (aubépine) l’émiettera. A partir des années 70 place aux cours de ferme bitumées. Le « streut * » sera remplacé par de l’engrais chimique. Désormais, l’automobile pourra atteindre les habitations et les visiteurs en cravates viendront offrir leurs conseils. <\/BR><\/BR> « Penerh » : espace qui réunit, habitation, étables, granges et remises. <\/BR><\/BR> « Streut » : le passage du bétail pourra piétiner litières, bouses, purin, telle est la recette du « streut ». Il sera périodiquement rassemblé en tas pour faciliter la circulation en attendant de rejoindre la prairie",
+    "title": "Février autour du streut"
+  },
+  {
+    "number": 414,
+    "saison": "printemps",
+    "espace": "village",
+    "imageFile": "414.jpg",
+    "activites": "manutention",
+    "isPrivate": false,
+    "text": "L’hiver n’a pas tout à fait cédé la place. Les nuits demeurent fraîches. Le matin, les gelées blanches sont encore là. Le bétail a vidé les greniers, et il faut continuer à cueillir l’ajonc, le houx, le lierre. Mais le printemps a fait quelques pas timides. Le soleil est plus haut dans le ciel. La terre a ouvert un œil, la sève monte, noisetiers et saules se couvrent de chatons. Le long des talus, à l’abri, la primevère est très présente. Les oiseaux dans les haies s’activent, chantent. Les ruches ont repris leur place à l’abri face au lever du soleil. Le lavoir s’est réveillé, l’eau est moins froide, le moment est venu de sortir le linge qui attendait son heure. Il sèchera, placé sur les haies. Le printemps est bien là, le cerisier est le premier à en profiter.",
+    "title": "Début mars"
+  },
+  {
+    "number": 415,
+    "saison": "printemps",
+    "espace": "zone_cultivee",
+    "connexes": "artisans",
+    "imageFile": "415.jpg",
+    "activites": "manutention",
+    "isPrivate": false,
+    "text": "A partir de 1950, avec le remembrement, nos petits sentiers seront effacés, inutiles. Depuis le village vers les champs, la brouette était présente au quotidien, vide ou pleine. Les chemins creux étaient réservés au passage des charrettes. De village à village, les échanges multiples passaient par le sentier ; Pour rejoindre l’école, la boulangerie ou l’épicier, visiter un parent, un malade, chercher un outil, faire une commission. Il était également fréquenté par les intervenants extérieurs, artisans, journaliers, indigents et aveugles. En réalité la saison faisait le sentier. Au printemps, il était sec, beau et gai ! En été, les enfants tenaient à la main les sabots pour le pratiquer pieds- nus ! En automne, encore sec, il offrait fruits (pommes -poires) et champignons ! En hiver hélas, la boue posait problème pour les enfants.",
+    "title": "Les sentiers d’avril"
+  },
+  {
+    "number": 416,
+    "saison": "printemps",
+    "espace": "zone_non_cultivee",
+    "connexes": "indigents",
+    "imageFile": "416.jpg",
+    "activites": "elevage",
+    "isPrivate": false,
+    "text": "De novembre à février, les troupeaux ne quittaient guère l’étable où ils recevaient foin, ajonc, houx et lierre. Quand la météo le permettait ils étaient conduits dans les friches et landes, plus pour se dégourdir les jambes que pour se nourrir. A l’arrivée du printemps les greniers demeuraient vides. Les vaches produisant du lait seront placées dans les « griennes *», attachées à un piquet. L’herbe de mai y est de qualité. Le menu sera complété par un peu de colza servi à l’étable. Les génisses et veaux seront dirigés vers les landes, ils y trouveront un peu d’herbe (graminées et oseille sauvage en particulier) C’est l’objet de la toile. Ce petit troupeau sera encadré par des enfants, lesquels ne manqueront pas de profiter du printemps de mai. L’association oiseaux, fleurs est très présente : coucou / orchidée, corbeau / jacinthe, perdrix / bruyère et tourterelle / cardamine. <\/BR> <\/BR> * « grienne » dans les champs, c’est la bande non cultivée le long des talus et autour des parcelles.",
+    "title": "Mai, les vaches dans la lande"
+  },
+  {
+    "number": 417,
+    "saison": "printemps",
+    "espace": "zone_non_cultivee",
+    "connexes": "artisans",
+    "imageFile": "417.jpg",
+    "activites": "repos",
+    "isPrivate": false,
+    "text": "Ce petit territoire (non cultivé) regroupe 3 sous-ensembles Deux prairies naturelles en fleurs,la faux ne saurait tarder. Une lande. Une friche peuplée principalement de bouleaux. Ces trois éléments se rejoignent pour constituer une zone humide peuplée de saules. Elle alimente un ruisseau qui accompagne le talus séparant les deux prairies naturelles. Les chênes « têtards courts » très présents habillent ce talus, sans gêner le séchage du foin coupé. Mai a fait son travail. Dans la lande, la bruyère retrouve son rouge carmin de juillet. Les ajoncs, on gardé un peu de leur jaune d'avril. Une parcelle de blé-noir est en pleine floraison Myosotis, iris jaunes, cardamines, marguerites, boutons d'or, bruyère, oseille sauvage, digitales, et graminées multiples sont à leur place. Un châtaigner n'est pas en reste, c'est son heure, fier de ses chatons blonds. Il s'agit d'un habitat exceptionnel, calme, silencieux loin des villages. Dans les saules, la tourterelle, arrivée en avril de Mauritanie, veille, sur sa couvée. Début septembre, elle reprendra la route de l'ouest africain survolant l’Espagne et le Maroc.",
+    "title": "Juin"
   }
 ]
