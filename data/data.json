@@ -2001,7 +2001,7 @@
     "espace": "village",
     "imageFile": "212.jpg",
     "activites": "elevage",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Encore jeune, huit à dix semaines,  le poulain a besoin de la présence de sa mère.<\/BR>Pour la tétée bien sur, mais aussi pour la découverte et l'apprentissage de l'extérieur.<\/BR>Avril est là et la mère sera de plus en plus absente car attelée à la charrue ou à la herse.<\/BR>Le dimanche, jour de repos s'agissant de labours, le poulain pourra en profiter du matin au soir.<\/BR>La mère est entravée afin qu'elle ne soit pas tentée de franchir un talus pour rejoindre une parcelle de trèfle par exemple.<\/BR>A l'inverse il arrivait que le poulain, étourdi, franchisse une haie et que sa mère ne soit plus en mesure de le rejoindre !<\/BR>Dans ce cas la jument pouvait prendre des risques pour récupérer coûte que coûte son poulain.<\/BR>Dans un tel cas un voisin, espérons le aura compris l'incident.<\/BR>",
     "title": "Le poulain avec sa mère"
   },
@@ -2378,7 +2378,7 @@
     "espace": "hors_quotidien",
     "imageFile": "249.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "C'est l'été, un dimanche après-midi.<\/BR>Par beau temps Pont Augan et son Blavet était une destination naturelle.<\/BR>On s'y rendait à pieds ou à bicyclette pour y trouver : jeux de boules, bistrots, pèche et baignades.<\/BR>L'écluse se prêtait bien à la baignade même si les dangers étaient grands.<\/BR>Depuis la passerelle, les plongeurs se précipitaient dans une eau souvent profonde alors que la surveillance était absente.<\/BR>Cette écluse était au pied d'une colline côté Quistinic, sur son sommet la chapelle dite de Sainte Barbe.<\/BR>La passerelle débouchait dans une papeterie aujourd'hui abandonnée.<\/BR>",
     "title": "Baignade à Pont Augan"
   },
@@ -2592,7 +2592,7 @@
     "imageFile": "270.jpg",
     "format": 1,
     "activites": "cueillette",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Le sol est plongé dans son sommeil hivernal.<\/BR>C'est le moment d'être présent dans les friches.<\/BR>Le travail ne manque pas<\/BR>A l'abri dans ce bocage serré il fait bon faire travailler ses muscles.<\/BR>Les greniers se vidant, il est possible de prélever un peu d'ajonc sauvage, du lierre sur les chênes et du houx.<\/BR>Avec les choux cela fera l'affaire des vaches.<\/BR>Le coupeur de lande est présent et avec lui on s'active à ramasser les feuilles tombées au sol dans les taillis.<\/BR>Dans les prairies il faut balayer les feuilles mortes et restaurer les ruisseaux d'irrigation.<\/BR>La sève étant descendue, c'est le moment de faire les fagots. <\/BR>C'est aussi le moment d'entretenir la pépinière,les jeunes plants de pommier seront taillés et leurs racines recevront un matelas de feuilles mortes.<\/BR>Enfin dans le taillis une meule de bois fume.<\/BR>C'est la fabrication du charbon de bois.<\/BR>A l'approche de mars, les vaches en vaine pâture trouveront un peu d'herbe le long des talus.<\/BR>Ce territoire naturel recevra après 1950 la modernité. Certaines parcelles seront défrichées dans le cadre du remembrement et les zones humides tomberont dans l'oubli car inutiles.<\/BR>La biodiversité en souffrira beaucoup.<\/BR>",
     "title": "l'hiver dans les friches"
   },
@@ -3779,7 +3779,7 @@
     "imageFile": "390.jpg",
     "format": 1,
     "activites": "travaux",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Le mois de mai vient de débuter. Les pommiers, tous ensemble, ont brusquement sonné le réveil de ce petit territoire. Autour des villages, en bordure des parcelles, tous ont revêtu leur habit de fête. Le vert tendre des premières feuilles est mêlé aux bourgeons à fruits. Ceux-ci sont plus ou moins blanc rosé et rouge profond. Petit à petit, les pétales vont tomber à côté les pâquerettes qui, elles aussi, associent du rose et du blanc. Chaque arbre est fier d’afficher sa différence, selon qu’il est hâtif ou tardif et qu’il produit des fruits plus ou moins rouges, jaunes ou blancs. Le reste du bocage est lui aussi en fête : haies, buissons, chênes, aubépines, genêts, jacinthes, primevères, orchidées, céréales, trèfle incarnat et violet, navette, semis de printemps... C’était avant 1950. (*) <\/BR><\/BR> * Quand le paysage était façonné par l’imbrication des cultures, friches et élevages.",
     "title": "Le printemps des pommiers"
   },
