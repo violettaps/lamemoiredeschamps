@@ -1150,7 +1150,7 @@
     "saison": "hiver",
     "espace": "village",
     "imageFile": "125.jpg",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "La neige semble avoir profité de la nuit pour recouvrir la village plongé dans son sommeil. <\/BR>Tout parait engourdi. Seules les cheminées lâchent un peu de fumée, indiquant par là qu'une vie cachée continue. À l'abri, dans les maisons et les étables, il faut rassembler le bois, pousser le feu, nourrir les animaux. Si la neige se maintient durant l'après-midi, les paysans iront faire un tour dans les champs pour la beauté et la rareté du spectacle. La neige sait être douce avec la terre. Ils rendront visite aux voisins, le temps de saluer les plus vieux demeurés enfoncés dans leurs lits. Rien ne presse, aussi c'est l'occasion de prendre son temps et de boire un peu de cidre chaud.<\/BR>",
     "title": "Kerdaniel sous la neige"
   },
@@ -3296,7 +3296,7 @@
     "espace": "hors_quotidien",
     "imageFile": "342.jpg",
     "activites": "manutention",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Depuis quelques jours, les gelées se succèdent, le sol est dur, c'est l'hiver.<\/BR>Dans la nuit, sans bruit, la neige s'est posée sur le village.<\/BR>Le matin, la surprise est totale !<\/BR>Pas question de rester au lit pour autant !<\/BR>Sans attendre, les enfants vont prendre le chemin de l'école.<\/BR>La journée sera belle, une fête, si rare.<\/BR>Les sabots de bois feront parfaitement l'affaire.<\/BR>En classe, comme en récré, la neige sera le sujet principal : pas de dictées, pas de calcul, des histoires tout au plus.<\/BR>Si par chance quelques nouveaux flocons se mettaient à tomber chacun posera son crayon pour mieux les regarder tourbillonner.<\/BR>Les plus grands feront marcher le poil au point de le faire rougir !<\/BR>Dans la toile, l'école est à deux pas.<\/BR>Le retard est toléré, aussi, naturellement les garçons prendront le temps d'organiser des glissades.<\/BR>Les filles plus sages s'occuperont des plus petits.<\/BR>Toute la journée chacun profitera de ce cadeau si rare.<\/BR>Demain la neige aura disparu !<\/BR>Dictées, calcul, et leçons seront de retour.<\/BR>",
     "title": "Un matin de janvier"
   },
