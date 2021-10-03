@@ -2120,7 +2120,7 @@
     "saison": "hiver",
     "espace": "village",
     "imageFile": "224.jpg",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Il s'agit d'une petite exploitation typique de la commune de Languidic.<\/BR>Elle est située dans le village de Lindrin.<\/BR>Une longère regroupe une habitation de deux pièces, l'étable des vaches et l'écurie du cheval.<\/BR>Tout autour de l'aire à battre, une remise pouvant recevoir une charrette pleine en cas de pluie.<\/BR>La remise est prolongée par un appenti abritant un hache ajonc et broyeur à pommes, lesquels sont actionnés par le manège placé à l'extérieur.<\/BR>Derrière la longère un enclos (Lioh) réservé au cheval et à son poulin.<\/BR>Le long du talus, un talus de pommes recouvertes de paille et des betteraves recouvertes de fougères sèches.<\/BR>Enfin, le tas de bois devant alimenter la maison et la cuisson des racines pour les cochons.<\/BR>Dans le pignon de longère, un escalier en pierre permet d'accéder au grenier par l'extérieur.<\/BR>",
     "title": "Ferme de face sous la neige"
   },
@@ -3659,7 +3659,7 @@
     "espace": "zone_non_cultivee",
     "imageFile": "378.jpg",
     "activites": "cueillette",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Loin du village, ici, le taillis de bouleaux rencontre la prairie. Un talus bas peuplé de chênes « têtard » assure leur jonction, alors que des saules soulignent l’humidité du lieu. Les arbres ont abandonné leurs feuilles tombées au sol. Le moment est venu de faire le toilettage et de récolter la litière. La faucille se chargera des fougères flétries. Le balai d’aubépine regroupera les feuilles que le vent aura dispersées sur la prairie. Le râteau rassemblera le tout. Enfin, le tombereau se chargera de rapprocher cette litière des étables. Désormais le printemps pourra s’installer. Le coucou le premier arrivera avec ses orchidées. Le corbeau suivra pour semer ses jacinthes à l’ombre des bouleaux. Enfin la tourterelle pourra arriver d’Afrique, occuper les saules, pondre ses œufs tout en regardant ses cardamines avant l’arrivée de la faucheuse. <\/BR> <\/BR> P.S. En ces lieux silencieux, éloignés des villages, la tradition associait le coucou, le corbeau, et la tourterelle à une fleur qui leur tenait compagnie durant la couvaison.",
     "title": "Le toilettage du talus"
   },
@@ -3950,7 +3950,7 @@
     "connexes": "loisirs",
     "imageFile": "407.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Il y a quelques jours, la batteuse a fait son travail : l’aire à battre a perdu ses trois meules, avoine, seigle et blé. La paille est toujours là, lumineuse. Tout s’est bien passé, le grain est à l’abri dans le grenier. C’est donc un 15 août heureux ! Trop petite pour ce rendez-vous annuel, la chapelle donnera une messe ou chacun pourra chanter sa joie en breton et par la même occasion remercier Dieu ou plus encore ses saints d’avoir contribué à la réussite de la moisson. La messe terminée, chacun s’arrêtera chez les voisins le temps d’un café chaud, d’une rincée de calva et d’un morceau de fars. Dans les villages proches, un bon repas viendra clôturer cette belle journée. Demain il faudra reprendre les outils.",
     "title": "15 août, le pardon de Lambezegan"
   },
