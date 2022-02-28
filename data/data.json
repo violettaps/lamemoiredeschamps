@@ -321,7 +321,7 @@
     "espace": "zone_cultivee",
     "imageFile": "033.jpg",
     "activites": "elevage",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Un bien joli mois ! <\/BR>C'est encore les vacances pour les enfants. Les chaumes sont comme les prairies en mai : envahis de pensées sauvages, ils tirent sur le bleu et le jaune.<\/BR>Pour les vaches, c'est le dernier régal avant l'hiver. Attachées certes, mais mieux vaut être tenues au bout d'une corde et bien nourries qu'en liberté dans un pré brûlé. Nous les enfants, nous n'avons plus à les surveiller. Nous sommes alors libres au risque d'être pris avec les grands pour ramasser les pommes de terre ou couper les fougères autour des champs. <\/BR>Les pommiers commencent à plier sous leurs fruits ; bien souvent il faut les soutenir avec des branches de chêne, que l'on saura récupérer l'hiver venu. Les choux plantés en juillet vont céder leurs feuilles pour les vaches.<\/BR>Dans les bois et sur les talus, l'automne annonce la couleur, qui passera du vert au jaune puis au marron.<\/BR>",
     "title": "Septembre à Languidic"
   },
@@ -2092,7 +2092,7 @@
     "imageFile": "221.jpg",
     "connexes": "artisans",
     "activites": "manutention",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Mon père et ma mère s'installèrent sur leur première exploitation à Lindrin en 1935.<\/BR>Les premières années furent difficiles.<\/BR>C'est le mois d'octobre, mon père est allé à la foire de Bubry vendre deux barriques de son nouveau cidre.<\/BR>Sur place il a acheté une vache maigre. En effet du côté de Quistinic et Bubry, à l'approche de l'hiver il fallait réduire les troupeaux car les récoltes de foin et de fourrages étaient particulièrement modestes.<\/BR>Mon père partait à six heures du matin se faisant éclairer par un fanal le temps de rejoindre la route par un chemin creux.<\/BR>Pour l'aller et le retour il fallait compter vingt-cinq kilomètres aussi le retour se faisait forcément à la tombée de la nuit après un arrêt au café à Pont Augan.<\/BR>",
     "title": "Retour de la foire de Bubry"
   },
