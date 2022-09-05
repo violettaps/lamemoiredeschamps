@@ -3358,7 +3358,7 @@
     "espace": "zone_non_cultivee",
     "imageFile": "348.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Il s’agit d’une petite chapelle proche du bourg de Landevant. Elle est si discrète qu’elle semble se cacher dans un écrin de verdure qui l’enveloppe comme pour mieux la protéger. Avec ce mois de mai elle demeure silencieuse, endormie par la douceur de cette matinée de printemps. Autour d’elle de robustes chênes sont couverts de jeunes feuilles et de chatons couleur miel. A proximité de la fontaine, le saule a abandonné ses chatons argentés. Au delà du talus, à l’ombre des chênes et bouleaux la jacinthe recouvre le sol de son bleu intense. Plus tard, la fougère à son tour viendra envahir la friche. Au premier plan, la prairie naturelle est en fleurs : marguerites, cardamines, renoncules, myosotis, orchidées… elles sont toutes là. Au milieu de ce bouquet, la chapelle a bien raison de rester silencieuse.",
     "title": "La chapelle de Saint Brigitte"
   },
@@ -3899,7 +3899,7 @@
     "imageFile": "402.jpg",
     "connexes": "loisirs",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Juin s’achève ; l’été est là. Aujourd’hui c’est un grand jour pour les chevaux ! Alors qu’ils ont été très sollicités depuis le mois de mars, la lande les attend pour la bénédiction. Saint Eloi était reconnu pour être le patron des forg€rons et dans le même temps le protecteur des chevaux. A Quistinic, à défaut de Saint Eloi, Saint Roch faisait très bien l’affaire ! Reconnu pour être le patron des guérisseurs, les chevaux pouvaient compter sur lui ! Depuis la chapelle, sur cette hauteur il peut voir venir à lui les chevaux arrivant des villages des environs. Chaque cheval, la tête haute, fier d’être à l’honneur avance vers lui, souvent orné de tresses de fleurs. S’il était doux, il pouvait être conduit par un adolescent, fier à son tour d’être ainsi perché. Tout au long des chemins et sentiers, les amis, les voisins, enfants, adultes tous tenaient à accompagner leur cheval. Ceux dans l’incapacité de faire cette marche trouvaient une place dans les chars à bancs. La fête terminée, chacun retournera, heureux à son village et les chevaux retrouveront l’écurie. Dès demain, la moisson imposera à tous des journées longues et rudes. A peine l’été terminé l’automne à son tour imposera les labours et charrois.",
     "title": "Saint Roch attend ses chevaux"
   },
@@ -4002,7 +4002,7 @@
     "espace": "village",
     "imageFile": "412.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "C’est dimanche, le sol gelé est recouvert d’une belle couche de neige. Rien ne presse (amzer zo) c’est l’occasion de faire une visite aux cousins installés dans le village voisin. On y trouvera forcément un beau feu de cheminée et du cidre chaud. Les enfants ont accompagné les parents, et naturellement ils seront dehors dans la neige. Ils connaissent les lieux et en particulier chez les voisins, un toit d’ardoises en double pente qui permet le lancement des boules de neige. Il y a de la place pour tous. Les plus grands, plus forts et plus adroits seront les lanceurs. La boule atteindra le sommet de la pente, descendra en grossissant pour finir exploser sur la tête des plus petits qui attendent les bras en l’air. D’autres choisiront la glisse. Un grand-père (de service) maintiendra la discipline tout en protégeant les plus petits. La partie terminée chacun rejoindra le feu de cheminée pour mieux réchauffer les mains et les oreilles.",
     "title": "La partie de boules de neige"
   },
