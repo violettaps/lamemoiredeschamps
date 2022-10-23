@@ -4110,5 +4110,76 @@
     "isPrivate": false,
     "text": "C’est le début de l’hiver. Les arbres ont été dépouillés de leurs feuilles. La nuit à la fois froide, claire et sans nuage a saisi le paysage tout entier. Les talus boisés, suivant leur exposition, vont progressivement abandonner leur blancheur dès que le soleil atteindra la cime des arbres. Le coupeur d’ajonc est présent, cette petite gelée lui convient pour enrouler les mottes de bruyère et ajonc. Au pied d’un chêne, un petit feu réchauffera sa soupe de lard à midi. Son chien lui tient compagnie. Plus loin un autre coupeur se charge des fagots d’ajonc destinés à chauffer le four à pain. A l’inverse, le chantier « fagots » de chêne attendra l’après-midi, que les branches ne soient plus refroidies par le gel. Dans l’après-midi, avec le déclin du soleil, seuls les talus exposés au nord garderont leur blancheur.",
     "title": "La gelée blanche de novembre"
+  },
+  {
+    "number": 423,
+    "saison": "automne",
+    "espace": "interieurs",
+    "connexes": "loisirs",
+    "imageFile": "423.jpg",
+    "activites": "repos",
+    "isPrivate": false,
+    "text": "C’était en 1946, j’avais 9 ans ! La guerre mondiale à peine terminée ! Voilà qu’un petit théâtre arrive de nul part, s’installe dans notre école primaire, un évènement donc pour ce petit hameau de 200 habitants. A l’affiche : « le petit chaperon rouge ». Celui déjà dans mon livre de lecture. Un loup, une petite fille et son panier, une forêt, un hibou, une petite maison abritant une grand-mère… Après tout, ces éléments appartenaient à notre quotidien « rural » entre notre village et l’école. (alors que Pinocchio ou guignol concernaient les citadins!) Cela se passait dans la classe des grands. Alors que nous étions assis par terre, tout à coup une voix étrangère tirait le rideau… nous entraînant dans cette belle histoire. C’était magique.",
+    "title": "Le petit théâtre de marionnettes"
+  }, 
+  {
+    "number": 424,
+    "saison": "hiver",
+    "espace": "zone_cultivee",
+    "imageFile": "424.jpg",
+    "activites": "travaux",
+    "isPrivate": false,
+    "text": "C’était avant l’arrivée des moyens mécaniques et du remembrement. Deux petites parcelles seront ainsi réunies, le champ déjà cultivé absorbera une partie de la lande défrichée à cet effet. Dans tous les cas il s’agira d’un travail de groupe. Le village fournira hommes et chevaux. Cela se passera en hiver, chacun viendra avec ses outils alors que le propriétaire fournira cheval, boisson et repas de midi. Dès novembre, après la chute des feuilles, dans une première séquence, le propriétaire aura mis le talus à nu et dépouillé les chênes « tétard » de leurs branches à fagots. Le grand jour arrivé, un premier groupe dégagera les racines en retirant la terre du talus. Au second groupe, avec les haches coupera ces racines. Enfin, avec l’aide du cheval l’arbre sera dirigé vers le point de chute choisi. Les harpons, haches, coins et masses se chargeront de débiter le tronc qui finira ainsi dans un tas de bois destiné à la vente. Un tel talus déboisé, disparaîtra si brutalement qu’il continuera à rester dans la mémoire des habitants du village.",
+    "title": "La démolition d’un talus"
+  }, 
+  {
+    "number": 425,
+    "saison": "printemps",
+    "espace": "village",
+    "imageFile": "425.jpg",
+    "activites": "cueillette",
+    "isPrivate": false,
+    "text": "Avec mars, le soleil est plus haut, plus présent. Toutefois les nuits demeurent fraîches. Et les gelées ne sont pas rares. Déjà les oiseaux se font entendre dans les haies, merles, pies, grives, et roitelets ont mis leur nid en chantier. Le long des talus, bien à l’abri, les primevères annoncent la nouvelle saison. Cerisiers, pruniers, aubépines, pissenlits et pâquerettes en font autant. Et pourtant il est conseillé de rester prudent en attendant la mi-avril ! A défaut du foin réservé au cheval, les greniers sont vides et l’herbe nouvelle encore timide. Il faut donc continuer à prélever de l’ajonc, du lierre et du houx. Près du hangar le cheval se prépare à faire tourner le manège qui se chargera d’actionner le Hache-Lande. Le potager voit arriver le fumier destiné à un premier semi de plants de pommes de terre. Le grand-père fait une première sortie timide.",
+    "title": "Fin mars-début avril"
+  }, 
+  {
+    "number": 426,
+    "saison": "printemps",
+    "espace": "zone_non_cultivee",
+    "imageFile": "426.jpg",
+    "activites": "cueillette",
+    "isPrivate": false,
+    "text": "Le gris de mars s’éloigne. Il s’agit d’un ensemble non cultivé. Trois prairies plus ou moins humides bordent une lande prolongée par un bois de bouleaux et des sapins. Alors que les chênes têtards poursuivent leur sommeil hivernal, les bouleaux affichent leur feuillage de printemps, les noisetiers depuis janvier déjà, comme l’ajonc, sont en fleurs. Le saule illumine les prairies naturelles de ses chatons. Le long des talus, la primevère tient sa place. Dans les prairies, les orchidées précèdent le foin, et plus à l’ombre les jacinthes en font autant. Le coupeur de lande est là, ajonc, bruyère et graminées feront de belles mottes de litières. Autour de la lande, un peu d’herbe tendre invite les vaches à une première sortie après l’hiver. Les fagots d’ajonc, coupés en hiver, doivent sécher avant leur enlèvement à destination du village.",
+    "title": "Fin avril"
+  }, 
+  {
+    "number": 427,
+    "saison": "printemps",
+    "espace": "zone_cultivee",
+    "imageFile": "427.jpg",
+    "activites": "travaux",
+    "isPrivate": false,
+    "text": "Dans ce village, entouré de parcelles cultivées le printemps est bien installé. Oublié le passage difficile de mars à mi-avril la sève atteint le sommet des arbres. Dans les champs le colza semé en hiver est en pleine fleurs alors que le bétail l’attendait. Les pommiers, devancés par les cerisiers en avril sont à leur tour en pleine fleurs. Dans le « lioh » poulains et juments se régalent. Les haies chantent alors que le chêne se réveille à sont tour, et affiche ses grappes de chatons ambrés. Le potager n’est pas en reste, le semis de pommes de terre nouvelles ne craint plus la gelée blanche.<\/BR><\/BR>Lioh : enclos, planté de pommiers",
+    "title": "Mai"
+  }, 
+  {
+    "number": 428,
+    "saison": "ete",
+    "espace": "zone_non_cultivee",
+    "imageFile": "428.jpg",
+    "activites": "elevage",
+    "isPrivate": false,
+    "text": "Nous sommes en territoire non cultivé. L’heure du foin a sonné. Rien ne se passe dans la zone de la lande et des bois (pins et bouleaux). Alors que le coupeur de lande est absent, la lande est en fête, sa bruyère en pleine floraison (désormais hélas cela n’arrive plus). Les trois prairies naturelles sont à point. Au premier plan la faux est attendue. Plus haut, deux faucheurs sont à l’œuvre. La troisième proche de la lande a déjà cédé son foin, il est logé dans le grenier. Sans attendre la repousse qui sera disponible dans deux à trois semaines, cette prairie vient d’accueillir un petit troupeau. Les vaches apprécient ce moment rare, elles vont le long des talus retrouver de l’herbe à volonté ! Celle que la faux n’a pas retenue car mêlée à de la fougère et ronces. Une charrette est venue enlever les fagots d’ajonc, coupés en novembre, et qu’il faut approcher du four du village. Ce lieu si silencieux à ce moment de l’année est l’occasion de retrouver la tourterelle venue de Mauritanie.",
+    "title": "Début juillet"
+  }, 
+  {
+    "number": 429,
+    "saison": "ete",
+    "espace": "zone_cultivee",
+    "imageFile": "429.jpg",
+    "activites": "travaux",
+    "isPrivate": false,
+    "text": "La toile 420, intitulée de l’été à l’automne a souhaité souligner le caractère vital de cette période pour l’exploitation familiale en mode polyculture-élevage. C’était en 1950. Vitale par tout ce qu’elle devait livrer. Un soleil nécessaire, haut dans le ciel, imposant plus de 15 heures de travail dans une journée. Une récompense, pour le travail important déjà produit durant le printemps ! Parfois des échecs quand l’orage troublera la moisson. Du foin, pour l’hiver prochain. Du grain, blé, seigle, avoine, orge, sarrasin. Des fruits : cerises, poires, prunes, pommes. Des pommes de terre, navets, betteraves. Des chaumes précieux pour faire la soudure entre prairies libérant le foin et prairies devant se mettre au repos. L’occasion de se regrouper pour mieux affronter ensemble les travaux les plus durs. Enfin une période si appréciée par les enfants. Libérés des sabots, cahiers, crayons, comme à l’école ils sauront, dans les prairies le matin et l’après-midi reconstituer les récrées avec les copains / copines.<\/BR><\/BR>PS : la toile 429 comme la 420, vous invitent à retrouver dans les toiles dédiées à cette période, tout ce qui pouvait se passer dans les champs, prairies, landes, villages.",
+    "title": "L’été, juillet, août, septembre"
   }
 ]
