@@ -982,7 +982,7 @@
     "espace": "village",
     "imageFile": "105.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "L'été a été favorable, la moisson se déroule bien et la lune promet une bonne semaine de temps ensoleillé. <\/BR>Une trêve est donc possible en ce dimanche puisque rien ne presse. <\/BR>Le jardin est en pleine floraison, dahlias et reines-marguerites sont magnifiques, aussi la visite d'une amie voisine est la bienvenue le temps d'un café. Les hommes ont organisé une partie de boules dans la cour de la ferme (Penerh), quelques bolées de cidre bouché en perspective, les dernières avant la récolte. La grand-mère aussi a souhaité être de la fête, sa chaise a été placée de telle sorte qu'en plus du soleil, elle peut participer à ce rassemblement. <\/BR>Cette récréation sera de courte durée malheureusement, les porcs ne tarderont pas à réclamer bruyamment l'auge tandis que les vaches devront laisser leur lait avant de rejoindre les prés.<\/BR>",
     "title": "Un dimanche après-midi (durant la moisson)"
   },
@@ -2329,7 +2329,7 @@
     "saison": "printemps",
     "espace": "zone_non_cultivee",
     "imageFile": "244.jpg",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Début avril, le printemps encore timide est bien là.<\/BR>Dans la lande au sol particulièrement acide, l'oseille est très présente par sa tige en fleurs couleur rouille.<\/BR>Un peu partout le vent vient se mêler à ce fond brun roux au pied des touffes d'ajonc et de bruyère.<\/BR>De temps en temps de belles surfaces de pédiculaires aujourd'hui si rares.<\/BR>Nous l'appelions \"soupe au lait\". En effet sa couleur rappelait le lait roussi au beurre pour la préparation de la soupe au lait que les hommes appréciaient de matin sur des crêpes.<\/BR>Les bouleaux laissent échapper une pointe vert tendre alors que les chatons des saules sont \"passés\" le long des talus à l'abri l'herbe reprend sa place.<\/BR>L'ajonc est en pleine fleurs, son jaune est éclatant.<\/BR>Les chênes commencent à sortir de leur long sommeil. En mai leur feuillage sera en place.<\/BR>Ici ou là, les cerisiers sont couverts de fleurs blanches.<\/BR>",
     "title": "L'oseille sauvage en avril"
   },
@@ -3378,7 +3378,7 @@
     "espace": "zone_non_cultivee",
     "imageFile": "350.jpg",
     "activites": "elevage",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Le printemps a fait son travail. Dans la lande le couple blé-noir \/ bruyère est en fête. La fleur blanche du blé-noir contraste avec le rouge carmin de la bruyère alors que des millions d’abeilles se font entendre dans un bourdonnement intense. Tout proche, les prairies naturelles ont offert leur foin et déjà les vaches y trouvent fraicheur et herbe à volonté. Le lavoir d’été a repris du service, alimenté par un ruisseau. Sur le bas talus qui sépare les 2 prairies, les têtards de saules retrouvent leur feuillage léger, lumineux couleur de zinc. Dans les parcelles cultivées : Le seigle prêt à céder son grain attend la faucille. Les plants de pomme de terre sont en fleurs. Les pommiers, commencent à afficher la couleur de leurs fruits.",
     "title": "Début juillet"
   },
@@ -3869,7 +3869,7 @@
     "espace": "hors_quotidien",
     "imageFile": "399.jpg",
     "connexes": "artisans",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Blotti au fond d’une petite vallée, ce moulin à eau a été saisi par une nuit froide de janvier. Appelé moulin de Morsaï, entre Lambezegan et Kerdoret, tout proche du Blavet, ce moulin aurait appartenu autrefois à la petite seigneurie de Talhouet – Lamotte. Cette nuit la gelée a été si forte que la grande roue a été saisie par la glace. Le moulin est à l’arrêt ! Et avec lui le meunier ! Pas une charrette ne se présentera aujourd’hui, l’accès est si difficile par un chemin humide et gelé, qu’aucun cheval ne viendra porter son grain. Le meunier ne sera pas seul pour autant. Par un tel froid, les visites ne manqueront pas, le cidre chaud, au coin du feu non plus. « Amzer – zo ! » (*) <\/BR><\/BR> (*) rien ne presse",
     "title": "Le moulin endorimi"
   },
@@ -4075,7 +4075,7 @@
     "espace": "zone_non_cultivee",
     "imageFile": "419.jpg",
     "activites": "travaux",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "C’est l’été. A midi, le soleil au plus haut, dépasse la cime des arbres. Dans les parcelles cultivées, semis et binages s’imposent. Dans les landes et bois, l’activité absente, reprendra en automne. Dans les prairies naturelles, l’heure du foin a sonné. Les grillons et fleurs (marguerites, bouton d’or, cardamine, oseille sauvage) attendent la faux. La séquence du foin peut se dérouler. Nul besoin de consulter la météo : il suffit de rester « connecté » avec les peupliers, nuages, oiseaux, crapauds, fourmis et abeilles pour comprendre qu’une période de 5 à 6 journées favorables s’est annoncée. Le premier jours, dès 6 heures les hommes arriveront, la faux sur l’épaule. Un peu avant midi, à leur tour les femmes se présenteront avec fourches en bois et râteaux. Elles étaleront le foin fraîchement coupé. Le second jour les femmes reviendront remuer le foin, profitant du soleil. Le troisième jour, les fourches reviendront le matin afin que dans l’après-midi, les charrettes et les râteaux viendront terminer la séquence. Le foin sera devant les greniers. Pendant ce temps, sur les sentiers de l’école les enfants auront découvert les premières cerises. Les grandes vacances sont dans toutes les têtes.",
     "title": "Fin juin"
   },
