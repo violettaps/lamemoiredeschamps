@@ -2601,6 +2601,7 @@
     "saison": "printemps",
     "espace": "zone_cultivee",
     "imageFile": "271.jpg",
+    "format": 1,
     "activites": "travaux",
     "isPrivate": true,
     "text": "Les mois d'hiver sont passés.<\/BR>Les zones naturelles : landes, friches, tourbières, et prairies ont cédé fagots, ajonc, litière et lierre.<\/BR>Les serpes, haches, balais et râteaux sont rangés.<\/BR>Le printemps peut s'installer, la flore et la faune n'ont besoin de personne.<\/BR>A l'inverse dans les zones cultivées l'activité explose :<\/BR>les hommes, chevaux, bétail, charrettes, brouettes, herses, fourches se mettent au service des futures récoltes.<\/BR>Du matin au soir chaque moment du calendrier est exploité.<\/BR>Tout cet espace jusque là silencieux, engourdi par l'hiver explose. La moindre parcelle devient un chantier.<\/BR>Dans les haies, buissons et arbres fruitiers, les oiseaux et les abeilles retrouvent leur place.<\/BR>Le printemps est là.<\/BR>",
@@ -3446,7 +3447,6 @@
     "saison": "hiver",
     "espace": "zone_non_cultivee",
     "imageFile": "357.jpg",
-    "format": 1,
     "isPrivate": true,
     "text": "Dans la nuit, une fine couche de neige s’est posée en douceur sur la Lande. Autour de la chapelle silencieuse, engourdie chaque chose est à sa place. Sous ce léger manteau blanc, personne ne viendra travailler, personne ne passera…et pourtant cette lande est bien vivante. Cette neige est si fine qu’il est aisé de reconnaître l’ajonc, la bruyère, les talus, les cheminements, chênes, saules etc. De même, il est aisé de deviner celui qui a fait les fagots, celui qui a coupé la litière, celle qui est venue laver à la fontaine. La chapelle, immobile, attendra ainsi quelques jours et bientôt retrouvera ses fidèles.",
     "title": "La Lande sous la neige"
