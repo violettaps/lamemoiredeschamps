@@ -3931,7 +3931,7 @@
     "espace": "zone_cultivee",
     "imageFile": "405.jpg",
     "activites": "travaux",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "En avril le bocage reste prudent. En effet, la lune rousse, peut à tout moment bloquer les bourgeons trop pressés ! Après Pâques, début mai, tout est permis : Prairies, talus, feuillages et semis s’installent dans le printemps. Le houx et le chêne prudents, à leur tour sortent timidement de leur sommeil hivernal. Les couvées n’ont rien à craindre, les insectes seront disponibles le moment venu. Dans les parcelles, alors que les pommiers font la roue, le binage va s’imposer. Le trèfle incarnant commence à fleurir alors que le Colza affiche son jaune vif et que le seigle libère ses épis. Dans les prairies proches, marguerites, orchidées, jacinthes, boutons d’or s’imposent à leur tour. Le printemps est là.",
     "title": "Mi-mai"
   },
@@ -3941,7 +3941,7 @@
     "espace": "zone_cultivee",
     "imageFile": "406.jpg",
     "activites": "travaux",
-    "isPrivate": true,
+    "isPrivate": false,
     "text": "Dans le ciel, le soleil est très haut. L’heure de la moisson blanche va sonner. Seigle, avoine, blé, leur paille, chaque jour a vue d’œil devient plus lumineuse. Les prairies, ont cédé leur foin fin juin. Désormais elles offrent une herbe nouvelle que les vaches vont apprécier tôt le matin et tard le soir. Les enfants qui ont posé leurs crayons et ardoises peuvent les accompagner. Ils abandonneront leurs sabots de bois pour mieux grimper sur les cerisiers sauvages tout en surveillant le troupeau ! Le blé noir est en pleine fleur et des millions d’abeilles sont au rendez-vous. Dans la lande, la bruyère est en fleur, un miracle.",
     "title": "Début juillet"
   },
