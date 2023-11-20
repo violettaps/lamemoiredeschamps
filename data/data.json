@@ -1408,7 +1408,7 @@
     "espace": "interieurs",
     "imageFile": "152.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "C'est l'été, la pleine moisson.<\/BR>Les mouches, avec la chaleur, sont aussi agressives que nombreuses. Alors, par ce beau dimanche d'août, on a trouvé le temps d'installer la table à l'ombre d'un pommier.<\/BR>Une manière de s'éloigner des mouches bien sûr mais aussi l'occasion de donner à ce repas du dimanche un air de fête.<\/BR>Une branche de châtaigner fraîchement coupée est placée contre la fenêtre, elle gardera un peu de fraîcheur dans la maison.<\/BR>On prend son temps puisqu'il n'est pas question d'aller dans les champs.<\/BR>L'après-midi les uns feront une longue sieste dans le grenier à foin, le temps de bien se reposer car demain sera rude. D'autres, les plus jeunes, iront prendre un bain dans l'Evel avant de retrouver les vaches après 17 heures.<\/BR>Les femmes trouveront un peu de temps pour s'occuper de leur jardin de fleurs.<\/BR>Des voisins ou parents passeront peut-être ; le temps d'une visite rapide.<\/BR>",
     "title": "Repas à l'ombre"
   },
@@ -3931,7 +3931,7 @@
     "espace": "zone_cultivee",
     "imageFile": "405.jpg",
     "activites": "travaux",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "En avril le bocage reste prudent. En effet, la lune rousse, peut à tout moment bloquer les bourgeons trop pressés ! Après Pâques, début mai, tout est permis : Prairies, talus, feuillages et semis s’installent dans le printemps. Le houx et le chêne prudents, à leur tour sortent timidement de leur sommeil hivernal. Les couvées n’ont rien à craindre, les insectes seront disponibles le moment venu. Dans les parcelles, alors que les pommiers font la roue, le binage va s’imposer. Le trèfle incarnant commence à fleurir alors que le Colza affiche son jaune vif et que le seigle libère ses épis. Dans les prairies proches, marguerites, orchidées, jacinthes, boutons d’or s’imposent à leur tour. Le printemps est là.",
     "title": "Mi-mai"
   },
@@ -4210,7 +4210,7 @@
     "imageFile": "432.jpg",
     "activites": "cueillette",
     "isPrivate": false,
-    "text": "L’hiver est installé. La nuit a été froide. Le village, surpris, découvre cette première neige qui n’était plus attendue. Le programme de la journée va s’imposer à tous : casser du bois, faire du feu, préparer le repas des animaux qui devront demeurer sous les toits. Hacher l’ajonc, le lierre, le houx, choux et betteraves. Distribuer foin,et paille , etc. Cela fait, pour terminer la matinée, une courte visite sera faite aux voisins, l’occasion de vérifier que les plus âgés se portent bien, et pourquoi pas partager un café bien chaud ! Dans l’après-midi, pas question de reprendre le chantier des fagots, les branches trop froides et humides. Toutefois chacun trouvera l’occasion de réchauffer son corps : dans le bois, bien à l’abri, un couple a choisi de regrouper la litière que la charrette viendra enlever plus tard. Le coupeur de lande a choisi de venir faire des mottes d’ajonc, cette petite neige lui convient pour les enrouler sous son sabot.",
+    "text": "L’hiver est installé. La nuit a été froide. Le village, surpris, découvre cette première neige qui n’était pas attendue. Le programme de la journée va s’imposer à tous : casser du bois, faire du feu, préparer le repas des animaux qui devront demeurer sous les toits. Hacher l’ajonc, le lierre, le houx, choux et betteraves. Distribuer foin,et paille , etc. Cela fait, pour terminer la matinée, une courte visite sera faite aux voisins, l’occasion de vérifier que les plus âgés se portent bien, et pourquoi pas partager un café bien chaud ! Dans l’après-midi, pas question de reprendre le chantier des fagots, les branches trop froides et humides. Toutefois chacun trouvera l’occasion de réchauffer son corps : dans le bois, bien à l’abri, un couple a choisi de regrouper la litière que la charrette viendra enlever plus tard. Le coupeur de lande a choisi de venir faire des mottes d’ajonc, cette petite neige lui convient pour les enrouler sous son sabot.",
     "title": "Décembre"
   }
 ]
