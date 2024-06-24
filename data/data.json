@@ -361,7 +361,7 @@
     "espace": "zone_non_cultivee",
     "imageFile": "037.jpg",
     "activites": "elevage",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "En hiver, si le temps le permettait, les vaches ne restaient pas à l'étable. Elles étaient divisées en deux groupes: Celles qui donnaient du lait et celles qui n'en donnaient point. Le second groupe était confié aux enfants qui les accompagnaient à la lande dite « commune ». Le jeudi, <\/BR>il n'était pas rare d'y trouver plusieurs troupeaux. Les enfants jouant ou chassant les écureuils n'assuraient pas une surveillance stricte et les conflits n'étaient pas rares. Chaque troupeau avait son capitaine de combat et chacun des enfants souhaitait la victoire de son côté. <\/BR>En définitive, accompagner les vaches à la lande reste plutôt un mauvais souvenir tant ces bêtes souffraient du manque d'herbe.<\/BR>",
     "title": "Les vaches à la lande (combat de vaches)"
   },
@@ -1981,7 +1981,7 @@
     "espace": "zone_cultivee",
     "imageFile": "210.jpg",
     "activites": "travaux",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Les parcelles étant petites, la charrue était généralement tirée par un seul cheval.<\/BR>Une tâche pénible aussi la manœuvre en bout de sillon permettait une courte pause.<\/BR>L'homme devait extraire le soc, inverser par une rotation le sens du versoir et enfin placer la charrue tirée par le cheval dans le sillon du retour.<\/BR>La synchronisation entre la traction du cheval et le repositionnement de la charrue par l'homme était capitale.<\/BR>Pour un cheval bien dressé et expérimenté, la voix du conducteur devait suffire. Quelques paroles lâchées avec le ton juste et le cheval comprenait très bien la durée accordée afin qu'il souffle un peu.<\/BR>",
     "title": "Le demi-tour"
   },
@@ -2841,7 +2841,7 @@
     "espace": "village",
     "imageFile": "297.jpg",
     "activites": "manutention",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "En novembre, la tempête est passée par là.<\/BR>Le vieux pommier n'a pas résisté, l'une des branches principales est au sol.<\/BR>L'arbre ne sera pas conservé, il faut le découper, en faire des fagots et des bûches. <\/BR>Un jeune plant prendra la place libérée.<\/BR>Le tronc, bien enraciné doit être arraché et pour cela le cheval sera précieux.<\/BR>Une fois les racines dégagées, il va tirer de toutes ses forces tout en portant son effort du côté où il devine une résistance moindre.<\/BR>Le spectacle est apprécié, et c'est aussi l'occasion de l'encourager dans son effort. Pas besoin de fouet ni de bâton, le cheval va seul conduire la manœuvre dégageant les racines qu'il suffira de couper à la hache.<\/BR>Dès que le tronc sera au sol, il sera débité au harpon tandis que le cheval va retrouver sa place dans l'écurie.<\/BR>",
     "title": "L'arrachage du pommier"
   },
@@ -3688,7 +3688,7 @@
     "espace": "village",
     "imageFile": "381.jpg",
     "activites": "elevage",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Ce poulain est né en janvier, il y a trois mois. A ce jour il n’a connu que l’écurie de sa mère. Aujourd’hui par une belle matinée d’avril, il a rendez-vous avec le « plein-air » Une fois le seuil franchi, la lumière le surprend, aussi reste-t-il collé à sa mère le temps de rejoindre le verger derrière les maisons. Alors que sa mère attend la pose de l’entrave, tout à coup il bondit, lance en l’air ses longues pattes arrières ! Il est libre ! Sans trop comprendre ce qui lui arrive. Après quelques courses désordonnées, il revient vite vers sa mère pour se rassurer. L’événement n’échappera pas à ceux qui attendaient ce jour ! Le spectacle mérite que l’on abandonne sa bèche, sa brouette, que l’on s’approche de la clôture pour mieux vivre ce numéro. Cette première sortie sera pour la jument l’occasion de brouter cette herbe tendre du printemps. L’après-midi, le poulain restera seul dans l’écurie alors que sa mère retrouvera la herse ou la charrue. La fête est finie !",
     "title": "Première sortie du poulain"
   },
@@ -4098,7 +4098,7 @@
     "espace": "zone_cultivee",
     "imageFile": "421.jpg",
     "activites": "repos",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "L’automne s’installe en douceur. L’humidité de l’atmosphère est de retour. Les nuits sont plus fraîches. Cependant, le sol à la sortie de l’été garde un peu de tiédeur. Un moment rare, le matin avec la levée du soleil. Chaque parcelle, bordée de talus boisés semble retenir son petit nuage flottant entre le sol et la cime des arbres. Un miracle qui n’existe pas avec le brouillard qui envahi le bocage tout entier. Depuis que le remembrement a effacé les talus boisés entourant les champs, ce spectacle n’est plus possible.",
     "title": "Première brume d’octobre"
   },
@@ -4272,7 +4272,7 @@
 {
     "number": 441,
     "imageFile": "441.jpg",
-    "isPrivate": false,
+    "isPrivate": true,
     "text": "Dans la nuit, une gelée blanche a enveloppé ce petit territoire.<BR>- Avec cette fraicheur, le village voisin a gardé tous ses habitants dans les bâtiments ou il faut nourrir et soigner les animaux, et maintenir un bon feu dans les cheminées.<BR>- Si ce territoire parait vide, silencieux, engourdi, cette gelée blanche laisse deviner le travail des habitants du village.<BR>- Dans la zone cultivée, les choux résistent au froid et le colza attendra mars pour faires ses fleurs.<BR>- Entre la partie cultivée et la prairie, les friches ont produit de la litière, des feuilles mortes et de la fougère principalement.<BR>- On distingue en partie haute de la prairie le ruisseau qui assurera l’irrigation dès le début du printemps.<BR>- En partie basse, le Ruisseau fait office de frontière avec le village voisin.<BR>- Sur le talus bordant le ruisseau, les chênes têtards ont produit des fagots.<BR>Ce paysage à taille humaine sera effacé par le remembrement.",
     "title": "Paysage Hivernal en 1950"
   },
